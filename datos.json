@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T22:34:08+00:00",
+ "generado": "2026-11-11T23:03:29+00:00",
  "fuentes": {
   "precios": "BYMA - API Market Data End of Day",
   "instrumentos": "BYMA - API Market Data Instruments",
@@ -76,87 +76,95 @@
   "fecha": "2026-11-11",
   "valor": 1547.9128
  },
+ "tamar": {
+  "2026-07-14": 22.625,
+  "2026-07-15": 22.625,
+  "2026-07-16": 22.625,
+  "2026-07-17": 22.875,
+  "2026-07-20": 22.6875,
+  "2026-07-21": 22.9375,
+  "2026-07-22": 22.9375,
+  "2026-07-23": 22.9375,
+  "2026-07-24": 22.6875,
+  "2026-07-27": 22.8125,
+  "2026-07-28": 22.875,
+  "2026-07-29": 22.375,
+  "2026-07-30": 22.875,
+  "2026-07-31": 23.3125,
+  "2026-08-03": 22.9375,
+  "2026-08-04": 23.125,
+  "2026-08-05": 22.875,
+  "2026-08-06": 23.25,
+  "2026-08-07": 23.375,
+  "2026-08-10": 23.3125,
+  "2026-08-11": 23.875,
+  "2026-08-12": 23.1875,
+  "2026-08-13": 24.1875,
+  "2026-08-14": 24.5625,
+  "2026-08-18": 24.5,
+  "2026-08-19": 25.1875,
+  "2026-08-20": 26.5,
+  "2026-08-21": 25.3125,
+  "2026-08-24": 25.0625,
+  "2026-08-25": 25.25,
+  "2026-08-26": 25.125,
+  "2026-08-27": 25.1875,
+  "2026-08-28": 24.625,
+  "2026-08-31": 24.6875,
+  "2026-09-01": 23.8125,
+  "2026-09-02": 24.5,
+  "2026-09-03": 24.25,
+  "2026-09-04": 24.0625,
+  "2026-09-07": 24.1875,
+  "2026-09-08": 24.0,
+  "2026-09-09": 23.5625,
+  "2026-09-10": 23.8125,
+  "2026-09-11": 23.4375,
+  "2026-09-14": 23.625,
+  "2026-09-15": 23.625,
+  "2026-09-16": 23.625,
+  "2026-09-17": 23.5625,
+  "2026-09-18": 23.25,
+  "2026-09-21": 23.5,
+  "2026-09-22": 23.625,
+  "2026-09-23": 23.6875,
+  "2026-09-24": 23.75,
+  "2026-09-25": 23.625,
+  "2026-09-28": 23.4375,
+  "2026-09-29": 24.3125,
+  "2026-09-30": 24.125,
+  "2026-10-01": 24.4375,
+  "2026-10-02": 24.5625,
+  "2026-10-05": 23.75,
+  "2026-10-06": 24.1875,
+  "2026-10-07": 24.0,
+  "2026-10-08": 24.125,
+  "2026-10-09": 24.0625,
+  "2026-10-13": 23.8125,
+  "2026-10-14": 24.5625,
+  "2026-10-15": 24.5,
+  "2026-10-16": 24.625,
+  "2026-10-19": 24.0,
+  "2026-10-20": 24.375,
+  "2026-10-21": 24.1875,
+  "2026-10-22": 24.5,
+  "2026-10-23": 24.375,
+  "2026-10-26": 24.125,
+  "2026-10-27": 24.5625,
+  "2026-10-28": 23.5625,
+  "2026-10-29": 24.125,
+  "2026-10-30": 24.0625,
+  "2026-11-02": 23.9375,
+  "2026-11-03": 24.0,
+  "2026-11-04": 23.5625,
+  "2026-11-05": 24.125
+ },
  "precios": {
   "T0": {
-   "S13N6": {
-    "px": 109.521,
-    "origen": "cierre",
-    "operaciones": 1481
-   },
    "DN6X": {
     "px": 154390.0,
     "origen": "cierre",
     "operaciones": 11
-   },
-   "X29E7": {
-    "px": 104.8,
-    "origen": "cierre",
-    "operaciones": 51
-   },
-   "S30N6": {
-    "px": 128.29,
-    "origen": "cierre",
-    "operaciones": 1686
-   },
-   "DM7X": {
-    "px": 151200.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "X30N6": {
-    "px": 130.242,
-    "origen": "cierre",
-    "operaciones": 32
-   },
-   "D31M7": {
-    "px": 152720.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "SE7X": {
-    "px": 106.221,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "D10Y7": {
-    "px": 160000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SN6X": {
-    "px": 128.3,
-    "origen": "cierre",
-    "operaciones": 24
-   },
-   "S29E7": {
-    "px": 106.18,
-    "origen": "cierre",
-    "operaciones": 303
-   },
-   "XN6X": {
-    "px": 130.08,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "D30N6": {
-    "px": 154180.0,
-    "origen": "cierre",
-    "operaciones": 518
-   },
-   "S2N6X": {
-    "px": 109.51,
-    "origen": "cierre",
-    "operaciones": 15
-   },
-   "SF7X": {
-    "px": 100.95,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "DE7X": {
-    "px": 153358.036,
-    "origen": "cierre",
-    "operaciones": 3
    },
    "XE7X": {
     "px": 104.729,
@@ -173,38 +181,83 @@
     "origen": "cierre",
     "operaciones": 351
    },
+   "DE7X": {
+    "px": 153358.036,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "SN6X": {
+    "px": 128.3,
+    "origen": "cierre",
+    "operaciones": 24
+   },
+   "S29E7": {
+    "px": 106.18,
+    "origen": "cierre",
+    "operaciones": 303
+   },
+   "SE7X": {
+    "px": 106.221,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "X29E7": {
+    "px": 104.8,
+    "origen": "cierre",
+    "operaciones": 51
+   },
+   "S30N6": {
+    "px": 128.29,
+    "origen": "cierre",
+    "operaciones": 1686
+   },
+   "DM7X": {
+    "px": 151200.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "D30N6": {
+    "px": 154180.0,
+    "origen": "cierre",
+    "operaciones": 518
+   },
+   "XN6X": {
+    "px": 130.08,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "X30N6": {
+    "px": 130.242,
+    "origen": "cierre",
+    "operaciones": 32
+   },
+   "D31M7": {
+    "px": 152720.0,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "S2N6X": {
+    "px": 109.51,
+    "origen": "cierre",
+    "operaciones": 15
+   },
+   "S13N6": {
+    "px": 109.521,
+    "origen": "cierre",
+    "operaciones": 1481
+   },
+   "SF7X": {
+    "px": 100.95,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "D10Y7": {
+    "px": 160000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "BRA27": {
     "px": 85.1752,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BBA7X": {
-    "px": 103.162,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BGS27": {
-    "px": 103.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BUE27": {
-    "px": 97.6247,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BAS7X": {
-    "px": 104.72,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "LBD6X": {
-    "px": 96.235,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BL2D6": {
-    "px": 102.88,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -218,18 +271,43 @@
     "origen": "cierre",
     "operaciones": 0
    },
+   "BUM7X": {
+    "px": 102.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BL2D6": {
+    "px": 102.88,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BGS27": {
+    "px": 103.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
    "B5N6X": {
     "px": 100.15,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "BBA7X": {
+    "px": 103.162,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "BGD6X": {
     "px": 104.86,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BUM7X": {
-    "px": 102.0,
+   "LBD6X": {
+    "px": 96.235,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BUE27": {
+    "px": 97.6247,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -238,78 +316,18 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMF8X": {
-    "px": 112.552,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "ERM33": {
-    "px": 158200.0,
+   "BAS7X": {
+    "px": 104.72,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BA37E": {
-    "px": 0.01,
+   "PMM7X": {
+    "px": 263.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "T30J7": {
-    "px": 132.98,
-    "origen": "cierre",
-    "operaciones": 104
-   },
-   "TY30X": {
-    "px": 113.783,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "TZXS8": {
-    "px": 99.15,
-    "origen": "cierre",
-    "operaciones": 32
-   },
-   "COD7X": {
-    "px": 145.72,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVD8X": {
-    "px": 120222.874,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TMG7X": {
-    "px": 123.0,
-    "origen": "cierre",
-    "operaciones": 11
-   },
-   "AL29": {
-    "px": 81470.0,
-    "origen": "cierre",
-    "operaciones": 482
-   },
-   "BA7DX": {
-    "px": 102999.434,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXY7": {
-    "px": 127.6,
-    "origen": "cierre",
-    "operaciones": 22
-   },
-   "T31Y7": {
-    "px": 131.4,
-    "origen": "cierre",
-    "operaciones": 514
-   },
-   "TZV7X": {
-    "px": 152631.901,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVPE": {
-    "px": 18650.0,
+   "PMM29": {
+    "px": 61000.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -318,73 +336,43 @@
     "origen": "cierre",
     "operaciones": 142
    },
+   "TXD8X": {
+    "px": 94.736,
+    "origen": "cierre",
+    "operaciones": 3
+   },
    "TZXD7": {
     "px": 293.0,
     "origen": "cierre",
     "operaciones": 97
    },
-   "TVE8X": {
-    "px": 144649.98,
+   "TXD6X": {
+    "px": 315.835,
     "origen": "cierre",
-    "operaciones": 7
+    "operaciones": 3
    },
-   "TXM8X": {
-    "px": 105.84,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "NDT11": {
-    "px": 0.01,
+   "COD7X": {
+    "px": 145.72,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXO7": {
-    "px": 102.75,
+   "GD41": {
+    "px": 102700.0,
     "origen": "cierre",
-    "operaciones": 242
-   },
-   "CO24D": {
-    "px": 47096.3068,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7X": {
-    "px": 232.7,
-    "origen": "cierre",
-    "operaciones": 11
-   },
-   "BPOB8": {
-    "px": 132400.0,
-    "origen": "cierre",
-    "operaciones": 80
-   },
-   "PMD26": {
-    "px": 85.5644,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 372
    },
    "TB27": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TY30P": {
-    "px": 113.85,
-    "origen": "cierre",
-    "operaciones": 242
-   },
-   "AL30X": {
-    "px": 81681.003,
-    "origen": "cierre",
-    "operaciones": 7
-   },
    "GD46": {
     "px": 94130.0,
     "origen": "cierre",
     "operaciones": 33
    },
-   "PAY0": {
-    "px": 0.01,
+   "PMA8X": {
+    "px": 115.9,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -403,198 +391,38 @@
     "origen": "cierre",
     "operaciones": 146
    },
-   "TXJ9X": {
-    "px": 93.639,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TXJ8X": {
-    "px": 103.4,
-    "origen": "cierre",
-    "operaciones": 7
-   },
    "TXMD9": {
     "px": 88.1,
     "origen": "cierre",
     "operaciones": 65
+   },
+   "AO29X": {
+    "px": 121115.301,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "TZX28": {
     "px": 365.55,
     "origen": "cierre",
     "operaciones": 389
    },
-   "AO28": {
-    "px": 134500.0,
-    "origen": "cierre",
-    "operaciones": 1293
-   },
-   "TZV27": {
-    "px": 151000.0,
-    "origen": "cierre",
-    "operaciones": 18
-   },
-   "GD35X": {
-    "px": 108804.11,
+   "TMF8X": {
+    "px": 112.552,
     "origen": "cierre",
     "operaciones": 1
    },
-   "CY27X": {
-    "px": 204.0,
+   "AN29": {
+    "px": 124000.0,
+    "origen": "cierre",
+    "operaciones": 275
+   },
+   "ERM33": {
+    "px": 158200.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXD9X": {
-    "px": 86.72864,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "GD38X": {
-    "px": 116500.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "T2D8X": {
-    "px": 95.7672845,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TXD7X": {
-    "px": 292.029,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "TMG8X": {
-    "px": 108.7932747,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "PARPX": {
-    "px": 35755.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "T15E7": {
-    "px": 154.5,
-    "origen": "cierre",
-    "operaciones": 296
-   },
-   "SFN7X": {
-    "px": 96.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXS7": {
-    "px": 113.65,
-    "origen": "cierre",
-    "operaciones": 68
-   },
-   "AE38X": {
-    "px": 106500.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BDC28": {
-    "px": 104.9,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "BB37D": {
-    "px": 102640.0,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "PMM7X": {
-    "px": 263.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7X": {
-    "px": 127.899703,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "C27DX": {
-    "px": 25000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL29X": {
-    "px": 80943.413,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "EM33X": {
-    "px": 157566.29,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PARP": {
-    "px": 32960.0,
-    "origen": "cierre",
-    "operaciones": 27
-   },
-   "CO35": {
-    "px": 155580.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CUAP": {
-    "px": 39355.0,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "BC37D": {
-    "px": 108500.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXD6": {
-    "px": 316.35,
-    "origen": "cierre",
-    "operaciones": 106
-   },
-   "TZVD8": {
-    "px": 117400.0,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "DICP": {
-    "px": 49115.0,
-    "origen": "cierre",
-    "operaciones": 229
-   },
-   "BC28X": {
-    "px": 106.7,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXMJ9": {
-    "px": 94.22,
-    "origen": "cierre",
-    "operaciones": 29
-   },
-   "TZV28": {
-    "px": 124730.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "CH24D": {
-    "px": 34917.0949,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD30": {
-    "px": 83430.0,
-    "origen": "cierre",
-    "operaciones": 1394
-   },
-   "AO29": {
-    "px": 121700.0,
-    "origen": "cierre",
-    "operaciones": 1001
-   },
-   "BPD7X": {
-    "px": 160076.436,
+   "AL41X": {
+    "px": 98751.5,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -603,18 +431,23 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "COY27": {
-    "px": 165.7868,
+   "T30J7": {
+    "px": 132.98,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 104
    },
-   "TY27P": {
-    "px": 0.01,
+   "TY30X": {
+    "px": 113.783,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 10
    },
-   "PM29X": {
-    "px": 79035.0,
+   "TZXS8": {
+    "px": 99.15,
+    "origen": "cierre",
+    "operaciones": 32
+   },
+   "PMD26": {
+    "px": 85.5644,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -623,370 +456,95 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXMJ8": {
-    "px": 107.9,
+   "TY30P": {
+    "px": 113.85,
     "origen": "cierre",
-    "operaciones": 36
+    "operaciones": 242
    },
-   "PMM29": {
-    "px": 61000.0,
+   "TXM8X": {
+    "px": 105.84,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 9
    },
-   "TXD8X": {
-    "px": 94.736,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TE7X": {
-    "px": 154.52,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TXD6X": {
-    "px": 315.835,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "GD41": {
-    "px": 102700.0,
-    "origen": "cierre",
-    "operaciones": 372
-   },
-   "PMA8X": {
-    "px": 115.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD35": {
-    "px": 109020.0,
-    "origen": "cierre",
-    "operaciones": 1021
-   },
-   "AL35X": {
-    "px": 100365.963,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "AO29X": {
-    "px": 121115.301,
+   "TVD8X": {
+    "px": 120222.874,
     "origen": "cierre",
     "operaciones": 1
    },
-   "BB7DX": {
-    "px": 104049.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29": {
-    "px": 124000.0,
-    "origen": "cierre",
-    "operaciones": 275
-   },
-   "TXA7X": {
-    "px": 130.5,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TFU27": {
+   "NDT11": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "GD30X": {
-    "px": 83660.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "JUS22": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXMD8": {
-    "px": 95.42,
-    "origen": "cierre",
-    "operaciones": 35
-   },
-   "NDT25": {
-    "px": 88000.0,
-    "origen": "cierre",
-    "operaciones": 37
-   },
-   "COD7": {
-    "px": 159.4737,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXM7": {
-    "px": 238.0,
-    "origen": "cierre",
-    "operaciones": 108
-   },
-   "TZX7X": {
-    "px": 419.438,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "NDG34": {
-    "px": 159590.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TMG27": {
-    "px": 122.65,
-    "origen": "cierre",
-    "operaciones": 41
-   },
-   "TVY0X": {
-    "px": 179.46,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPOA7": {
-    "px": 159610.0,
-    "origen": "cierre",
-    "operaciones": 19
-   },
-   "BDC36": {
-    "px": 157370.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TXS8X": {
-    "px": 98.541,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "AL41": {
-    "px": 94850.0,
-    "origen": "cierre",
-    "operaciones": 405
-   },
-   "GD38": {
-    "px": 115930.0,
-    "origen": "cierre",
-    "operaciones": 395
-   },
-   "TVPP": {
-    "px": 7.313,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "AL41X": {
-    "px": 98751.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMD6X": {
-    "px": 102.873,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO27": {
-    "px": 161260.0,
-    "origen": "cierre",
-    "operaciones": 1859
-   },
-   "TVPYX": {
-    "px": 4200.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXM8": {
-    "px": 105.3,
-    "origen": "cierre",
-    "operaciones": 20
-   },
-   "PBA8X": {
-    "px": 113.4935,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS7X": {
-    "px": 112.5,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "AL35": {
-    "px": 101200.0,
-    "origen": "cierre",
-    "operaciones": 1868
-   },
-   "PBA28": {
-    "px": 113.5,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "CO32": {
-    "px": 166000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "S24DX": {
-    "px": 76926.97,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPOD7": {
-    "px": 160460.0,
-    "origen": "cierre",
-    "operaciones": 259
-   },
-   "CO27D": {
-    "px": 114441.3125,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPAX": {
-    "px": 184.275,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPPX": {
-    "px": 10.905,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXY7X": {
-    "px": 128.7,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TML7X": {
-    "px": 112.685,
-    "origen": "cierre",
-    "operaciones": 14
-   },
-   "SJO5X": {
-    "px": 159885.874,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV8X": {
-    "px": 126992.25,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DIP0": {
-    "px": 49080.0,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TVPY": {
-    "px": 9200.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA37D": {
-    "px": 100380.0,
-    "origen": "cierre",
-    "operaciones": 157
-   },
-   "TXM9X": {
-    "px": 93.269,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO35X": {
-    "px": 142800.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMVE8": {
-    "px": 146740.0,
-    "origen": "cierre",
-    "operaciones": 495
-   },
-   "PUA6X": {
-    "px": 169592.877,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXO7X": {
-    "px": 104.334,
-    "origen": "cierre",
-    "operaciones": 6
    },
    "GD29X": {
     "px": 85055.856,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PMA28": {
-    "px": 112.0,
+   "CO24D": {
+    "px": 47096.3068,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "TXJ0X": {
-    "px": 84.942,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TX28": {
-    "px": 1444.5,
-    "origen": "cierre",
-    "operaciones": 200
-   },
-   "TMG28": {
-    "px": 109.65,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TY7X": {
-    "px": 131.092,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "PAP0": {
-    "px": 32900.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC36X": {
-    "px": 158386.74,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX28X": {
-    "px": 1813.655,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD46X": {
-    "px": 91470.288,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PUA36": {
-    "px": 161576.7852,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SJO35": {
-    "px": 158750.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX31X": {
-    "px": 1469.668,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD41X": {
-    "px": 101607.969,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXMJ0": {
-    "px": 84.94,
-    "origen": "cierre",
-    "operaciones": 119
    },
    "DICPX": {
     "px": 49294.641,
     "origen": "cierre",
     "operaciones": 2
+   },
+   "TXM7X": {
+    "px": 232.7,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "TVY0X": {
+    "px": 179.46,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41": {
+    "px": 94850.0,
+    "origen": "cierre",
+    "operaciones": 405
+   },
+   "BPOB8": {
+    "px": 132400.0,
+    "origen": "cierre",
+    "operaciones": 80
+   },
+   "TVPYX": {
+    "px": 4200.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TML7X": {
+    "px": 112.685,
+    "origen": "cierre",
+    "operaciones": 14
+   },
+   "BPOA7": {
+    "px": 159610.0,
+    "origen": "cierre",
+    "operaciones": 19
+   },
+   "BA37D": {
+    "px": 100380.0,
+    "origen": "cierre",
+    "operaciones": 157
+   },
+   "BDC36": {
+    "px": 157370.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TVPP": {
+    "px": 7.313,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "PMA28": {
+    "px": 112.0,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "AL30": {
     "px": 81360.0,
@@ -998,60 +556,140 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "AN29X": {
-    "px": 133316.4,
+   "PBA8X": {
+    "px": 113.4935,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "BPB7X": {
-    "px": 162799.848,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB8X": {
-    "px": 144003.831,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXA7": {
-    "px": 130.8,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "AO28X": {
-    "px": 135012.507,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TTD6X": {
-    "px": 177.41,
-    "origen": "cierre",
-    "operaciones": 4
    },
    "TML27": {
     "px": 113.2,
     "origen": "cierre",
     "operaciones": 33
    },
+   "AL35": {
+    "px": 101200.0,
+    "origen": "cierre",
+    "operaciones": 1868
+   },
+   "PBA28": {
+    "px": 113.5,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TA7X": {
+    "px": 139.908,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "TXMJ8": {
+    "px": 107.9,
+    "origen": "cierre",
+    "operaciones": 36
+   },
+   "S24DX": {
+    "px": 76926.97,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD38": {
+    "px": 115930.0,
+    "origen": "cierre",
+    "operaciones": 395
+   },
+   "SJO5X": {
+    "px": 159885.874,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV8X": {
+    "px": 126992.25,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0X": {
+    "px": 84.942,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "PAP0": {
+    "px": 32900.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM9X": {
+    "px": 93.269,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD30X": {
+    "px": 83660.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMVE8": {
+    "px": 146740.0,
+    "origen": "cierre",
+    "operaciones": 495
+   },
+   "TXMD8": {
+    "px": 95.42,
+    "origen": "cierre",
+    "operaciones": 35
+   },
+   "PUA6X": {
+    "px": 169592.877,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT25": {
+    "px": 88000.0,
+    "origen": "cierre",
+    "operaciones": 37
+   },
+   "NDG34": {
+    "px": 159590.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMG28": {
+    "px": 109.65,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "TY7X": {
+    "px": 131.092,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "AE38X": {
+    "px": 106500.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TZXA7": {
+    "px": 130.8,
+    "origen": "cierre",
+    "operaciones": 12
+   },
    "TZXD8": {
     "px": 89.58,
     "origen": "cierre",
     "operaciones": 8
-   },
-   "ERF25": {
-    "px": 57930.0,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "TZXM9": {
     "px": 93.01,
     "origen": "cierre",
     "operaciones": 50
    },
-   "TVY0": {
-    "px": 7000.0,
+   "AL29X": {
+    "px": 80943.413,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "PARP": {
+    "px": 32960.0,
+    "origen": "cierre",
+    "operaciones": 27
    },
    "BPA7X": {
     "px": 160033.3070619,
@@ -1063,38 +701,463 @@
     "origen": "cierre",
     "operaciones": 255
    },
-   "TA7X": {
-    "px": 139.908,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TMF28": {
-    "px": 111.8,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "BPOB7": {
     "px": 160180.0,
     "origen": "cierre",
     "operaciones": 243
    },
-   "TZX27": {
-    "px": 420.45,
+   "CUAP": {
+    "px": 39355.0,
     "origen": "cierre",
-    "operaciones": 81
-   },
-   "TVPA": {
-    "px": 2540.0,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 13
    },
    "BPA8X": {
     "px": 139500.0,
     "origen": "cierre",
     "operaciones": 0
    },
+   "TZVD8": {
+    "px": 117400.0,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "DICP": {
+    "px": 49115.0,
+    "origen": "cierre",
+    "operaciones": 229
+   },
+   "TTD26": {
+    "px": 176.85,
+    "origen": "cierre",
+    "operaciones": 71
+   },
+   "TZV28": {
+    "px": 124730.0,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "T30A7": {
+    "px": 139.55,
+    "origen": "cierre",
+    "operaciones": 420
+   },
+   "GD30": {
+    "px": 83430.0,
+    "origen": "cierre",
+    "operaciones": 1394
+   },
+   "AL30X": {
+    "px": 81681.003,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TXJ9X": {
+    "px": 93.639,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TVPPX": {
+    "px": 10.905,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF7X": {
+    "px": 127.899703,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TZXY7": {
+    "px": 127.6,
+    "origen": "cierre",
+    "operaciones": 22
+   },
+   "COY27": {
+    "px": 165.7868,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY27P": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXY7X": {
+    "px": 128.7,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "PM29X": {
+    "px": 79035.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7X": {
+    "px": 130.5,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TXJ8X": {
+    "px": 103.4,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TE7X": {
+    "px": 154.52,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "AO28": {
+    "px": 134500.0,
+    "origen": "cierre",
+    "operaciones": 1293
+   },
+   "GD35X": {
+    "px": 108804.11,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "T31Y7": {
+    "px": 131.4,
+    "origen": "cierre",
+    "operaciones": 514
+   },
+   "PAY0": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB7DX": {
+    "px": 104049.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPY": {
+    "px": 9200.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CY27X": {
+    "px": 204.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TFU27": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD38X": {
+    "px": 116500.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TZV7X": {
+    "px": 152631.901,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMG8X": {
+    "px": 108.7932747,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "PMD6X": {
+    "px": 102.873,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO32": {
+    "px": 166000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG7X": {
+    "px": 123.0,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "BPOD7": {
+    "px": 160460.0,
+    "origen": "cierre",
+    "operaciones": 259
+   },
+   "SFN7X": {
+    "px": 96.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "C27DX": {
+    "px": 25000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DIP0": {
+    "px": 49080.0,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "JUS22": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BA37E": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO27D": {
+    "px": 114441.3125,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXS7": {
+    "px": 113.65,
+    "origen": "cierre",
+    "operaciones": 68
+   },
+   "CO35X": {
+    "px": 142800.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36X": {
+    "px": 158386.74,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "EM33X": {
+    "px": 157566.29,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BDC28": {
+    "px": 104.9,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "GD46X": {
+    "px": 91470.288,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO35": {
+    "px": 158750.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB37D": {
+    "px": 102640.0,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "TVPAX": {
+    "px": 184.275,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31X": {
+    "px": 1469.668,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TX28": {
+    "px": 1444.5,
+    "origen": "cierre",
+    "operaciones": 200
+   },
+   "GD41X": {
+    "px": 101607.969,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD35": {
+    "px": 109020.0,
+    "origen": "cierre",
+    "operaciones": 1021
+   },
+   "CO35": {
+    "px": 155580.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL35X": {
+    "px": 100365.963,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TVY0": {
+    "px": 7000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXD6": {
+    "px": 316.35,
+    "origen": "cierre",
+    "operaciones": 106
+   },
+   "AN29X": {
+    "px": 133316.4,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC28X": {
+    "px": 106.7,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXMJ9": {
+    "px": 94.22,
+    "origen": "cierre",
+    "operaciones": 29
+   },
+   "BPB8X": {
+    "px": 144003.831,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CH24D": {
+    "px": 34917.0949,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV27": {
+    "px": 151000.0,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "COD7": {
+    "px": 159.4737,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO29": {
+    "px": 121700.0,
+    "origen": "cierre",
+    "operaciones": 1001
+   },
+   "TMF28": {
+    "px": 111.8,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TVPE": {
+    "px": 18650.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPD7X": {
+    "px": 160076.436,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD9X": {
+    "px": 86.72864,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "TZX27": {
+    "px": 420.45,
+    "origen": "cierre",
+    "operaciones": 81
+   },
+   "AO28X": {
+    "px": 135012.507,
+    "origen": "cierre",
+    "operaciones": 1
+   },
    "TZX8X": {
     "px": 364.973899,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "T2D8X": {
+    "px": 95.7672845,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TVE8X": {
+    "px": 144649.98,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "CEDI": {
+    "px": 19000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX28X": {
+    "px": 1813.655,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7X": {
+    "px": 133.105,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD7X": {
+    "px": 292.029,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "TXO7X": {
+    "px": 104.334,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "TZXM7": {
+    "px": 238.0,
+    "origen": "cierre",
+    "operaciones": 108
+   },
+   "PUA36": {
+    "px": 161576.7852,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC37D": {
+    "px": 108500.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXO7": {
+    "px": 102.75,
+    "origen": "cierre",
+    "operaciones": 242
+   },
+   "BA7DX": {
+    "px": 102999.434,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX7X": {
+    "px": 419.438,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "ERF25": {
+    "px": 57930.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PARPX": {
+    "px": 35755.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7X": {
+    "px": 162799.848,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPA": {
+    "px": 2540.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TTD6X": {
+    "px": 177.41,
     "origen": "cierre",
     "operaciones": 4
    },
@@ -1103,50 +1166,70 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "PAE0": {
-    "px": 0.01,
+   "T15E7": {
+    "px": 154.5,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 296
    },
-   "TTD26": {
-    "px": 176.85,
+   "AL29": {
+    "px": 81470.0,
     "origen": "cierre",
-    "operaciones": 71
-   },
-   "CEDI": {
-    "px": 19000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "T30A7": {
-    "px": 139.55,
-    "origen": "cierre",
-    "operaciones": 420
-   },
-   "TJ7X": {
-    "px": 133.105,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX31": {
-    "px": 1478.0,
-    "origen": "cierre",
-    "operaciones": 135
+    "operaciones": 482
    },
    "SA24D": {
     "px": 62220.0,
     "origen": "cierre",
     "operaciones": 5
    },
-   "BPOA8": {
-    "px": 136180.0,
-    "origen": "cierre",
-    "operaciones": 21
-   },
    "AO27X": {
     "px": 161000.0,
     "origen": "cierre",
     "operaciones": 3
+   },
+   "TMG27": {
+    "px": 122.65,
+    "origen": "cierre",
+    "operaciones": 41
+   },
+   "TXMJ0": {
+    "px": 84.94,
+    "origen": "cierre",
+    "operaciones": 119
+   },
+   "TXS8X": {
+    "px": 98.541,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "PAE0": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27": {
+    "px": 161260.0,
+    "origen": "cierre",
+    "operaciones": 1859
+   },
+   "TXS7X": {
+    "px": 112.5,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TZXM8": {
+    "px": 105.3,
+    "origen": "cierre",
+    "operaciones": 20
+   },
+   "TX31": {
+    "px": 1478.0,
+    "origen": "cierre",
+    "operaciones": 135
+   },
+   "BPOA8": {
+    "px": 136180.0,
+    "origen": "cierre",
+    "operaciones": 21
    }
   },
   "T1": {
@@ -1155,15 +1238,50 @@
     "origen": "cierre",
     "operaciones": 200
    },
-   "X29E7": {
-    "px": 105.2,
+   "D15E7": {
+    "px": 153300.0,
     "origen": "cierre",
-    "operaciones": 242
+    "operaciones": 132
+   },
+   "D31M7": {
+    "px": 152300.0,
+    "origen": "cierre",
+    "operaciones": 86
+   },
+   "DE7X": {
+    "px": 153180.8566944,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "SF7X": {
+    "px": 100.051,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "D30N6": {
+    "px": 154210.0,
+    "origen": "cierre",
+    "operaciones": 719
+   },
+   "S26F7": {
+    "px": 100.94,
+    "origen": "cierre",
+    "operaciones": 582
+   },
+   "SN6X": {
+    "px": 128.3595868,
+    "origen": "cierre",
+    "operaciones": 24
    },
    "DN6X": {
     "px": 154365.368,
     "origen": "cierre",
     "operaciones": 10
+   },
+   "D10Y7": {
+    "px": 160000.0,
+    "origen": "cierre",
+    "operaciones": 5
    },
    "S13N6": {
     "px": 109.58,
@@ -1175,108 +1293,43 @@
     "origen": "cierre",
     "operaciones": 2925
    },
+   "X29E7": {
+    "px": 105.2,
+    "origen": "cierre",
+    "operaciones": 242
+   },
    "DM7X": {
     "px": 151276.636,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "S2N6X": {
-    "px": 109.57,
-    "origen": "cierre",
-    "operaciones": 22
-   },
-   "SN6X": {
-    "px": 128.3595868,
-    "origen": "cierre",
-    "operaciones": 24
-   },
-   "DE7X": {
-    "px": 153180.8566944,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "D10Y7": {
-    "px": 160000.0,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "D31M7": {
-    "px": 152300.0,
-    "origen": "cierre",
-    "operaciones": 86
-   },
-   "XE7X": {
-    "px": 104.795,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "S26F7": {
-    "px": 100.94,
-    "origen": "cierre",
-    "operaciones": 582
-   },
-   "D30N6": {
-    "px": 154210.0,
-    "origen": "cierre",
-    "operaciones": 719
-   },
-   "SF7X": {
-    "px": 100.051,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "S29E7": {
-    "px": 106.1,
-    "origen": "cierre",
-    "operaciones": 854
-   },
-   "SE7X": {
-    "px": 106.288,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "D15E7": {
-    "px": 153300.0,
-    "origen": "cierre",
-    "operaciones": 132
    },
    "XN6X": {
     "px": 130.23,
     "origen": "cierre",
     "operaciones": 6
    },
-   "LBN6X": {
-    "px": 98.85,
+   "S2N6X": {
+    "px": 109.57,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 22
    },
-   "BAS27": {
-    "px": 102.0,
+   "XE7X": {
+    "px": 104.795,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 7
    },
-   "LBD26": {
-    "px": 96.85,
+   "SE7X": {
+    "px": 106.288,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 2
    },
-   "BLN26": {
-    "px": 103.25,
+   "S29E7": {
+    "px": 106.1,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 854
    },
-   "BUM27": {
-    "px": 91.0642,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BUE27": {
-    "px": 99.3447,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BBA27": {
-    "px": 106.0,
+   "BU2M7": {
+    "px": 103.7,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1285,8 +1338,8 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BL2D6": {
-    "px": 102.322,
+   "BBY27": {
+    "px": 100.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1295,33 +1348,18 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BBA7X": {
-    "px": 103.227,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "BRA27": {
     "px": 85.6752,
     "origen": "cierre",
     "operaciones": 0
    },
-   "LBN26": {
-    "px": 99.46,
+   "BGS27": {
+    "px": 107.0,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 66
    },
    "BBD26": {
     "px": 105.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BAS7X": {
-    "px": 104.37,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "XBN6X": {
-    "px": 111.56,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1330,8 +1368,38 @@
     "origen": "cierre",
     "operaciones": 0
    },
+   "XBN6X": {
+    "px": 111.56,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BUM27": {
+    "px": 91.0642,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BAS7X": {
+    "px": 104.37,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BLN26": {
+    "px": 103.25,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "BBN6X": {
     "px": 102.79,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "LBD26": {
+    "px": 96.85,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BL2D6": {
+    "px": 102.322,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1350,213 +1418,73 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BU4N6": {
-    "px": 104.3,
+   "BAS27": {
+    "px": 102.0,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "BU2M7": {
-    "px": 103.7,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BBY27": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 3
    },
    "B5N6X": {
     "px": 102.972,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BGS27": {
-    "px": 107.0,
-    "origen": "cierre",
-    "operaciones": 66
-   },
-   "AE38": {
-    "px": 106600.0,
-    "origen": "cierre",
-    "operaciones": 3027
-   },
-   "BA37E": {
-    "px": 0.01,
+   "LBN6X": {
+    "px": 98.85,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMG8X": {
-    "px": 108.3402028,
+   "BUE27": {
+    "px": 99.3447,
     "origen": "cierre",
-    "operaciones": 10
+    "operaciones": 0
    },
-   "GD35X": {
-    "px": 108868.2,
+   "BU4N6": {
+    "px": 104.3,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BBA7X": {
+    "px": 103.227,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TXM7X": {
-    "px": 232.845,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "PBA28": {
-    "px": 112.95,
-    "origen": "cierre",
-    "operaciones": 21
-   },
-   "TXM9X": {
-    "px": 91.75,
+   "LBN26": {
+    "px": 99.46,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BC36X": {
-    "px": 158030.0,
+   "BBA27": {
+    "px": 106.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PAP0": {
-    "px": 33995.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TMG28": {
-    "px": 109.65,
-    "origen": "cierre",
-    "operaciones": 193
-   },
-   "BPOA7": {
-    "px": 160800.0,
-    "origen": "cierre",
-    "operaciones": 106
-   },
-   "TXMD9": {
-    "px": 88.07,
-    "origen": "cierre",
-    "operaciones": 349
-   },
-   "AN29": {
-    "px": 127300.0,
-    "origen": "cierre",
-    "operaciones": 1316
-   },
-   "TZXD6": {
-    "px": 316.75,
-    "origen": "cierre",
-    "operaciones": 520
-   },
-   "TXS8X": {
-    "px": 98.595,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "TZXM7": {
-    "px": 236.35,
-    "origen": "cierre",
-    "operaciones": 500
-   },
-   "AL35": {
-    "px": 101660.0,
-    "origen": "cierre",
-    "operaciones": 3928
-   },
-   "TXS7X": {
-    "px": 113.278,
-    "origen": "cierre",
-    "operaciones": 16
-   },
-   "ERM33": {
-    "px": 155000.0,
+   "GE38X": {
+    "px": 115727.4,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "TZXM9": {
-    "px": 93.65,
-    "origen": "cierre",
-    "operaciones": 135
-   },
-   "PMA28": {
-    "px": 112.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TTD6X": {
-    "px": 177.41,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "TVE8X": {
-    "px": 145794.6742927,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "NDT25": {
-    "px": 86920.0,
-    "origen": "cierre",
-    "operaciones": 123
-   },
-   "AO29": {
-    "px": 122180.0,
-    "origen": "cierre",
-    "operaciones": 3471
-   },
-   "TA7X": {
-    "px": 139.727,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "T15E7": {
-    "px": 154.505,
-    "origen": "cierre",
-    "operaciones": 1043
-   },
-   "TMF8X": {
-    "px": 112.626,
-    "origen": "cierre",
-    "operaciones": 1
    },
    "T2D8X": {
     "px": 95.7996759,
     "origen": "cierre",
     "operaciones": 5
    },
-   "TZXS8": {
-    "px": 98.9,
+   "TFU27": {
+    "px": 32000.0,
     "origen": "cierre",
-    "operaciones": 267
+    "operaciones": 0
    },
    "TXD8X": {
     "px": 95.3,
     "origen": "cierre",
     "operaciones": 7
    },
-   "TY30P": {
-    "px": 114.0,
-    "origen": "cierre",
-    "operaciones": 483
-   },
-   "SA24D": {
-    "px": 62550.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "SFN27": {
-    "px": 82.4,
+   "NDT11": {
+    "px": 24263.503,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPC7X": {
-    "px": 161000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXMD8": {
-    "px": 95.4,
-    "origen": "cierre",
-    "operaciones": 295
-   },
-   "BPD7X": {
-    "px": 161750.0,
+   "SFN7X": {
+    "px": 101.67,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1565,315 +1493,30 @@
     "origen": "cierre",
     "operaciones": 324
    },
-   "GE38X": {
-    "px": 115727.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXA7": {
-    "px": 130.6,
-    "origen": "cierre",
-    "operaciones": 69
-   },
-   "PMD26": {
-    "px": 103.05,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "JUS22": {
-    "px": 12771.9769,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVY0": {
-    "px": 8000.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "AO28": {
-    "px": 134590.0,
-    "origen": "cierre",
-    "operaciones": 4504
-   },
-   "GD46": {
-    "px": 94300.0,
-    "origen": "cierre",
-    "operaciones": 182
-   },
-   "TXA7X": {
-    "px": 130.577,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "CUAPX": {
-    "px": 45375.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL35X": {
-    "px": 100423.707,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TZX28": {
-    "px": 365.0,
-    "origen": "cierre",
-    "operaciones": 1276
-   },
-   "AO27": {
-    "px": 161250.0,
-    "origen": "cierre",
-    "operaciones": 3853
-   },
-   "TMF28": {
-    "px": 113.5,
-    "origen": "cierre",
-    "operaciones": 16
-   },
-   "TZXS7": {
-    "px": 113.6,
-    "origen": "cierre",
-    "operaciones": 509
-   },
-   "GD30X": {
-    "px": 83719.594,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD35": {
-    "px": 108940.0,
-    "origen": "cierre",
-    "operaciones": 3241
-   },
-   "PMM7X": {
-    "px": 272.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY7X": {
-    "px": 130.7,
-    "origen": "cierre",
-    "operaciones": 11
-   },
-   "BDC28": {
-    "px": 105.8,
-    "origen": "cierre",
-    "operaciones": 33
-   },
-   "TZXD8": {
-    "px": 88.76,
-    "origen": "cierre",
-    "operaciones": 26
-   },
-   "CO35": {
-    "px": 152570.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "GD29X": {
-    "px": 85107.123,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMD6X": {
-    "px": 102.935,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "COY27": {
-    "px": 232.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX31X": {
-    "px": 1470.594,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BB7DX": {
-    "px": 106496.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVY0X": {
-    "px": 179.95,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC37D": {
-    "px": 101010.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TZVD8": {
-    "px": 117500.0,
-    "origen": "cierre",
-    "operaciones": 27
-   },
-   "TMVE8": {
-    "px": 146900.0,
-    "origen": "cierre",
-    "operaciones": 1036
-   },
-   "TZX8X": {
-    "px": 365.064,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "C27DX": {
-    "px": 39932.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD41X": {
-    "px": 102397.5,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TZV7X": {
-    "px": 152732.262,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BPOD7": {
-    "px": 160500.0,
-    "origen": "cierre",
-    "operaciones": 895
-   },
-   "SJO5X": {
-    "px": 156700.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXY7": {
-    "px": 128.75,
-    "origen": "cierre",
-    "operaciones": 114
-   },
-   "GD38": {
-    "px": 116270.0,
-    "origen": "cierre",
-    "operaciones": 1615
-   },
-   "CUAP": {
-    "px": 39505.0,
-    "origen": "cierre",
-    "operaciones": 40
-   },
-   "PM29X": {
-    "px": 71650.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DIP0": {
-    "px": 49120.0,
-    "origen": "cierre",
-    "operaciones": 25
-   },
-   "AL29X": {
-    "px": 82407.048,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM8X": {
-    "px": 105.852875,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "GD29": {
-    "px": 84020.0,
-    "origen": "cierre",
-    "operaciones": 437
-   },
-   "AL41": {
-    "px": 95000.0,
-    "origen": "cierre",
-    "operaciones": 1193
-   },
-   "TZXD7": {
-    "px": 292.55,
-    "origen": "cierre",
-    "operaciones": 374
-   },
-   "BPOB7": {
-    "px": 159700.0,
-    "origen": "cierre",
-    "operaciones": 436
-   },
-   "AE38X": {
-    "px": 106552.52,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TMG7X": {
-    "px": 123.081,
-    "origen": "cierre",
-    "operaciones": 11
-   },
-   "AO28X": {
-    "px": 135101.283,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CEDI": {
-    "px": 120000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TFU27": {
-    "px": 32000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT11": {
-    "px": 24263.503,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPP": {
-    "px": 6.7,
-    "origen": "cierre",
-    "operaciones": 51
-   },
-   "SFN7X": {
-    "px": 101.67,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CH24D": {
-    "px": 29754.62,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "T31Y7": {
-    "px": 131.49,
-    "origen": "cierre",
-    "operaciones": 1244
-   },
    "TXJ0X": {
     "px": 85.1,
     "origen": "cierre",
     "operaciones": 14
-   },
-   "AN29X": {
-    "px": 130173.06,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "GD46X": {
     "px": 94484.72,
     "origen": "cierre",
     "operaciones": 1
    },
+   "PMD26": {
+    "px": 103.05,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "AL29": {
     "px": 81500.0,
     "origen": "cierre",
     "operaciones": 1474
    },
-   "BPA8X": {
-    "px": 139572.616,
+   "TVY0": {
+    "px": 8000.0,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 1
    },
    "TJ7X": {
     "px": 133.167,
@@ -1890,28 +1533,18 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "BPOB8": {
-    "px": 134730.0,
-    "origen": "cierre",
-    "operaciones": 219
-   },
    "NDG34": {
     "px": 159990.0,
     "origen": "cierre",
     "operaciones": 6
-   },
-   "TU27X": {
-    "px": 59000.0,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "AO29X": {
     "px": 122661.5,
     "origen": "cierre",
     "operaciones": 2
    },
-   "AL41X": {
-    "px": 99720.0,
+   "CUAPX": {
+    "px": 45375.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -1920,123 +1553,98 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "PUA6X": {
-    "px": 172362.1363333,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "TVPAX": {
     "px": 3035.0,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "SJO35": {
-    "px": 157500.0,
-    "origen": "cierre",
-    "operaciones": 18
-   },
-   "TML27": {
-    "px": 113.4,
-    "origen": "cierre",
-    "operaciones": 154
-   },
-   "TXJ9X": {
-    "px": 93.95,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "TMF27": {
-    "px": 128.05,
-    "origen": "cierre",
-    "operaciones": 735
-   },
-   "BC28X": {
-    "px": 106.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX7X": {
-    "px": 419.553,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TMF7X": {
-    "px": 128.0666667,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TB27": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL30X": {
-    "px": 80936.64,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "TXMJ8": {
-    "px": 103.15,
-    "origen": "cierre",
-    "operaciones": 216
-   },
-   "TY30X": {
-    "px": 113.836,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "T30A7": {
-    "px": 139.8,
-    "origen": "cierre",
-    "operaciones": 1165
-   },
-   "T30J7": {
-    "px": 132.649,
-    "origen": "cierre",
-    "operaciones": 296
-   },
-   "BAM7X": {
-    "px": 51.873,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV8X": {
-    "px": 126996.45,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CY27X": {
-    "px": 231.15,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ8X": {
-    "px": 103.464,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "PBM28": {
-    "px": 85.2173,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BAM27": {
-    "px": 51.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD9X": {
-    "px": 88.25,
-    "origen": "cierre",
-    "operaciones": 8
    },
    "S24DX": {
     "px": 85300.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PMM27": {
-    "px": 86.5568,
+   "BA37E": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DIP0": {
+    "px": 49120.0,
+    "origen": "cierre",
+    "operaciones": 25
+   },
+   "GD35X": {
+    "px": 108868.2,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AL29X": {
+    "px": 82407.048,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM8X": {
+    "px": 105.852875,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "GD29": {
+    "px": 84020.0,
+    "origen": "cierre",
+    "operaciones": 437
+   },
+   "GD46": {
+    "px": 94300.0,
+    "origen": "cierre",
+    "operaciones": 182
+   },
+   "TZXD7": {
+    "px": 292.55,
+    "origen": "cierre",
+    "operaciones": 374
+   },
+   "TMG7X": {
+    "px": 123.081,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "SA24D": {
+    "px": 62550.0,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "CO27D": {
+    "px": 140346.1656,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7X": {
+    "px": 161000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXM8": {
+    "px": 105.35,
+    "origen": "cierre",
+    "operaciones": 65
+   },
+   "TML27": {
+    "px": 113.4,
+    "origen": "cierre",
+    "operaciones": 154
+   },
+   "TMG27": {
+    "px": 122.7,
+    "origen": "cierre",
+    "operaciones": 219
+   },
+   "TXD9X": {
+    "px": 88.25,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "TY27X": {
+    "px": 111.6,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2045,18 +1653,8 @@
     "origen": "cierre",
     "operaciones": 14
    },
-   "TMG27": {
-    "px": 122.7,
-    "origen": "cierre",
-    "operaciones": 219
-   },
-   "TX28X": {
-    "px": 1823.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO27D": {
-    "px": 140346.1656,
+   "CO35X": {
+    "px": 144474.265,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2065,10 +1663,15 @@
     "origen": "cierre",
     "operaciones": 1098
    },
-   "TZX27": {
-    "px": 420.75,
+   "TXMD8": {
+    "px": 95.4,
     "origen": "cierre",
-    "operaciones": 453
+    "operaciones": 295
+   },
+   "BPD7X": {
+    "px": 161750.0,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "PUL26": {
     "px": 39961.8377,
@@ -2080,6 +1683,11 @@
     "origen": "cierre",
     "operaciones": 2
    },
+   "TZX27": {
+    "px": 420.75,
+    "origen": "cierre",
+    "operaciones": 453
+   },
    "TY27P": {
     "px": 0.01,
     "origen": "cierre",
@@ -2090,18 +1698,13 @@
     "origen": "cierre",
     "operaciones": 89976
    },
-   "TZV28": {
-    "px": 124840.0,
-    "origen": "cierre",
-    "operaciones": 54
-   },
    "PMM29": {
     "px": 61590.0,
     "origen": "cierre",
     "operaciones": 3
    },
-   "COD7": {
-    "px": 179.75,
+   "TVPYX": {
+    "px": 4202.946,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2115,68 +1718,368 @@
     "origen": "cierre",
     "operaciones": 2356
    },
+   "CO24X": {
+    "px": 132367.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "BPOC7": {
     "px": 160400.0,
     "origen": "cierre",
     "operaciones": 785
    },
-   "PAY0": {
-    "px": 114000.0,
+   "BC28X": {
+    "px": 106.6,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TVPYX": {
-    "px": 4202.946,
+   "TXMJ8": {
+    "px": 103.15,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY27X": {
-    "px": 111.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE41": {
-    "px": 105500.0,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 216
    },
    "CO32": {
     "px": 164940.0,
     "origen": "cierre",
     "operaciones": 7
    },
+   "T30A7": {
+    "px": 139.8,
+    "origen": "cierre",
+    "operaciones": 1165
+   },
    "TXMJ9": {
     "px": 94.4,
     "origen": "cierre",
     "operaciones": 401
    },
-   "BPB8X": {
-    "px": 141832.0,
+   "BAM7X": {
+    "px": 51.873,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "GD38X": {
-    "px": 116557.452,
-    "origen": "cierre",
-    "operaciones": 1
    },
    "TTD26": {
     "px": 176.84,
     "origen": "cierre",
     "operaciones": 214
    },
-   "AO27X": {
-    "px": 161079.397,
+   "TZV8X": {
+    "px": 126996.45,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 0
    },
    "DICP": {
     "px": 49130.0,
     "origen": "cierre",
     "operaciones": 711
    },
-   "NDT5X": {
-    "px": 98848.555,
+   "PBM28": {
+    "px": 85.2173,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD41": {
+    "px": 102140.0,
+    "origen": "cierre",
+    "operaciones": 1118
+   },
+   "GD29X": {
+    "px": 85107.123,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PMD6X": {
+    "px": 102.935,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TE7X": {
+    "px": 154.596,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "COY27": {
+    "px": 232.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31X": {
+    "px": 1470.594,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TVY0X": {
+    "px": 179.95,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZVD8": {
+    "px": 117500.0,
+    "origen": "cierre",
+    "operaciones": 27
+   },
+   "PAE0": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "C27DX": {
+    "px": 39932.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB37E": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX28X": {
+    "px": 1823.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7X": {
+    "px": 130.577,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TZXA7": {
+    "px": 130.6,
+    "origen": "cierre",
+    "operaciones": 69
+   },
+   "BPOD7": {
+    "px": 160500.0,
+    "origen": "cierre",
+    "operaciones": 895
+   },
+   "AO28X": {
+    "px": 135101.283,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD38": {
+    "px": 116270.0,
+    "origen": "cierre",
+    "operaciones": 1615
+   },
+   "PM29X": {
+    "px": 71650.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "JUS22": {
+    "px": 12771.9769,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL35X": {
+    "px": 100423.707,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "CEDI": {
+    "px": 120000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41": {
+    "px": 95000.0,
+    "origen": "cierre",
+    "operaciones": 1193
+   },
+   "PAP0": {
+    "px": 33995.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BPOB7": {
+    "px": 159700.0,
+    "origen": "cierre",
+    "operaciones": 436
+   },
+   "TZX28": {
+    "px": 365.0,
+    "origen": "cierre",
+    "operaciones": 1276
+   },
+   "TU27X": {
+    "px": 59000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41X": {
+    "px": 99720.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PUA6X": {
+    "px": 172362.1363333,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27": {
+    "px": 161250.0,
+    "origen": "cierre",
+    "operaciones": 3853
+   },
+   "SJO35": {
+    "px": 157500.0,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "TMF28": {
+    "px": 113.5,
+    "origen": "cierre",
+    "operaciones": 16
+   },
+   "TVPP": {
+    "px": 6.7,
+    "origen": "cierre",
+    "operaciones": 51
+   },
+   "AO28": {
+    "px": 134590.0,
+    "origen": "cierre",
+    "operaciones": 4504
+   },
+   "GD30X": {
+    "px": 83719.594,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXJ9X": {
+    "px": 93.95,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "GE41": {
+    "px": 105500.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CH24D": {
+    "px": 29754.62,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "T15E7": {
+    "px": 154.505,
+    "origen": "cierre",
+    "operaciones": 1043
+   },
+   "GD35": {
+    "px": 108940.0,
+    "origen": "cierre",
+    "operaciones": 3241
+   },
+   "AE38": {
+    "px": 106600.0,
+    "origen": "cierre",
+    "operaciones": 3027
+   },
+   "TMF27": {
+    "px": 128.05,
+    "origen": "cierre",
+    "operaciones": 735
+   },
+   "PMM7X": {
+    "px": 272.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV28": {
+    "px": 124840.0,
+    "origen": "cierre",
+    "operaciones": 54
+   },
+   "BPB8X": {
+    "px": 141832.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "T31Y7": {
+    "px": 131.49,
+    "origen": "cierre",
+    "operaciones": 1244
+   },
+   "BDC28": {
+    "px": 105.8,
+    "origen": "cierre",
+    "operaciones": 33
+   },
+   "AN29X": {
+    "px": 130173.06,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB7DX": {
+    "px": 106496.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27X": {
+    "px": 161079.397,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "CO35": {
+    "px": 152570.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "PARP": {
+    "px": 33050.0,
+    "origen": "cierre",
+    "operaciones": 92
+   },
+   "TMG8X": {
+    "px": 108.3402028,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "BPA8X": {
+    "px": 139572.616,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX7X": {
+    "px": 419.553,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TVPE": {
+    "px": 18750.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM7X": {
+    "px": 232.845,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "TMF7X": {
+    "px": 128.0666667,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "AN29": {
+    "px": 127300.0,
+    "origen": "cierre",
+    "operaciones": 1316
+   },
+   "BA37D": {
+    "px": 99900.0,
+    "origen": "cierre",
+    "operaciones": 434
+   },
+   "COD7": {
+    "px": 179.75,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TB27": {
+    "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2185,35 +2088,235 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "PARP": {
-    "px": 33050.0,
-    "origen": "cierre",
-    "operaciones": 92
-   },
-   "CO24X": {
-    "px": 132367.0,
+   "PAY0": {
+    "px": 114000.0,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "PBA28": {
+    "px": 112.95,
+    "origen": "cierre",
+    "operaciones": 21
+   },
+   "GD38X": {
+    "px": 116557.452,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD41X": {
+    "px": 102397.5,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "AL30X": {
+    "px": 80936.64,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TVPA": {
+    "px": 2266.0,
+    "origen": "cierre",
+    "operaciones": 15
+   },
+   "BPOB8": {
+    "px": 134730.0,
+    "origen": "cierre",
+    "operaciones": 219
+   },
+   "TXM9X": {
+    "px": 91.75,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PARPX": {
+    "px": 37325.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV7X": {
+    "px": 152732.262,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "PMA8X": {
+    "px": 114.2357143,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF8X": {
+    "px": 112.626,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BC37D": {
+    "px": 101010.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TXS8X": {
+    "px": 98.595,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "SJO5X": {
+    "px": 156700.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE29": {
+    "px": 71731.392,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXY7": {
+    "px": 128.75,
+    "origen": "cierre",
+    "operaciones": 114
+   },
+   "CUAP": {
+    "px": 39505.0,
+    "origen": "cierre",
+    "operaciones": 40
+   },
+   "TZXS8": {
+    "px": 98.9,
+    "origen": "cierre",
+    "operaciones": 267
+   },
+   "BC36X": {
+    "px": 158030.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG28": {
+    "px": 109.65,
+    "origen": "cierre",
+    "operaciones": 193
+   },
+   "TMVE8": {
+    "px": 146900.0,
+    "origen": "cierre",
+    "operaciones": 1036
+   },
+   "TXS7X": {
+    "px": 113.278,
+    "origen": "cierre",
+    "operaciones": 16
+   },
+   "TY30X": {
+    "px": 113.836,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "BPOA7": {
+    "px": 160800.0,
+    "origen": "cierre",
+    "operaciones": 106
    },
    "TXY7X": {
     "px": 128.85,
     "origen": "cierre",
     "operaciones": 4
    },
+   "TXMD9": {
+    "px": 88.07,
+    "origen": "cierre",
+    "operaciones": 349
+   },
+   "TY30P": {
+    "px": 114.0,
+    "origen": "cierre",
+    "operaciones": 483
+   },
+   "T30J7": {
+    "px": 132.649,
+    "origen": "cierre",
+    "operaciones": 296
+   },
+   "TZXD6": {
+    "px": 316.75,
+    "origen": "cierre",
+    "operaciones": 520
+   },
+   "TZXM7": {
+    "px": 236.35,
+    "origen": "cierre",
+    "operaciones": 500
+   },
+   "TZX8X": {
+    "px": 365.064,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "SFN27": {
+    "px": 82.4,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL35": {
+    "px": 101660.0,
+    "origen": "cierre",
+    "operaciones": 3928
+   },
+   "ERM33": {
+    "px": 155000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PMA28": {
+    "px": 112.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXM9": {
+    "px": 93.65,
+    "origen": "cierre",
+    "operaciones": 135
+   },
+   "NDT5X": {
+    "px": 98848.555,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TTD6X": {
+    "px": 177.41,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "TVE8X": {
+    "px": 145794.6742927,
+    "origen": "cierre",
+    "operaciones": 13
+   },
    "GE38": {
     "px": 36988.7904,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TVPE": {
-    "px": 18750.0,
+   "TX31": {
+    "px": 1471.0,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 739
+   },
+   "TZXS7": {
+    "px": 113.6,
+    "origen": "cierre",
+    "operaciones": 509
    },
    "TZV27": {
     "px": 151500.0,
     "origen": "cierre",
     "operaciones": 80
+   },
+   "PAY5": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CY27X": {
+    "px": 231.15,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "TXMJ0": {
     "px": 85.0,
@@ -2225,103 +2328,8 @@
     "origen": "cierre",
     "operaciones": 4
    },
-   "COD7X": {
-    "px": 181.32,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD7X": {
-    "px": 292.189,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "TZXM8": {
-    "px": 105.35,
-    "origen": "cierre",
-    "operaciones": 65
-   },
-   "TVPA": {
-    "px": 2266.0,
-    "origen": "cierre",
-    "operaciones": 15
-   },
-   "GD41": {
-    "px": 102140.0,
-    "origen": "cierre",
-    "operaciones": 1118
-   },
-   "GE29": {
-    "px": 71731.392,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA37D": {
-    "px": 99900.0,
-    "origen": "cierre",
-    "operaciones": 434
-   },
-   "TX31": {
-    "px": 1471.0,
-    "origen": "cierre",
-    "operaciones": 739
-   },
-   "PARPX": {
-    "px": 37325.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TE7X": {
-    "px": 154.596,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TXO7X": {
-    "px": 104.357,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "CO35X": {
-    "px": 144474.265,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMA8X": {
-    "px": 114.2357143,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PAY5": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PUA36": {
-    "px": 168000.0,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "PAE0": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "ERF25": {
-    "px": 57720.0,
-    "origen": "cierre",
-    "operaciones": 16
-   },
-   "BB37E": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "BA7DX": {
     "px": 103061.516,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC37E": {
-    "px": 96700.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2330,23 +2338,98 @@
     "origen": "cierre",
     "operaciones": 68
    },
-   "BPB7X": {
-    "px": 161856.0,
+   "TXJ8X": {
+    "px": 103.464,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 7
    },
    "BDC36": {
     "px": 158800.0,
     "origen": "cierre",
     "operaciones": 8
    },
+   "TXO7X": {
+    "px": 104.357,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "TY7X": {
+    "px": 130.7,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "COD7X": {
+    "px": 181.32,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PUA36": {
+    "px": 168000.0,
+    "origen": "cierre",
+    "operaciones": 4
+   },
    "TVPPX": {
     "px": 10.936,
     "origen": "cierre",
     "operaciones": 0
    },
+   "TXD7X": {
+    "px": 292.189,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "BAM27": {
+    "px": 51.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXD8": {
+    "px": 88.76,
+    "origen": "cierre",
+    "operaciones": 26
+   },
    "GE41X": {
     "px": 6464.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT25": {
+    "px": 86920.0,
+    "origen": "cierre",
+    "operaciones": 123
+   },
+   "ERF25": {
+    "px": 57720.0,
+    "origen": "cierre",
+    "operaciones": 16
+   },
+   "PMM27": {
+    "px": 86.5568,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO29": {
+    "px": 122180.0,
+    "origen": "cierre",
+    "operaciones": 3471
+   },
+   "TA7X": {
+    "px": 139.727,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "BC37E": {
+    "px": 96700.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38X": {
+    "px": 106552.52,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "BPB7X": {
+    "px": 161856.0,
     "origen": "cierre",
     "operaciones": 0
    }
@@ -2355,13 +2438,6 @@
  "fecha_precios": "2026-11-11",
  "futuros": [
   {
-   "symbol": "DONOV26",
-   "vto": "2026-11-30",
-   "px": 1563.5,
-   "origen": "cierre",
-   "interes_abierto": 0.0
-  },
-  {
    "symbol": "DONOV26M",
    "vto": "2026-11-30",
    "px": 1563.5,
@@ -2369,9 +2445,9 @@
    "interes_abierto": 0.0
   },
   {
-   "symbol": "DODIC26",
-   "vto": "2026-12-30",
-   "px": 1592.0,
+   "symbol": "DONOV26",
+   "vto": "2026-11-30",
+   "px": 1563.5,
    "origen": "cierre",
    "interes_abierto": 0.0
   },
@@ -2383,9 +2459,9 @@
    "interes_abierto": 0.0
   },
   {
-   "symbol": "DOENE27M",
-   "vto": "2027-01-29",
-   "px": 1622.0,
+   "symbol": "DODIC26",
+   "vto": "2026-12-30",
+   "px": 1592.0,
    "origen": "cierre",
    "interes_abierto": 0.0
   },
@@ -2397,9 +2473,9 @@
    "interes_abierto": 0.0
   },
   {
-   "symbol": "DOMAR27M",
-   "vto": "2027-03-31",
-   "px": 1686.0,
+   "symbol": "DOENE27M",
+   "vto": "2027-01-29",
+   "px": 1622.0,
    "origen": "cierre",
    "interes_abierto": 0.0
   },
@@ -2409,22 +2485,199 @@
    "px": 1686.0,
    "origen": "cierre",
    "interes_abierto": 0.0
+  },
+  {
+   "symbol": "DOMAR27M",
+   "vto": "2027-03-31",
+   "px": 1686.0,
+   "origen": "cierre",
+   "interes_abierto": 0.0
   }
  ],
  "precios_usd": {
   "T0": {
-   "TVY0D": {
-    "px": 3.45,
+   "TZX7D": {
+    "px": 0.264,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZV8Y": {
-    "px": 80.63,
+   "TZX8D": {
+    "px": 0.234,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "TXJ0Y": {
+    "px": 0.054,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TVPPY": {
+    "px": 0.6,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL41Y": {
-    "px": 60.839,
+   "TMF8D": {
+    "px": 0.073,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7Y": {
+    "px": 105.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27Y": {
+    "px": 101.865,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DIP0D": {
+    "px": 31.6,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD46D": {
+    "px": 63.5,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "AN29D": {
+    "px": 80.43,
+    "origen": "cierre",
+    "operaciones": 148
+   },
+   "TX31D": {
+    "px": 0.96,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7D": {
+    "px": 0.083,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BPB8Y": {
+    "px": 89.99,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF7D": {
+    "px": 0.081,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0D": {
+    "px": 0.053,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMF7Y": {
+    "px": 0.081,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL30Y": {
+    "px": 51.993,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TZV8D": {
+    "px": 83.63,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB7DD": {
+    "px": 64.0,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "JUS2D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38D": {
+    "px": 67.59,
+    "origen": "cierre",
+    "operaciones": 1158
+   },
+   "BPA8Y": {
+    "px": 91.513,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA7Y": {
+    "px": 101.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG7Y": {
+    "px": 0.077,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO29Y": {
+    "px": 79.866,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AO28Y": {
+    "px": 86.277,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TVPYY": {
+    "px": 0.547,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG8Y": {
+    "px": 0.068,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7D": {
+    "px": 0.086,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "EF25D": {
+    "px": 37.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC28D": {
+    "px": 0.0059,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "EM33D": {
+    "px": 101.8,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS7D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PARPY": {
+    "px": 21.14,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVE8D": {
+    "px": 90.0,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TVPAD": {
+    "px": 2.36,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD41Y": {
+    "px": 67.182,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2433,25 +2686,10 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "AO29D": {
-    "px": 77.56,
-    "origen": "cierre",
-    "operaciones": 373
-   },
    "BA7DY": {
     "px": 68.5,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "AL30D": {
-    "px": 51.36,
-    "origen": "cierre",
-    "operaciones": 188166
-   },
-   "DICPD": {
-    "px": 30.122,
-    "origen": "cierre",
-    "operaciones": 4
    },
    "TXD9D": {
     "px": 0.056,
@@ -2468,6 +2706,11 @@
     "origen": "cierre",
     "operaciones": 0
    },
+   "CO35D": {
+    "px": 98.05,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "TE7Y": {
     "px": 0.098,
     "origen": "cierre",
@@ -2478,13 +2721,18 @@
     "origen": "cierre",
     "operaciones": 2
    },
+   "TXS8D": {
+    "px": 0.063,
+    "origen": "cierre",
+    "operaciones": 1
+   },
    "TXD7Y": {
     "px": 0.176,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXJ9Y": {
-    "px": 0.059,
+   "TVY0D": {
+    "px": 3.45,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2493,45 +2741,75 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "NDG4D": {
-    "px": 102.0,
+   "TVD8Y": {
+    "px": 76.819,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD41D": {
-    "px": 65.37,
+   "AL41Y": {
+    "px": 60.839,
     "origen": "cierre",
-    "operaciones": 219
+    "operaciones": 0
+   },
+   "AO29D": {
+    "px": 77.56,
+    "origen": "cierre",
+    "operaciones": 373
+   },
+   "AL30D": {
+    "px": 51.36,
+    "origen": "cierre",
+    "operaciones": 188166
+   },
+   "T2D8Y": {
+    "px": 0.055,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DICPD": {
+    "px": 30.122,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "GD46Y": {
+    "px": 61.572,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAPY": {
+    "px": 28.2525,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PUA6D": {
+    "px": 110.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM9D": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF8Y": {
+    "px": 0.071,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "TU27D": {
     "px": 14.9129,
     "origen": "cierre",
     "operaciones": 0
    },
-   "C27DD": {
-    "px": 84.5014,
+   "TZV7D": {
+    "px": 94.0,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "CUAPD": {
-    "px": 26.747,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TU27Y": {
-    "px": 56.04,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 1
    },
    "TXY7D": {
     "px": 0.082,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "BPA8D": {
-    "px": 86.49,
-    "origen": "cierre",
-    "operaciones": 11
    },
    "NDT1D": {
     "px": 32.817,
@@ -2543,43 +2821,303 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TVPPD": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TTD6D": {
-    "px": 0.112,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "GD38Y": {
     "px": 73.55,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AO27D": {
-    "px": 102.5,
+   "PM29D": {
+    "px": 38.668,
     "origen": "cierre",
-    "operaciones": 1360
+    "operaciones": 1
+   },
+   "TVPYD": {
+    "px": 7.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPD7D": {
+    "px": 101.9,
+    "origen": "cierre",
+    "operaciones": 200
+   },
+   "TXA7Y": {
+    "px": 0.08,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PARPD": {
+    "px": 22.3221,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAPD": {
+    "px": 26.747,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7Y": {
+    "px": 105.655,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD29D": {
+    "px": 53.38,
+    "origen": "cierre",
+    "operaciones": 154
+   },
+   "TY30D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "NDT5D": {
+    "px": 55.75,
+    "origen": "cierre",
+    "operaciones": 51
+   },
+   "TML7D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD30D": {
+    "px": 53.26,
+    "origen": "cierre",
+    "operaciones": 1242
+   },
+   "TY7Y": {
+    "px": 0.0819978,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE38D": {
+    "px": 38.2,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TA7Y": {
+    "px": 0.089,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMG7D": {
+    "px": 0.077,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TTD6Y": {
+    "px": 0.113,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AL41D": {
+    "px": 59.77,
+    "origen": "cierre",
+    "operaciones": 343
+   },
+   "TXM8D": {
+    "px": 0.066,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AL29D": {
+    "px": 51.6,
+    "origen": "cierre",
+    "operaciones": 450
+   },
+   "NDT5Y": {
+    "px": 64.821,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PAY0D": {
+    "px": 28.9235,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DICPY": {
+    "px": 30.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DCO24": {
+    "px": 41.7843,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPED": {
+    "px": 1.1,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AN29Y": {
+    "px": 91.3,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD6Y": {
+    "px": 0.2,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO5D": {
+    "px": 101.05,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "GD30Y": {
+    "px": 56.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8Y": {
+    "px": 0.2349936,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PU26D": {
+    "px": 22.8233,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7D": {
+    "px": 102.0,
+    "origen": "cierre",
+    "operaciones": 148
+   },
+   "TVE8Y": {
+    "px": 92.0694865,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY30Y": {
+    "px": 0.071,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM7Y": {
+    "px": 0.143,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD9Y": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TXM9Y": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD35D": {
+    "px": 69.36,
+    "origen": "cierre",
+    "operaciones": 828
+   },
+   "GD38D": {
+    "px": 73.84,
+    "origen": "cierre",
+    "operaciones": 772
+   },
+   "BC7DD": {
+    "px": 68.6655,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO32D": {
+    "px": 107.05,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ9D": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TXJ8D": {
+    "px": 0.065,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AE38Y": {
+    "px": 69.828,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD35Y": {
+    "px": 68.1559158,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PM29Y": {
+    "px": 51.282,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM8Y": {
+    "px": 0.064,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36D": {
+    "px": 104.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TA7D": {
+    "px": 0.088,
+    "origen": "cierre",
+    "operaciones": 33
+   },
+   "AL35D": {
+    "px": 64.39,
+    "origen": "cierre",
+    "operaciones": 1565
+   },
+   "AO28D": {
+    "px": 85.37,
+    "origen": "cierre",
+    "operaciones": 815
+   },
+   "TX28Y": {
+    "px": 1.298,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BA7DD": {
+    "px": 64.16,
+    "origen": "cierre",
+    "operaciones": 13
+   },
+   "C27DY": {
+    "px": 70.368,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPD7Y": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA8D": {
+    "px": 86.49,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "AL29Y": {
+    "px": 53.0891304,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "S24DD": {
     "px": 39.631,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TVD8Y": {
-    "px": 76.819,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "TXD7D": {
     "px": 0.186,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "T2D8Y": {
-    "px": 0.055,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2603,28 +3141,8 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "GD46Y": {
-    "px": 61.572,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CUAPY": {
-    "px": 28.2525,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "AL35Y": {
     "px": 63.532,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PUA6D": {
-    "px": 110.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM9D": {
-    "px": 0.059,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2633,58 +3151,63 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMF8Y": {
-    "px": 0.071,
+   "TU27Y": {
+    "px": 56.04,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZV7D": {
-    "px": 94.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BPC7Y": {
-    "px": 105.655,
+   "TXJ8Y": {
+    "px": 0.065,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPD7D": {
-    "px": 101.9,
-    "origen": "cierre",
-    "operaciones": 200
-   },
-   "TXA7Y": {
-    "px": 0.08,
+   "TVPPD": {
+    "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL41D": {
-    "px": 59.77,
-    "origen": "cierre",
-    "operaciones": 343
-   },
-   "TXM8D": {
-    "px": 0.066,
+   "TTD6D": {
+    "px": 0.112,
     "origen": "cierre",
     "operaciones": 1
    },
-   "AL29D": {
-    "px": 51.6,
+   "AO27D": {
+    "px": 102.5,
     "origen": "cierre",
-    "operaciones": 450
+    "operaciones": 1360
    },
-   "PM29D": {
-    "px": 38.668,
+   "BB7DY": {
+    "px": 66.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB8D": {
+    "px": 85.05,
+    "origen": "cierre",
+    "operaciones": 36
+   },
+   "TY7D": {
+    "px": 0.082,
     "origen": "cierre",
     "operaciones": 1
+   },
+   "BC28Y": {
+    "px": 0.633,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDG4D": {
+    "px": 102.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7D": {
+    "px": 101.95,
+    "origen": "cierre",
+    "operaciones": 142
    },
    "TML7Y": {
     "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPYD": {
-    "px": 7.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2698,353 +3221,23 @@
     "origen": "cierre",
     "operaciones": 1
    },
-   "GD29D": {
-    "px": 53.38,
-    "origen": "cierre",
-    "operaciones": 154
-   },
-   "TY30D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "NDT5D": {
-    "px": 55.75,
-    "origen": "cierre",
-    "operaciones": 51
-   },
-   "TML7D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "BPA7D": {
     "px": 102.0,
     "origen": "cierre",
     "operaciones": 5
    },
-   "BPA8Y": {
-    "px": 91.513,
+   "GD41D": {
+    "px": 65.37,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA7Y": {
-    "px": 101.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ0D": {
-    "px": 0.053,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TMG7Y": {
-    "px": 0.077,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7Y": {
-    "px": 0.081,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO29Y": {
-    "px": 79.866,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "AO28Y": {
-    "px": 86.277,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "AL30Y": {
-    "px": 51.993,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVPYY": {
-    "px": 0.547,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV8D": {
-    "px": 83.63,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BB7DY": {
-    "px": 66.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BB7DD": {
-    "px": 64.0,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TMG8Y": {
-    "px": 0.068,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PARPD": {
-    "px": 22.3221,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DIP0D": {
-    "px": 31.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "JUS2D": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD46D": {
-    "px": 63.5,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "AN29D": {
-    "px": 80.43,
-    "origen": "cierre",
-    "operaciones": 148
-   },
-   "AE38D": {
-    "px": 67.59,
-    "origen": "cierre",
-    "operaciones": 1158
-   },
-   "TX31D": {
-    "px": 0.96,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS7D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TJ7D": {
-    "px": 0.083,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "PARPY": {
-    "px": 21.14,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVE8D": {
-    "px": 90.0,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TVPAD": {
-    "px": 2.36,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB8Y": {
-    "px": 89.99,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7D": {
-    "px": 0.081,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB8D": {
-    "px": 85.05,
-    "origen": "cierre",
-    "operaciones": 36
-   },
-   "GD41Y": {
-    "px": 67.182,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY7D": {
-    "px": 0.082,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CO35D": {
-    "px": 98.05,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC28Y": {
-    "px": 0.633,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS8D": {
-    "px": 0.063,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TZX7D": {
-    "px": 0.264,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL29Y": {
-    "px": 53.0891304,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8D": {
-    "px": 0.234,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "NDT5Y": {
-    "px": 64.821,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ0Y": {
-    "px": 0.054,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVPPY": {
-    "px": 0.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PAY0D": {
-    "px": 28.9235,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF8D": {
-    "px": 0.073,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DICPY": {
-    "px": 30.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB7Y": {
-    "px": 105.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DCO24": {
-    "px": 41.7843,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO27Y": {
-    "px": 101.865,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29Y": {
-    "px": 91.3,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD6Y": {
-    "px": 0.2,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD35Y": {
-    "px": 68.1559158,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD30Y": {
-    "px": 56.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8Y": {
-    "px": 0.2349936,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPC7D": {
-    "px": 102.0,
-    "origen": "cierre",
-    "operaciones": 148
-   },
-   "PM29Y": {
-    "px": 51.282,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM8Y": {
-    "px": 0.064,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC36D": {
-    "px": 104.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SJO5D": {
-    "px": 101.05,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TA7D": {
-    "px": 0.088,
-    "origen": "cierre",
-    "operaciones": 33
-   },
-   "PU26D": {
-    "px": 22.8233,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVE8Y": {
-    "px": 92.0694865,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL35D": {
-    "px": 64.39,
-    "origen": "cierre",
-    "operaciones": 1565
-   },
-   "TY30Y": {
-    "px": 0.071,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXA7D": {
-    "px": 0.086,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB7D": {
-    "px": 101.95,
-    "origen": "cierre",
-    "operaciones": 142
-   },
-   "GD30D": {
-    "px": 53.26,
-    "origen": "cierre",
-    "operaciones": 1242
+    "operaciones": 219
    },
    "TX28D": {
     "px": 0.908,
     "origen": "cierre",
     "operaciones": 11
    },
-   "TY7Y": {
-    "px": 0.0819978,
+   "C27DD": {
+    "px": 84.5014,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3053,490 +3246,50 @@
     "origen": "cierre",
     "operaciones": 62
    },
-   "GD35D": {
-    "px": 69.36,
-    "origen": "cierre",
-    "operaciones": 828
-   },
-   "GE38D": {
-    "px": 38.2,
+   "TZV8Y": {
+    "px": 80.63,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TA7Y": {
-    "px": 0.089,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD38D": {
-    "px": 73.84,
-    "origen": "cierre",
-    "operaciones": 772
-   },
-   "TMG7D": {
-    "px": 0.077,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC7DD": {
-    "px": 68.6655,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO32D": {
-    "px": 107.05,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ9D": {
+   "TXJ9Y": {
     "px": 0.059,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "TTD6Y": {
-    "px": 0.113,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "AO28D": {
-    "px": 85.37,
-    "origen": "cierre",
-    "operaciones": 815
-   },
-   "TXJ8D": {
-    "px": 0.065,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TX28Y": {
-    "px": 1.298,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPED": {
-    "px": 1.1,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ8Y": {
-    "px": 0.065,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "EF25D": {
-    "px": 37.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AE38Y": {
-    "px": 69.828,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA7DD": {
-    "px": 64.16,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "BC28D": {
-    "px": 0.0059,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "EM33D": {
-    "px": 101.8,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "C27DY": {
-    "px": 70.368,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPD7Y": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7Y": {
-    "px": 0.143,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD9Y": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TXM9Y": {
-    "px": 0.056,
     "origen": "cierre",
     "operaciones": 0
    }
   },
   "T1": {
-   "GD30D": {
-    "px": 53.25,
-    "origen": "cierre",
-    "operaciones": 1492
-   },
-   "PAY0D": {
-    "px": 69.5418,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "S24DD": {
-    "px": 39.8,
-    "origen": "cierre",
-    "operaciones": 15
-   },
-   "T2D8Y": {
-    "px": 0.055,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DIP0D": {
-    "px": 32.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX7D": {
-    "px": 0.269,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TVD8D": {
-    "px": 75.64,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "TX28Y": {
     "px": 0.711,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZX8Y": {
-    "px": 0.235,
+   "PU26D": {
+    "px": 23.1006,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPA8D": {
-    "px": 86.54,
+   "AL41D": {
+    "px": 59.81,
     "origen": "cierre",
-    "operaciones": 53
+    "operaciones": 825
    },
-   "BPD7Y": {
-    "px": 103.538,
+   "AL35D": {
+    "px": 64.4,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 2790
    },
-   "AO28Y": {
-    "px": 86.282,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TXJ9Y": {
-    "px": 0.06,
+   "TU27D": {
+    "px": 30.8674,
     "origen": "cierre",
     "operaciones": 0
    },
-   "DICPD": {
-    "px": 31.1,
-    "origen": "cierre",
-    "operaciones": 18
-   },
-   "PARPY": {
-    "px": 19.011,
+   "TVPYD": {
+    "px": 6.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TVD8Y": {
-    "px": 76.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT1D": {
-    "px": 28.575,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29D": {
-    "px": 79.9,
-    "origen": "cierre",
-    "operaciones": 447
-   },
-   "T2D8D": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BA7DD": {
-    "px": 63.2,
-    "origen": "cierre",
-    "operaciones": 124
-   },
-   "TXJ0Y": {
-    "px": 0.054,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TVPAD": {
-    "px": 1.555,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT5D": {
-    "px": 55.4,
-    "origen": "cierre",
-    "operaciones": 57
-   },
-   "AO27Y": {
-    "px": 102.45,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7Y": {
-    "px": 0.081,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPYY": {
-    "px": 0.52,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TJ7D": {
-    "px": 0.084,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TA7Y": {
-    "px": 0.088,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BB7DD": {
-    "px": 65.19,
-    "origen": "cierre",
-    "operaciones": 46
-   },
-   "TMG7D": {
-    "px": 0.079,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE38Y": {
-    "px": 73.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE41D": {
-    "px": 72.59,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA7D": {
-    "px": 101.95,
-    "origen": "cierre",
-    "operaciones": 79
-   },
-   "TX31Y": {
-    "px": 0.95,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD46D": {
-    "px": 60.03,
-    "origen": "cierre",
-    "operaciones": 102
-   },
-   "AO29Y": {
-    "px": 77.4,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TXY7D": {
-    "px": 0.083,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "JUS2D": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO28D": {
-    "px": 85.5,
-    "origen": "cierre",
-    "operaciones": 2792
-   },
-   "CUAPY": {
-    "px": 22.007,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPPD": {
-    "px": 0.005,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8D": {
-    "px": 0.231,
-    "origen": "cierre",
-    "operaciones": 56
-   },
-   "AO27D": {
-    "px": 102.4,
-    "origen": "cierre",
-    "operaciones": 2415
-   },
-   "AE38D": {
-    "px": 67.72,
-    "origen": "cierre",
-    "operaciones": 2344
-   },
-   "BPB8D": {
-    "px": 85.84,
-    "origen": "cierre",
-    "operaciones": 191
-   },
-   "TVE8Y": {
-    "px": 92.071,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TTD6Y": {
-    "px": 0.113,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TMG8Y": {
-    "px": 0.07,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TE7D": {
-    "px": 0.097,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "SJO5D": {
-    "px": 100.4,
-    "origen": "cierre",
-    "operaciones": 30
-   },
-   "CO35Y": {
-    "px": 102.976,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD7D": {
-    "px": 0.185,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO29D": {
-    "px": 77.55,
-    "origen": "cierre",
-    "operaciones": 1547
-   },
-   "BPC7D": {
-    "px": 102.2,
-    "origen": "cierre",
-    "operaciones": 587
-   },
-   "BC28D": {
-    "px": 0.065,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV7D": {
-    "px": 97.98,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "C27DD": {
-    "px": 90.2635,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM9D": {
-    "px": 0.059,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "BA7DY": {
-    "px": 68.503,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "C24DD": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD8D": {
-    "px": 0.06,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "GD38Y": {
-    "px": 73.551,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX31D": {
-    "px": 0.939,
-    "origen": "cierre",
-    "operaciones": 26
-   },
-   "TML7Y": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD6D": {
-    "px": 0.202,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "TXS8Y": {
-    "px": 0.071,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS7Y": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TE7Y": {
-    "px": 0.097,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ8Y": {
-    "px": 0.063,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO35D": {
-    "px": 95.8,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "EF25D": {
-    "px": 36.721,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "BPB8Y": {
-    "px": 92.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7Y": {
-    "px": 0.143,
+   "PARPD": {
+    "px": 21.17,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3560,23 +3313,8 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXD6Y": {
-    "px": 0.201,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29Y": {
-    "px": 82.86,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "GD46Y": {
     "px": 61.573,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY7Y": {
-    "px": 0.082,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3590,11 +3328,6 @@
     "origen": "cierre",
     "operaciones": 3
    },
-   "TXJ0D": {
-    "px": 0.054,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "C27DY": {
     "px": 66.05,
     "origen": "cierre",
@@ -3605,20 +3338,10 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL41D": {
-    "px": 59.81,
-    "origen": "cierre",
-    "operaciones": 825
-   },
    "GD29D": {
     "px": 53.5,
     "origen": "cierre",
     "operaciones": 494
-   },
-   "AL35D": {
-    "px": 64.4,
-    "origen": "cierre",
-    "operaciones": 2790
    },
    "TXA7Y": {
     "px": 0.08,
@@ -3635,18 +3358,48 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TU27D": {
-    "px": 30.8674,
+   "TE7Y": {
+    "px": 0.097,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TVPYD": {
-    "px": 6.0,
+   "EF25D": {
+    "px": 36.721,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TXM7Y": {
+    "px": 0.143,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PARPD": {
-    "px": 21.17,
+   "TXD6Y": {
+    "px": 0.201,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AN29Y": {
+    "px": 82.86,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY7Y": {
+    "px": 0.082,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD30Y": {
+    "px": 54.6,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA7Y": {
+    "px": 100.401,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD41Y": {
+    "px": 67.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3675,35 +3428,45 @@
     "origen": "cierre",
     "operaciones": 1665
    },
-   "BPB7D": {
-    "px": 101.95,
+   "GD30D": {
+    "px": 53.25,
     "origen": "cierre",
-    "operaciones": 334
+    "operaciones": 1492
+   },
+   "T2D8Y": {
+    "px": 0.055,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DIP0D": {
+    "px": 32.4,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "TXA7D": {
     "px": 0.083,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BC28Y": {
-    "px": 0.625,
+   "BPA8D": {
+    "px": 86.54,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 53
    },
    "TXS7D": {
     "px": 0.073,
     "origen": "cierre",
     "operaciones": 1
    },
-   "GD29Y": {
-    "px": 55.792,
+   "AO28Y": {
+    "px": 86.282,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TXJ9Y": {
+    "px": 0.06,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "TX28D": {
-    "px": 0.917,
-    "origen": "cierre",
-    "operaciones": 34
    },
    "TXJ9D": {
     "px": 0.059,
@@ -3715,18 +3478,228 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TTD6D": {
-    "px": 0.113,
+   "PARPY": {
+    "px": 19.011,
     "origen": "cierre",
-    "operaciones": 10
+    "operaciones": 0
    },
    "TXD7Y": {
     "px": 0.176,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXO7D": {
+   "AE38Y": {
+    "px": 67.7,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AN29D": {
+    "px": 79.9,
+    "origen": "cierre",
+    "operaciones": 447
+   },
+   "PAY0D": {
+    "px": 69.5418,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "JUS2D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "S24DD": {
+    "px": 39.8,
+    "origen": "cierre",
+    "operaciones": 15
+   },
+   "CUAPY": {
+    "px": 22.007,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8D": {
+    "px": 0.231,
+    "origen": "cierre",
+    "operaciones": 56
+   },
+   "AE38D": {
+    "px": 67.72,
+    "origen": "cierre",
+    "operaciones": 2344
+   },
+   "TZX7D": {
+    "px": 0.269,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TVE8Y": {
+    "px": 92.071,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVD8D": {
+    "px": 75.64,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TTD6Y": {
+    "px": 0.113,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMG8Y": {
+    "px": 0.07,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0Y": {
+    "px": 0.054,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TVPAD": {
+    "px": 1.555,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27Y": {
+    "px": 102.45,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO5D": {
+    "px": 100.4,
+    "origen": "cierre",
+    "operaciones": 30
+   },
+   "TVPYY": {
+    "px": 0.52,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7D": {
+    "px": 0.084,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TA7Y": {
+    "px": 0.088,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG7D": {
+    "px": 0.079,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE38Y": {
+    "px": 73.9,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA7D": {
+    "px": 101.95,
+    "origen": "cierre",
+    "operaciones": 79
+   },
+   "GD46D": {
+    "px": 60.03,
+    "origen": "cierre",
+    "operaciones": 102
+   },
+   "AO29Y": {
+    "px": 77.4,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "C24DD": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV7D": {
+    "px": 97.98,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXM9D": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "BA7DY": {
+    "px": 68.503,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ8D": {
     "px": 0.065,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO32D": {
+    "px": 104.8,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXD9Y": {
+    "px": 0.058,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PM29Y": {
+    "px": 50.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31D": {
+    "px": 0.939,
+    "origen": "cierre",
+    "operaciones": 26
+   },
+   "TML7Y": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36D": {
+    "px": 100.75,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "BC28D": {
+    "px": 0.065,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF8D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TZV8D": {
+    "px": 80.47,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXD9D": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7Y": {
+    "px": 104.755,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "C27DD": {
+    "px": 90.2635,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0D": {
+    "px": 0.054,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3745,8 +3718,53 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "PU26D": {
-    "px": 23.1006,
+   "BPD7D": {
+    "px": 101.95,
+    "origen": "cierre",
+    "operaciones": 664
+   },
+   "TXM8D": {
+    "px": 0.068,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "AL29Y": {
+    "px": 54.253,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL29D": {
+    "px": 51.61,
+    "origen": "cierre",
+    "operaciones": 827
+   },
+   "TXJ8Y": {
+    "px": 0.063,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE29D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY30D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BPA8Y": {
+    "px": 91.514,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL30D": {
+    "px": 51.52,
+    "origen": "cierre",
+    "operaciones": 69734
+   },
+   "TMF7D": {
+    "px": 0.082,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3765,21 +3783,6 @@
     "origen": "cierre",
     "operaciones": 16
    },
-   "AL29Y": {
-    "px": 54.253,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPD7D": {
-    "px": 101.95,
-    "origen": "cierre",
-    "operaciones": 664
-   },
-   "TXM8D": {
-    "px": 0.068,
-    "origen": "cierre",
-    "operaciones": 3
-   },
    "CUAPD": {
     "px": 26.0,
     "origen": "cierre",
@@ -3790,83 +3793,153 @@
     "origen": "cierre",
     "operaciones": 3
    },
-   "TZV8D": {
-    "px": 80.47,
+   "TXM7D": {
+    "px": 0.149,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 4
    },
-   "TY30D": {
-    "px": 0.072,
+   "BPB7Y": {
+    "px": 104.0,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 0
    },
-   "TXD9D": {
+   "NDG4D": {
+    "px": 103.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL35Y": {
+    "px": 68.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "T2D8D": {
     "px": 0.056,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "AE38Y": {
-    "px": 67.7,
-    "origen": "cierre",
     "operaciones": 1
-   },
-   "AL29D": {
-    "px": 51.61,
-    "origen": "cierre",
-    "operaciones": 827
-   },
-   "TXJ8D": {
-    "px": 0.065,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "BB7DY": {
     "px": 66.934,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPC7Y": {
-    "px": 104.755,
+   "CO35D": {
+    "px": 95.8,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "BPB8Y": {
+    "px": 92.4,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD30Y": {
-    "px": 54.6,
+   "TXY7D": {
+    "px": 0.083,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPA8Y": {
-    "px": 91.514,
+   "AO28D": {
+    "px": 85.5,
+    "origen": "cierre",
+    "operaciones": 2792
+   },
+   "TVPPD": {
+    "px": 0.005,
     "origen": "cierre",
     "operaciones": 0
    },
-   "CO32D": {
-    "px": 104.8,
+   "AO27D": {
+    "px": 102.4,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 2415
+   },
+   "BPB8D": {
+    "px": 85.84,
+    "origen": "cierre",
+    "operaciones": 191
    },
    "TVY0D": {
     "px": 2.75,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPA7Y": {
-    "px": 100.401,
+   "TE7D": {
+    "px": 0.097,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "CO35Y": {
+    "px": 102.976,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL30D": {
-    "px": 51.52,
+   "TXD7D": {
+    "px": 0.185,
     "origen": "cierre",
-    "operaciones": 69734
+    "operaciones": 0
    },
-   "TXM7D": {
-    "px": 0.149,
+   "AO29D": {
+    "px": 77.55,
     "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 1547
    },
-   "TXD9Y": {
-    "px": 0.058,
+   "BPC7D": {
+    "px": 102.2,
+    "origen": "cierre",
+    "operaciones": 587
+   },
+   "GE41D": {
+    "px": 72.59,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31Y": {
+    "px": 0.95,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7D": {
+    "px": 101.95,
+    "origen": "cierre",
+    "operaciones": 334
+   },
+   "BC28Y": {
+    "px": 0.625,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD29Y": {
+    "px": 55.792,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX28D": {
+    "px": 0.917,
+    "origen": "cierre",
+    "operaciones": 34
+   },
+   "TTD6D": {
+    "px": 0.113,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "TXO7D": {
+    "px": 0.065,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BA7DD": {
+    "px": 63.2,
+    "origen": "cierre",
+    "operaciones": 124
+   },
+   "NDT5D": {
+    "px": 55.4,
+    "origen": "cierre",
+    "operaciones": 57
+   },
+   "TMF7Y": {
+    "px": 0.081,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3875,53 +3948,63 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "PM29Y": {
-    "px": 50.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7D": {
-    "px": 0.082,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC36D": {
-    "px": 100.75,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BPB7Y": {
-    "px": 104.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "GD35Y": {
     "px": 70.7,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD41Y": {
-    "px": 67.0,
+   "TXD8D": {
+    "px": 0.06,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "GD38Y": {
+    "px": 73.551,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMF8D": {
+   "TXD6D": {
+    "px": 0.202,
+    "origen": "cierre",
+    "operaciones": 13
+   },
+   "BB7DD": {
+    "px": 65.19,
+    "origen": "cierre",
+    "operaciones": 46
+   },
+   "TXS8Y": {
+    "px": 0.071,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS7Y": {
     "px": 0.072,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 0
    },
-   "NDG4D": {
-    "px": 103.0,
+   "TZX8Y": {
+    "px": 0.235,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GE29D": {
-    "px": 0.01,
+   "BPD7Y": {
+    "px": 103.538,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL35Y": {
-    "px": 68.5,
+   "DICPD": {
+    "px": 31.1,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "TVD8Y": {
+    "px": 76.9,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT1D": {
+    "px": 28.575,
     "origen": "cierre",
     "operaciones": 0
    }
@@ -10910,8 +10993,5 @@
    "grupo": "TITULOSPUBLICOS"
   }
  },
- "errores": [],
- "avisos": [
-  "No se encontró la TAMAR en el listado del BCRA"
- ]
+ "errores": []
 }
