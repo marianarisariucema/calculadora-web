@@ -1,12 +1,11 @@
 {
- "generado": "2026-11-12T23:48:48+00:00",
+ "generado": "2026-11-13T22:24:13+00:00",
  "fuentes": {
   "precios": "BYMA - API Market Data End of Day",
   "instrumentos": "BYMA - API Market Data Instruments",
   "cer_a3500": "BCRA - API Estadísticas Monetarias v4.0 (variables 30 y 5)"
  },
  "cer": {
-  "2026-09-13": 839.04986955848,
   "2026-09-14": 839.61256095251,
   "2026-09-15": 840.17562970385,
   "2026-09-16": 840.64786033042,
@@ -102,11 +101,10 @@
   "2026-12-15": 889.84858234182
  },
  "a3500": {
-  "fecha": "2026-11-12",
-  "valor": 1544.432
+  "fecha": "2026-11-13",
+  "valor": 1547.0336
  },
  "tamar": {
-  "2026-07-15": 22.625,
   "2026-07-16": 22.625,
   "2026-07-17": 22.875,
   "2026-07-20": 22.6875,
@@ -186,112 +184,118 @@
   "2026-11-03": 24.0,
   "2026-11-04": 23.5625,
   "2026-11-05": 24.125,
-  "2026-11-11": 24.4375
+  "2026-11-11": 24.4375,
+  "2026-11-12": 24.3125
  },
  "precios": {
   "T0": {
+   "XN6X": {
+    "px": 130.5576009,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "D31M7": {
+    "px": 153070.0,
+    "origen": "cierre",
+    "operaciones": 35
+   },
+   "D30N6": {
+    "px": 154500.0,
+    "origen": "cierre",
+    "operaciones": 21
+   },
+   "X29E7": {
+    "px": 106.98,
+    "origen": "cierre",
+    "operaciones": 85
+   },
    "D10Y7": {
     "px": 160000.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "DE7X": {
-    "px": 153309.216,
+   "X30N6": {
+    "px": 130.51,
     "origen": "cierre",
-    "operaciones": 3
-   },
-   "S30N6": {
-    "px": 128.46,
-    "origen": "cierre",
-    "operaciones": 491
-   },
-   "XN6X": {
-    "px": 130.3,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "S13N6": {
-    "px": 109.595,
-    "origen": "cierre",
-    "operaciones": 257
-   },
-   "S2N6X": {
-    "px": 109.5,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "D31M7": {
-    "px": 152890.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "X29E7": {
-    "px": 105.988,
-    "origen": "cierre",
-    "operaciones": 45
+    "operaciones": 57
    },
    "DM7X": {
     "px": 151200.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "X30N6": {
-    "px": 130.333,
+   "S30N6": {
+    "px": 128.595,
     "origen": "cierre",
-    "operaciones": 57
+    "operaciones": 870
    },
-   "S29E7": {
-    "px": 106.15,
+   "XE7X": {
+    "px": 105.766,
     "origen": "cierre",
-    "operaciones": 404
+    "operaciones": 13
+   },
+   "DE7X": {
+    "px": 154138.429,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "SF7X": {
+    "px": 101.145,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "SE7X": {
+    "px": 106.448,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "M30A7": {
+    "px": 100.399,
+    "origen": "cierre",
+    "operaciones": 44
+   },
+   "MA7X": {
+    "px": 100.31,
+    "origen": "cierre",
+    "operaciones": 10
    },
    "D15E7": {
     "px": 153800.0,
     "origen": "cierre",
-    "operaciones": 11
+    "operaciones": 48
    },
-   "DN6X": {
-    "px": 154272.053,
+   "S26F7": {
+    "px": 101.14,
     "origen": "cierre",
-    "operaciones": 8
+    "operaciones": 366
    },
-   "D30N6": {
-    "px": 154300.0,
+   "SN6X": {
+    "px": 128.168,
     "origen": "cierre",
     "operaciones": 26
    },
-   "S26F7": {
-    "px": 101.349,
+   "S29E7": {
+    "px": 106.45,
     "origen": "cierre",
-    "operaciones": 895
+    "operaciones": 759
    },
-   "XE7X": {
-    "px": 105.554,
+   "DN6X": {
+    "px": 154735.4905262,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 9
    },
-   "SE7X": {
-    "px": 105.574,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "SF7X": {
-    "px": 100.95,
+   "BL2D6": {
+    "px": 102.88,
     "origen": "cierre",
     "operaciones": 0
    },
-   "SN6X": {
-    "px": 128.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "BBA7X": {
-    "px": 103.162,
+   "LBD6X": {
+    "px": 96.235,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BGS27": {
-    "px": 103.0,
+   "BUM7X": {
+    "px": 102.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -300,20 +304,25 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BUF7X": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "B5N6X": {
     "px": 100.15,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BBD26": {
-    "px": 108.5,
+   "BUE7X": {
+    "px": 100.0,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "BUF7X": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BBA7X": {
+    "px": 103.666,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "BGD6X": {
     "px": 104.86,
@@ -325,33 +334,18 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "LBD6X": {
-    "px": 96.235,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "LBN6X": {
     "px": 98.156,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "BL2D6": {
-    "px": 102.88,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BUE7X": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 1
    },
    "BUE27": {
     "px": 97.6247,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BUM7X": {
-    "px": 102.0,
+   "BBD26": {
+    "px": 108.5,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -360,113 +354,118 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BUF7X-0001-C-CT-ARS": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "COD7X": {
-    "px": 145.72,
+   "BGS27": {
+    "px": 103.0,
     "origen": "cierre",
     "operaciones": 0
    },
    "TVD8X": {
-    "px": 120304.417,
+    "px": 119338.759,
     "origen": "cierre",
     "operaciones": 1
+   },
+   "TMG7X": {
+    "px": 123.03,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TXM9X": {
+    "px": 93.269,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMVE8": {
+    "px": 148000.0,
+    "origen": "cierre",
+    "operaciones": 199
+   },
+   "PUA6X": {
+    "px": 169592.877,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL29": {
+    "px": 82460.0,
+    "origen": "cierre",
+    "operaciones": 367
    },
    "PMM7X": {
     "px": 263.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMF7X": {
-    "px": 128.0,
+   "PMM29": {
+    "px": 61770.0,
     "origen": "cierre",
-    "operaciones": 7
+    "operaciones": 2
    },
-   "TMG7X": {
-    "px": 121.977,
+   "TXJ9X": {
+    "px": 94.521,
     "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 12
    },
-   "TE7X": {
-    "px": 153.887,
+   "TXD8X": {
+    "px": 96.165,
     "origen": "cierre",
     "operaciones": 3
    },
-   "TB27": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMM29": {
-    "px": 60700.0,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "TXMJ8": {
-    "px": 104.0,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "TXJ9X": {
-    "px": 95.061,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD29": {
-    "px": 84190.0,
-    "origen": "cierre",
-    "operaciones": 186
-   },
    "TXJ8X": {
-    "px": 103.8158828,
+    "px": 104.083,
     "origen": "cierre",
-    "operaciones": 5
+    "operaciones": 4
    },
-   "AO28": {
-    "px": 134080.0,
-    "origen": "cierre",
-    "operaciones": 1886
-   },
-   "AL29": {
-    "px": 81640.0,
-    "origen": "cierre",
-    "operaciones": 505
-   },
-   "GD35X": {
-    "px": 111383.51,
+   "TXD6X": {
+    "px": 318.04,
     "origen": "cierre",
     "operaciones": 2
+   },
+   "AO28": {
+    "px": 133900.0,
+    "origen": "cierre",
+    "operaciones": 1482
+   },
+   "GD35X": {
+    "px": 110911.5,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "GD41": {
+    "px": 104870.0,
+    "origen": "cierre",
+    "operaciones": 341
    },
    "CY27X": {
     "px": 204.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD38X": {
-    "px": 116500.0,
+   "COD7X": {
+    "px": 145.72,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPPX": {
+    "px": 10.905,
     "origen": "cierre",
     "operaciones": 0
    },
    "TZXM8": {
-    "px": 105.1,
+    "px": 105.6,
     "origen": "cierre",
-    "operaciones": 9
+    "operaciones": 8
    },
    "TVPAX": {
     "px": 184.275,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMG8X": {
-    "px": 108.3225,
+   "TXY7X": {
+    "px": 129.5,
     "origen": "cierre",
-    "operaciones": 5
+    "operaciones": 2
    },
-   "SFN7X": {
-    "px": 96.0,
+   "TVPY": {
+    "px": 9200.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -475,118 +474,333 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXS7": {
-    "px": 114.2,
+   "GD38X": {
+    "px": 116500.0,
     "origen": "cierre",
-    "operaciones": 48
+    "operaciones": 0
    },
-   "TMF28": {
-    "px": 116.0,
+   "GD29": {
+    "px": 84120.0,
+    "origen": "cierre",
+    "operaciones": 65
+   },
+   "TZXD7": {
+    "px": 294.3,
+    "origen": "cierre",
+    "operaciones": 65
+   },
+   "TMG8X": {
+    "px": 109.49,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TXM8X": {
+    "px": 105.454,
     "origen": "cierre",
     "operaciones": 2
    },
-   "TZX27": {
-    "px": 422.3,
+   "SFN7X": {
+    "px": 96.0,
     "origen": "cierre",
-    "operaciones": 80
+    "operaciones": 0
+   },
+   "NDT11": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO24D": {
+    "px": 47096.3068,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXS7": {
+    "px": 114.5,
+    "origen": "cierre",
+    "operaciones": 38
+   },
+   "TXM7X": {
+    "px": 236.984,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "BPOB8": {
+    "px": 136080.0,
+    "origen": "cierre",
+    "operaciones": 135
    },
    "BDC28": {
-    "px": 104.5,
+    "px": 107.0,
     "origen": "cierre",
-    "operaciones": 587
+    "operaciones": 386
+   },
+   "TX28": {
+    "px": 1447.5,
+    "origen": "cierre",
+    "operaciones": 227
+   },
+   "TMG28": {
+    "px": 110.0,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "TY7X": {
+    "px": 131.539,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TMF28": {
+    "px": 114.0,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "TZX27": {
+    "px": 428.8,
+    "origen": "cierre",
+    "operaciones": 52
+   },
+   "TZXA7": {
+    "px": 131.55,
+    "origen": "cierre",
+    "operaciones": 9
    },
    "TZX8X": {
-    "px": 364.964,
+    "px": 365.07,
     "origen": "cierre",
-    "operaciones": 1
-   },
-   "BB37D": {
-    "px": 105550.0,
-    "origen": "cierre",
-    "operaciones": 12
+    "operaciones": 3
    },
    "CEDI": {
     "px": 19000.0,
     "origen": "cierre",
     "operaciones": 0
    },
+   "TZXD8": {
+    "px": 88.35,
+    "origen": "cierre",
+    "operaciones": 6
+   },
    "TJ7X": {
-    "px": 133.105,
+    "px": 139.715,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TZXM9": {
+    "px": 94.75,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "BPA7X": {
+    "px": 160000.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXM7": {
-    "px": 237.75,
+   "BPOC7": {
+    "px": 161270.0,
     "origen": "cierre",
-    "operaciones": 78
+    "operaciones": 173
    },
-   "TZX7X": {
-    "px": 419.438,
+   "BB7DX": {
+    "px": 104049.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXA7X": {
-    "px": 131.0,
+   "BPOB7": {
+    "px": 161150.0,
+    "origen": "cierre",
+    "operaciones": 58
+   },
+   "PMD6X": {
+    "px": 102.873,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA8X": {
+    "px": 139500.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO32": {
+    "px": 166000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPOD7": {
+    "px": 161120.0,
+    "origen": "cierre",
+    "operaciones": 162
+   },
+   "TTD26": {
+    "px": 177.65,
+    "origen": "cierre",
+    "operaciones": 52
+   },
+   "T30A7": {
+    "px": 140.049,
+    "origen": "cierre",
+    "operaciones": 347
+   },
+   "BDC36": {
+    "px": 151814.318,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPP": {
+    "px": 6.636,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "PBA8X": {
+    "px": 113.4935,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB37D": {
+    "px": 103050.0,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "DIP0": {
+    "px": 49875.0,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TB27": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMF7X": {
+    "px": 128.407,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "AL35": {
+    "px": 103000.0,
+    "origen": "cierre",
+    "operaciones": 839
+   },
+   "PMA8X": {
+    "px": 115.9,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPOA7": {
+    "px": 161210.0,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "CO27D": {
+    "px": 114441.3125,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PBA28": {
+    "px": 113.35,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "CO35X": {
+    "px": 142800.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36X": {
+    "px": 158386.74,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "S24DX": {
+    "px": 76926.97,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD46X": {
+    "px": 91470.288,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO35": {
+    "px": 155280.0,
     "origen": "cierre",
     "operaciones": 3
    },
+   "TX31X": {
+    "px": 1475.25,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD41X": {
+    "px": 102948.318,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TZXD6": {
+    "px": 317.65,
+    "origen": "cierre",
+    "operaciones": 135
+   },
+   "TVY0": {
+    "px": 7000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC28X": {
+    "px": 106.7,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXMJ9": {
+    "px": 94.52,
+    "origen": "cierre",
+    "operaciones": 40
+   },
+   "TXMJ8": {
+    "px": 104.05,
+    "origen": "cierre",
+    "operaciones": 20
+   },
+   "CH24D": {
+    "px": 34917.0949,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "GD38": {
-    "px": 118630.0,
+    "px": 119000.0,
     "origen": "cierre",
-    "operaciones": 316
-   },
-   "GD35": {
-    "px": 111280.0,
-    "origen": "cierre",
-    "operaciones": 778
-   },
-   "AL35X": {
-    "px": 103610.797,
-    "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 183
    },
    "SJO5X": {
     "px": 159885.874,
     "origen": "cierre",
     "operaciones": 0
    },
+   "AO29": {
+    "px": 121700.0,
+    "origen": "cierre",
+    "operaciones": 1140
+   },
    "TZV8X": {
     "px": 126992.25,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZV27": {
-    "px": 151000.0,
+   "BPD7X": {
+    "px": 160076.436,
     "origen": "cierre",
-    "operaciones": 9
-   },
-   "TXD9X": {
-    "px": 88.404,
-    "origen": "cierre",
-    "operaciones": 10
+    "operaciones": 0
    },
    "TXJ0X": {
-    "px": 85.017,
+    "px": 84.6785649,
     "origen": "cierre",
-    "operaciones": 9
-   },
-   "T2D8X": {
-    "px": 92.219,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXD7X": {
-    "px": 293.2623158,
-    "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 5
    },
    "PAP0": {
     "px": 32900.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PARPX": {
-    "px": 35755.0,
+   "BA37E": {
+    "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -595,28 +809,83 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "T15E7": {
-    "px": 154.7,
-    "origen": "cierre",
-    "operaciones": 1963
-   },
    "TXMD8": {
-    "px": 95.79,
+    "px": 95.96,
     "origen": "cierre",
-    "operaciones": 96
+    "operaciones": 100
+   },
+   "GD46": {
+    "px": 97420.0,
+    "origen": "cierre",
+    "operaciones": 52
+   },
+   "TVPE": {
+    "px": 18650.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAPX": {
+    "px": 35808.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38": {
+    "px": 108760.0,
+    "origen": "cierre",
+    "operaciones": 871
+   },
+   "TVE8X": {
+    "px": 147913.184,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "TMF27": {
+    "px": 128.2,
+    "origen": "cierre",
+    "operaciones": 84
+   },
+   "TXMD9": {
+    "px": 88.5,
+    "origen": "cierre",
+    "operaciones": 76
+   },
+   "TZXO7": {
+    "px": 103.55,
+    "origen": "cierre",
+    "operaciones": 17
+   },
+   "TZX28": {
+    "px": 371.45,
+    "origen": "cierre",
+    "operaciones": 266
+   },
+   "TMF8X": {
+    "px": 115.782,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7X": {
+    "px": 130.0003801,
+    "origen": "cierre",
+    "operaciones": 3
    },
    "NDT25": {
-    "px": 84100.0,
+    "px": 88680.0,
     "origen": "cierre",
-    "operaciones": 37
+    "operaciones": 11
    },
    "TZXY7": {
-    "px": 129.35,
+    "px": 127.15,
     "origen": "cierre",
-    "operaciones": 9
+    "operaciones": 47
+   },
+   "TE7X": {
+    "px": 154.84,
+    "origen": "cierre",
+    "operaciones": 5
    },
    "T31Y7": {
-    "px": 131.5,
+    "px": 131.99,
     "origen": "cierre",
     "operaciones": 109
    },
@@ -630,33 +899,28 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "NDG34": {
-    "px": 159590.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "EM33X": {
     "px": 155000.0,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 0
    },
-   "AE38X": {
-    "px": 108105.468,
+   "GD35": {
+    "px": 110500.0,
     "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 650
    },
    "CO35": {
     "px": 152410.0,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 0
    },
-   "TXD8X": {
-    "px": 95.646,
+   "AL35X": {
+    "px": 102493.6,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 6
    },
-   "BB7DX": {
-    "px": 104049.0,
+   "ERM33": {
+    "px": 158200.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -665,308 +929,108 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXD7": {
-    "px": 296.0,
-    "origen": "cierre",
-    "operaciones": 118
-   },
-   "BC37D": {
-    "px": 108500.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXD6": {
-    "px": 317.3,
-    "origen": "cierre",
-    "operaciones": 78
-   },
-   "GD46": {
-    "px": 94830.0,
-    "origen": "cierre",
-    "operaciones": 61
-   },
-   "BC28X": {
-    "px": 106.7,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMD6X": {
-    "px": 102.873,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG27": {
-    "px": 122.85,
-    "origen": "cierre",
-    "operaciones": 22
-   },
-   "TXMJ9": {
-    "px": 94.66,
-    "origen": "cierre",
-    "operaciones": 39
-   },
-   "AL29X": {
-    "px": 80943.413,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD6X": {
-    "px": 315.756,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CH24D": {
-    "px": 34917.0949,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM8X": {
-    "px": 105.5,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "PARP": {
-    "px": 33100.0,
-    "origen": "cierre",
-    "operaciones": 21
-   },
-   "TXS8X": {
-    "px": 99.3002742,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "CUAP": {
-    "px": 39475.0,
-    "origen": "cierre",
-    "operaciones": 16
-   },
-   "AO27": {
-    "px": 161100.0,
-    "origen": "cierre",
-    "operaciones": 1196
-   },
-   "TXS7X": {
-    "px": 113.5,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TZVD8": {
-    "px": 117400.0,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "CO27D": {
-    "px": 114441.3125,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DICP": {
-    "px": 49285.0,
-    "origen": "cierre",
-    "operaciones": 203
-   },
-   "CO35X": {
-    "px": 142800.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV28": {
-    "px": 124730.0,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "BC36X": {
-    "px": 158386.74,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD30": {
-    "px": 84070.0,
-    "origen": "cierre",
-    "operaciones": 1434
-   },
-   "GD46X": {
-    "px": 91470.288,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "COY27": {
-    "px": 165.7868,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SJO35": {
-    "px": 154860.0,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TY27P": {
+   "JUS22": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TX31X": {
-    "px": 1475.25,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "PM29X": {
-    "px": 79035.0,
+   "COD7": {
+    "px": 159.4737,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "GD41X": {
-    "px": 104171.913,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVY0": {
-    "px": 7000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPC7X": {
-    "px": 161000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMA8X": {
-    "px": 115.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT5X": {
-    "px": 99572.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD29X": {
-    "px": 85055.856,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO29X": {
-    "px": 121115.301,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DICPX": {
-    "px": 49106.318,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "AN29": {
-    "px": 126500.0,
-    "origen": "cierre",
-    "operaciones": 413
-   },
-   "TVY0X": {
-    "px": 179.46,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL41": {
-    "px": 96520.0,
-    "origen": "cierre",
-    "operaciones": 620
-   },
-   "TVPYX": {
-    "px": 4200.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL41X": {
-    "px": 98751.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TML7X": {
-    "px": 112.987,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "BA37E": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA37D": {
-    "px": 101380.0,
-    "origen": "cierre",
-    "operaciones": 31
-   },
-   "PMA28": {
-    "px": 112.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL30": {
-    "px": 81770.0,
-    "origen": "cierre",
-    "operaciones": 118347
-   },
-   "PU26X": {
-    "px": 65902.07,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TML27": {
-    "px": 113.3,
-    "origen": "cierre",
-    "operaciones": 17
-   },
-   "TVPE": {
-    "px": 18650.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TA7X": {
-    "px": 140.28,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TVE8X": {
-    "px": 146500.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "TZXO7": {
-    "px": 103.7,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TMF8X": {
-    "px": 115.782,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "ERM33": {
-    "px": 158200.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "T30J7": {
-    "px": 132.5,
-    "origen": "cierre",
-    "operaciones": 510
-   },
-   "TY30X": {
-    "px": 113.5,
-    "origen": "cierre",
-    "operaciones": 6
    },
    "BA7DX": {
     "px": 102999.434,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXS8": {
-    "px": 99.26,
+   "TZXM7": {
+    "px": 237.5,
     "origen": "cierre",
-    "operaciones": 39
+    "operaciones": 136
    },
-   "TVPPX": {
-    "px": 10.905,
+   "TZX7X": {
+    "px": 422.225,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "AE38X": {
+    "px": 107103.402,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TMG27": {
+    "px": 123.0,
+    "origen": "cierre",
+    "operaciones": 1751
+   },
+   "AL29X": {
+    "px": 81089.449,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXS8X": {
+    "px": 99.3,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "PARP": {
+    "px": 33455.0,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "AO27": {
+    "px": 161370.0,
+    "origen": "cierre",
+    "operaciones": 1344
+   },
+   "TXS7X": {
+    "px": 114.0,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TZVD8": {
+    "px": 118130.0,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TZV27": {
+    "px": 152100.0,
+    "origen": "cierre",
+    "operaciones": 19
+   },
+   "TXD9X": {
+    "px": 87.696,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "T30J7": {
+    "px": 133.45,
+    "origen": "cierre",
+    "operaciones": 330
+   },
+   "T2D8X": {
+    "px": 89.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXD7X": {
+    "px": 293.55,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TY30X": {
+    "px": 115.023,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "TZXS8": {
+    "px": 100.5,
+    "origen": "cierre",
+    "operaciones": 33
+   },
+   "PARPX": {
+    "px": 35755.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -975,402 +1039,462 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TY30P": {
-    "px": 113.8,
+   "T15E7": {
+    "px": 155.0,
     "origen": "cierre",
-    "operaciones": 24
+    "operaciones": 357
    },
-   "TXY7X": {
-    "px": 128.492,
+   "TY30P": {
+    "px": 114.0,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 19
    },
    "AL30X": {
-    "px": 81543.3688864,
+    "px": 81076.75,
     "origen": "cierre",
     "operaciones": 9
-   },
-   "TVPY": {
-    "px": 9200.0,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "PAY0": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TX28": {
-    "px": 1437.5,
+   "BPC7X": {
+    "px": 161799.44,
     "origen": "cierre",
-    "operaciones": 477
+    "operaciones": 2
    },
-   "TXO7X": {
-    "px": 103.324,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CO32": {
-    "px": 166000.0,
+   "TVY0X": {
+    "px": 179.46,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "AL41": {
+    "px": 96370.0,
+    "origen": "cierre",
+    "operaciones": 328
+   },
+   "TVPYX": {
+    "px": 4200.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT5X": {
+    "px": 99572.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TML7X": {
+    "px": 113.357,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "BA37D": {
+    "px": 101050.0,
+    "origen": "cierre",
+    "operaciones": 16
    },
    "BPB8X": {
     "px": 144003.831,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPOD7": {
-    "px": 161750.0,
+   "DICP": {
+    "px": 49510.0,
     "origen": "cierre",
-    "operaciones": 240
+    "operaciones": 89
    },
-   "AO28X": {
-    "px": 133762.093,
+   "CUAP": {
+    "px": 39360.0,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 22
    },
-   "AO29": {
-    "px": 122180.0,
+   "TZV28": {
+    "px": 126100.0,
     "origen": "cierre",
-    "operaciones": 1551
+    "operaciones": 19
    },
-   "CUAPX": {
-    "px": 35808.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPD7X": {
-    "px": 160076.436,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT11": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "ERF25": {
-    "px": 58650.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "CO24D": {
-    "px": 47096.3068,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB7X": {
-    "px": 160049.1941786,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "DIP0": {
-    "px": 48980.0,
+   "BC37D": {
+    "px": 104000.0,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TTD6X": {
-    "px": 177.13,
+   "PMA28": {
+    "px": 112.0,
     "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 0
+   },
+   "AO28X": {
+    "px": 134577.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "GD29X": {
+    "px": 85055.856,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXO7X": {
+    "px": 103.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "DICPX": {
+    "px": 49612.5,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "GD30": {
+    "px": 83610.0,
+    "origen": "cierre",
+    "operaciones": 915
+   },
+   "BPB7X": {
+    "px": 162135.5,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "TX28X": {
     "px": 1813.655,
     "origen": "cierre",
     "operaciones": 0
    },
+   "AL30": {
+    "px": 81390.0,
+    "origen": "cierre",
+    "operaciones": 96121
+   },
+   "NDG34": {
+    "px": 154230.0,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TTD6X": {
+    "px": 177.5,
+    "origen": "cierre",
+    "operaciones": 8
+   },
    "PUA36": {
     "px": 161576.7852,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AE38": {
-    "px": 108010.0,
-    "origen": "cierre",
-    "operaciones": 1063
-   },
-   "PAE0": {
-    "px": 0.01,
+   "PU26X": {
+    "px": 65902.07,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TMF27": {
-    "px": 128.0,
+   "ERF25": {
+    "px": 59900.0,
     "origen": "cierre",
-    "operaciones": 26
+    "operaciones": 5
    },
-   "TXM7X": {
-    "px": 237.0,
+   "COY27": {
+    "px": 165.7868,
     "origen": "cierre",
-    "operaciones": 4
+    "operaciones": 0
+   },
+   "AO29X": {
+    "px": 122170.304,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "TVPA": {
-    "px": 2210.0,
+    "px": 2340.0,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 2
    },
-   "TX31": {
-    "px": 1475.5,
+   "TY27P": {
+    "px": 0.01,
     "origen": "cierre",
-    "operaciones": 146
-   },
-   "GD41": {
-    "px": 105190.0,
-    "origen": "cierre",
-    "operaciones": 496
-   },
-   "TXMJ0": {
-    "px": 85.25,
-    "origen": "cierre",
-    "operaciones": 38
-   },
-   "BPOA8": {
-    "px": 139000.0,
-    "origen": "cierre",
-    "operaciones": 8
+    "operaciones": 0
    },
    "GE29": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BDC36": {
-    "px": 157370.0,
+   "TML27": {
+    "px": 113.6,
+    "origen": "cierre",
+    "operaciones": 60
+   },
+   "PM29X": {
+    "px": 79035.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPOB8": {
-    "px": 137080.0,
+   "AN29": {
+    "px": 126720.0,
     "origen": "cierre",
-    "operaciones": 149
+    "operaciones": 447
    },
-   "TY7X": {
-    "px": 130.37,
+   "TA7X": {
+    "px": 139.485,
     "origen": "cierre",
-    "operaciones": 9
+    "operaciones": 4
    },
-   "TVPP": {
-    "px": 6.947,
+   "SA24D": {
+    "px": 64000.0,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TXMD9": {
-    "px": 90.0,
-    "origen": "cierre",
-    "operaciones": 55
-   },
-   "TXM9X": {
-    "px": 93.269,
+   "AL41X": {
+    "px": 98751.5,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZX28": {
-    "px": 366.25,
-    "origen": "cierre",
-    "operaciones": 142
-   },
-   "TZXA7": {
-    "px": 130.9,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "PBA8X": {
-    "px": 113.4935,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "JUS22": {
+   "PAE0": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL35": {
-    "px": 103600.0,
-    "origen": "cierre",
-    "operaciones": 1895
-   },
-   "TZXD8": {
-    "px": 88.5,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "BPOA7": {
-    "px": 161900.0,
-    "origen": "cierre",
-    "operaciones": 14
-   },
-   "PBA28": {
-    "px": 114.55,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TZXM9": {
-    "px": 94.05,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TMVE8": {
-    "px": 147700.0,
-    "origen": "cierre",
-    "operaciones": 228
-   },
-   "BPA7X": {
-    "px": 160000.0,
+   "AO27X": {
+    "px": 161108.445,
     "origen": "cierre",
     "operaciones": 1
    },
-   "SA24D": {
-    "px": 62220.0,
+   "TXMJ0": {
+    "px": 85.13,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 29
    },
-   "BPOC7": {
-    "px": 161690.0,
+   "TX31": {
+    "px": 1478.5,
     "origen": "cierre",
-    "operaciones": 274
+    "operaciones": 122
    },
-   "BPOB7": {
-    "px": 161310.0,
+   "BPOA8": {
+    "px": 138740.0,
     "origen": "cierre",
-    "operaciones": 72
-   },
-   "BPA8X": {
-    "px": 139500.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "S24DX": {
-    "px": 76926.97,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO27X": {
-    "px": 161000.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "PUA6X": {
-    "px": 169592.877,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TTD26": {
-    "px": 177.001,
-    "origen": "cierre",
-    "operaciones": 51
-   },
-   "T30A7": {
-    "px": 139.65,
-    "origen": "cierre",
-    "operaciones": 3516
-   },
-   "COD7": {
-    "px": 159.4737,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG28": {
-    "px": 109.75,
-    "origen": "cierre",
-    "operaciones": 12
+    "operaciones": 26
    }
   },
   "T1": {
-   "DE7X": {
-    "px": 153310.0,
+   "X29E7": {
+    "px": 106.0,
     "origen": "cierre",
-    "operaciones": 4
-   },
-   "DN6X": {
-    "px": 154354.472,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "SF7X": {
-    "px": 101.0088971,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "X30N6": {
-    "px": 130.41,
-    "origen": "cierre",
-    "operaciones": 494
-   },
-   "S29E7": {
-    "px": 106.14,
-    "origen": "cierre",
-    "operaciones": 1031
-   },
-   "XN6X": {
-    "px": 130.687,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "D31M7": {
-    "px": 153790.0,
-    "origen": "cierre",
-    "operaciones": 28
-   },
-   "XE7X": {
-    "px": 105.613,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "SE7X": {
-    "px": 105.633,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "D15E7": {
-    "px": 153800.0,
-    "origen": "cierre",
-    "operaciones": 318
-   },
-   "S26F7": {
-    "px": 101.0,
-    "origen": "cierre",
-    "operaciones": 1189
-   },
-   "S30N6": {
-    "px": 128.497,
-    "origen": "cierre",
-    "operaciones": 1410
-   },
-   "D10Y7": {
-    "px": 160000.0,
-    "origen": "cierre",
-    "operaciones": 6
+    "operaciones": 454
    },
    "DM7X": {
     "px": 151276.636,
     "origen": "cierre",
     "operaciones": 0
    },
-   "D30N6": {
-    "px": 154500.0,
+   "D15E7": {
+    "px": 153950.0,
     "origen": "cierre",
-    "operaciones": 408
+    "operaciones": 177
+   },
+   "DN6X": {
+    "px": 154951.6958925,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "S29E7": {
+    "px": 106.438,
+    "origen": "cierre",
+    "operaciones": 1801
+   },
+   "DE7X": {
+    "px": 154240.0893333,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "XN6X": {
+    "px": 130.835,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "S30N6": {
+    "px": 128.77,
+    "origen": "cierre",
+    "operaciones": 2078
+   },
+   "SF7X": {
+    "px": 100.47,
+    "origen": "cierre",
+    "operaciones": 15
+   },
+   "M30A7": {
+    "px": 100.52,
+    "origen": "cierre",
+    "operaciones": 266
+   },
+   "XE7X": {
+    "px": 105.879,
+    "origen": "cierre",
+    "operaciones": 22
+   },
+   "MA7X": {
+    "px": 100.52,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "D10Y7": {
+    "px": 160000.0,
+    "origen": "cierre",
+    "operaciones": 4
    },
    "SN6X": {
-    "px": 128.072,
+    "px": 128.326,
     "origen": "cierre",
-    "operaciones": 5
+    "operaciones": 11
    },
-   "X29E7": {
-    "px": 105.62,
+   "X30N6": {
+    "px": 130.681,
     "origen": "cierre",
-    "operaciones": 262
+    "operaciones": 176
+   },
+   "D30N6": {
+    "px": 154690.0,
+    "origen": "cierre",
+    "operaciones": 236
+   },
+   "S26F7": {
+    "px": 101.25,
+    "origen": "cierre",
+    "operaciones": 690
+   },
+   "D31M7": {
+    "px": 153800.0,
+    "origen": "cierre",
+    "operaciones": 101
+   },
+   "SE7X": {
+    "px": 106.4,
+    "origen": "cierre",
+    "operaciones": 4
    },
    "BUN26": {
     "px": 99.2397,
     "origen": "cierre",
     "operaciones": 0
    },
+   "BU2M7": {
+    "px": 103.7,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BUM27": {
+    "px": 91.0642,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "LBD26": {
+    "px": 97.992,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "BBA27": {
+    "px": 109.0,
+    "origen": "cierre",
+    "operaciones": 35
+   },
+   "BBA7X": {
+    "px": 103.836,
+    "origen": "cierre",
+    "operaciones": 1
+   },
    "BUE7X": {
     "px": 100.056,
     "origen": "cierre",
+    "operaciones": 0
+   },
+   "LBN26": {
+    "px": 99.808,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "BGD26": {
+    "px": 104.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BAS7X": {
+    "px": 104.37,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "B5N6X": {
+    "px": 102.972,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BBN6X": {
+    "px": 102.79,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "LBN6X": {
+    "px": 98.85,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BGS27": {
+    "px": 105.5,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "BAS27": {
+    "px": 100.0,
+    "origen": "cierre",
     "operaciones": 1
+   },
+   "BUF7X": {
+    "px": 100.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "LBD6X": {
+    "px": 96.9,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "XBN26": {
+    "px": 112.9,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "XBN6X": {
+    "px": 111.56,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BUF27": {
+    "px": 100.069,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BUE27": {
+    "px": 101.3,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "BGD6X": {
+    "px": 103.18,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BBY27": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BU4N6": {
+    "px": 104.3,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BL2D6": {
+    "px": 102.322,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BBD26": {
+    "px": 109.85,
+    "origen": "cierre",
+    "operaciones": 100
    },
    "BU5N6": {
     "px": 102.44,
@@ -1382,320 +1506,250 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "LBD26": {
-    "px": 96.85,
+   "CO24D": {
+    "px": 60069.0419,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BBD26": {
-    "px": 108.95,
+   "PAP0": {
+    "px": 32605.0,
     "origen": "cierre",
-    "operaciones": 44
+    "operaciones": 13
    },
-   "B5N6X": {
-    "px": 102.972,
+   "GD30": {
+    "px": 83900.0,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 1571
    },
-   "BAS7X": {
-    "px": 104.37,
+   "AN29": {
+    "px": 126900.0,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 2338
    },
-   "BGD26": {
-    "px": 104.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BBN6X": {
-    "px": 102.79,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BGS27": {
-    "px": 104.0,
-    "origen": "cierre",
-    "operaciones": 15
-   },
-   "BUF7X": {
-    "px": 100.056,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "LBD6X": {
-    "px": 96.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "XBN6X": {
-    "px": 111.56,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "XBN26": {
-    "px": 112.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BUF27": {
-    "px": 100.069,
+   "TXS8X": {
+    "px": 100.195,
     "origen": "cierre",
     "operaciones": 3
    },
-   "BBA27": {
-    "px": 108.0,
+   "BPOC7": {
+    "px": 162000.0,
+    "origen": "cierre",
+    "operaciones": 689
+   },
+   "TXS7X": {
+    "px": 114.205,
     "origen": "cierre",
     "operaciones": 4
    },
-   "BU2M7": {
-    "px": 103.7,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BL2D6": {
-    "px": 102.322,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BBY27": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BGD6X": {
-    "px": 103.18,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BAS27": {
-    "px": 101.05,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "BBA7X": {
-    "px": 103.227,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BU4N6": {
-    "px": 104.3,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "LBN26": {
-    "px": 99.57,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BUM27": {
-    "px": 91.0642,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BUE27": {
-    "px": 99.3447,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "LBN6X": {
-    "px": 98.85,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BUF7X-0002-C-CT-ARS": {
-    "px": 100.056,
+   "PMA28": {
+    "px": 114.0,
     "origen": "cierre",
     "operaciones": 1
+   },
+   "CO32": {
+    "px": 166300.0,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TXMJ9": {
+    "px": 94.9,
+    "origen": "cierre",
+    "operaciones": 198
+   },
+   "NDT25": {
+    "px": 88800.0,
+    "origen": "cierre",
+    "operaciones": 52
+   },
+   "AO29": {
+    "px": 121900.0,
+    "origen": "cierre",
+    "operaciones": 2390
+   },
+   "TTD26": {
+    "px": 177.45,
+    "origen": "cierre",
+    "operaciones": 215
    },
    "GE38X": {
     "px": 115727.4,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZXO7": {
-    "px": 103.2,
-    "origen": "cierre",
-    "operaciones": 227
-   },
-   "TXMD8": {
-    "px": 96.0,
-    "origen": "cierre",
-    "operaciones": 221
-   },
-   "TZXA7": {
-    "px": 131.1,
-    "origen": "cierre",
-    "operaciones": 63
-   },
    "GD46": {
-    "px": 96490.0,
+    "px": 97720.0,
     "origen": "cierre",
-    "operaciones": 287
+    "operaciones": 178
    },
-   "AO28X": {
-    "px": 133842.717,
+   "TXA7X": {
+    "px": 130.192,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 3
    },
-   "PAP0": {
-    "px": 34240.0,
+   "AL35X": {
+    "px": 103646.66,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TFU27": {
+    "px": 32000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX28": {
+    "px": 368.05,
+    "origen": "cierre",
+    "operaciones": 924
+   },
+   "NDT11": {
+    "px": 24263.503,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SFN7X": {
+    "px": 101.67,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0X": {
+    "px": 85.0,
     "origen": "cierre",
     "operaciones": 9
    },
    "T2D8X": {
-    "px": 92.267,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CEDI": {
-    "px": 120000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPD7X": {
-    "px": 161750.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXA7X": {
-    "px": 131.063,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TVPP": {
-    "px": 6.739,
-    "origen": "cierre",
-    "operaciones": 52
-   },
-   "CH24D": {
-    "px": 29754.62,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29": {
-    "px": 127300.0,
-    "origen": "cierre",
-    "operaciones": 1975
-   },
-   "T31Y7": {
-    "px": 131.55,
-    "origen": "cierre",
-    "operaciones": 747
-   },
-   "AN29X": {
-    "px": 130173.06,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA8X": {
-    "px": 139572.616,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL35X": {
-    "px": 103661.892,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TXS8X": {
-    "px": 98.9,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "TXS7X": {
-    "px": 114.1,
-    "origen": "cierre",
-    "operaciones": 16
-   },
-   "TZX28": {
-    "px": 366.65,
-    "origen": "cierre",
-    "operaciones": 1212
-   },
-   "PMA28": {
-    "px": 115.9,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "NDT25": {
-    "px": 88000.0,
-    "origen": "cierre",
-    "operaciones": 90
-   },
-   "AO29": {
-    "px": 122390.0,
-    "origen": "cierre",
-    "operaciones": 4812
-   },
-   "AO27": {
-    "px": 161550.0,
-    "origen": "cierre",
-    "operaciones": 3811
-   },
-   "TA7X": {
-    "px": 140.8783561,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "AE38X": {
-    "px": 108420.0,
+    "px": 89.0,
     "origen": "cierre",
     "operaciones": 2
    },
-   "TMF28": {
-    "px": 114.0,
+   "AO27": {
+    "px": 161910.0,
     "origen": "cierre",
-    "operaciones": 13
+    "operaciones": 3099
+   },
+   "DICP": {
+    "px": 49590.0,
+    "origen": "cierre",
+    "operaciones": 291
+   },
+   "TA7X": {
+    "px": 139.72,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "AE38X": {
+    "px": 107266.257,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TX28X": {
+    "px": 1442.0,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "COD7": {
     "px": 179.75,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD30X": {
-    "px": 84484.2,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "PAY0": {
     "px": 114000.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD35": {
-    "px": 111350.0,
+   "GE41": {
+    "px": 105500.0,
     "origen": "cierre",
-    "operaciones": 3565
+    "operaciones": 0
    },
    "GD38X": {
     "px": 116557.452,
     "origen": "cierre",
     "operaciones": 0
    },
+   "BPB8X": {
+    "px": 134350.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27X": {
+    "px": 161397.117,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMF28": {
+    "px": 114.1,
+    "origen": "cierre",
+    "operaciones": 39
+   },
+   "TXD8X": {
+    "px": 95.7697799,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "GD30X": {
+    "px": 84484.2,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD35": {
+    "px": 111150.0,
+    "origen": "cierre",
+    "operaciones": 2521
+   },
+   "SA24D": {
+    "px": 63800.0,
+    "origen": "cierre",
+    "operaciones": 11
+   },
    "PMM7X": {
     "px": 272.0,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "BDC28": {
+    "px": 104.1,
+    "origen": "cierre",
+    "operaciones": 419
+   },
+   "BPC7X": {
+    "px": 161600.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO35": {
+    "px": 153670.0,
+    "origen": "cierre",
+    "operaciones": 9
    },
    "PARPX": {
     "px": 37325.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BDC28": {
-    "px": 106.0,
+   "TML27": {
+    "px": 113.8,
     "origen": "cierre",
-    "operaciones": 615
+    "operaciones": 201
+   },
+   "TZXO7": {
+    "px": 103.6,
+    "origen": "cierre",
+    "operaciones": 180
    },
    "PMA8X": {
     "px": 114.2357143,
     "origen": "cierre",
     "operaciones": 0
    },
-   "CO35": {
-    "px": 151770.0,
+   "GD41": {
+    "px": 104460.0,
     "origen": "cierre",
-    "operaciones": 31
+    "operaciones": 1058
+   },
+   "TE7X": {
+    "px": 155.4,
+    "origen": "cierre",
+    "operaciones": 7
    },
    "TU27X": {
     "px": 59000.0,
@@ -1712,685 +1766,15 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZX27": {
-    "px": 423.1,
-    "origen": "cierre",
-    "operaciones": 334
-   },
-   "BPOB8": {
-    "px": 136610.0,
-    "origen": "cierre",
-    "operaciones": 542
-   },
-   "TVPYX": {
-    "px": 4202.946,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXS7": {
-    "px": 114.2,
-    "origen": "cierre",
-    "operaciones": 461
-   },
-   "CO24X": {
-    "px": 132367.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC28X": {
-    "px": 106.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY7X": {
-    "px": 130.42,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "TZXD8": {
-    "px": 88.9,
-    "origen": "cierre",
-    "operaciones": 26
-   },
-   "TXMJ8": {
-    "px": 103.75,
-    "origen": "cierre",
-    "operaciones": 139
-   },
-   "T30A7": {
-    "px": 139.8,
-    "origen": "cierre",
-    "operaciones": 4198
-   },
-   "BAM7X": {
-    "px": 51.96,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "T15E7": {
-    "px": 154.65,
-    "origen": "cierre",
-    "operaciones": 2516
-   },
-   "TZV8X": {
-    "px": 126996.45,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BB7DX": {
-    "px": 106496.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PBM28": {
-    "px": 85.2173,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMD26": {
-    "px": 103.05,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC37D": {
-    "px": 100000.0,
-    "origen": "cierre",
-    "operaciones": 17
-   },
-   "GD29X": {
-    "px": 85107.123,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CY27X": {
-    "px": 231.15,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMD6X": {
-    "px": 102.935,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMVE8": {
-    "px": 147650.0,
-    "origen": "cierre",
-    "operaciones": 756
-   },
-   "TZX8X": {
-    "px": 365.164,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "COY27": {
-    "px": 232.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TFU27": {
-    "px": 32000.0,
+   "GD46X": {
+    "px": 94484.72,
     "origen": "cierre",
     "operaciones": 0
    },
    "SJO35": {
     "px": 155500.0,
     "origen": "cierre",
-    "operaciones": 22
-   },
-   "TXJ8X": {
-    "px": 103.8681904,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "GD41X": {
-    "px": 104228.993,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TX31X": {
-    "px": 1476.129,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXD8X": {
-    "px": 95.6428571,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TZV7X": {
-    "px": 152732.262,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVY0": {
-    "px": 8000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SJO5X": {
-    "px": 157514.247,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BAM27": {
-    "px": 51.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVY0X": {
-    "px": 179.95,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMM27": {
-    "px": 86.5568,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZVD8": {
-    "px": 117800.0,
-    "origen": "cierre",
-    "operaciones": 27
-   },
-   "C27DX": {
-    "px": 39932.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PARP": {
-    "px": 33055.0,
-    "origen": "cierre",
-    "operaciones": 119
-   },
-   "BPOD7": {
-    "px": 161700.0,
-    "origen": "cierre",
-    "operaciones": 883
-   },
-   "GD38": {
-    "px": 118200.0,
-    "origen": "cierre",
-    "operaciones": 1285
-   },
-   "TVPE": {
-    "px": 18750.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PM29X": {
-    "px": 71650.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL41": {
-    "px": 96280.0,
-    "origen": "cierre",
-    "operaciones": 3949
-   },
-   "BA37D": {
-    "px": 101800.0,
-    "origen": "cierre",
-    "operaciones": 159
-   },
-   "BPOB7": {
-    "px": 161420.0,
-    "origen": "cierre",
-    "operaciones": 1001
-   },
-   "DIP0": {
-    "px": 48940.0,
-    "origen": "cierre",
-    "operaciones": 55
-   },
-   "AL29": {
-    "px": 81700.0,
-    "origen": "cierre",
-    "operaciones": 1137
-   },
-   "AL29X": {
-    "px": 82407.048,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM8X": {
-    "px": 105.551,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TJ7X": {
-    "px": 132.37,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "GD29": {
-    "px": 84470.0,
-    "origen": "cierre",
-    "operaciones": 531
-   },
-   "BB37D": {
-    "px": 103900.0,
-    "origen": "cierre",
-    "operaciones": 74
-   },
-   "TVD8X": {
-    "px": 120376.106,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TZXD7": {
-    "px": 293.95,
-    "origen": "cierre",
-    "operaciones": 415
-   },
-   "NDG34": {
-    "px": 159000.0,
-    "origen": "cierre",
-    "operaciones": 43
-   },
-   "TMG7X": {
-    "px": 123.05,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "AO29X": {
-    "px": 121750.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CO27D": {
-    "px": 140346.1656,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA7X": {
-    "px": 160000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPAX": {
-    "px": 3035.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXM8": {
-    "px": 105.3,
-    "origen": "cierre",
-    "operaciones": 177
-   },
-   "S24DX": {
-    "px": 85300.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG27": {
-    "px": 122.9,
-    "origen": "cierre",
-    "operaciones": 185
-   },
-   "AE38": {
-    "px": 108370.0,
-    "origen": "cierre",
-    "operaciones": 4014
-   },
-   "TMG8X": {
-    "px": 109.991,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TY27X": {
-    "px": 111.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7X": {
-    "px": 237.0,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "PBA28": {
-    "px": 112.5,
-    "origen": "cierre",
-    "operaciones": 37
-   },
-   "TXM9X": {
-    "px": 91.75,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF8X": {
-    "px": 115.851,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CO35X": {
-    "px": 144474.265,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXS8": {
-    "px": 99.29,
-    "origen": "cierre",
-    "operaciones": 389
-   },
-   "BC36X": {
-    "px": 158030.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG28": {
-    "px": 110.0,
-    "origen": "cierre",
-    "operaciones": 202
-   },
-   "TY30P": {
-    "px": 114.0,
-    "origen": "cierre",
-    "operaciones": 248
-   },
-   "BPOA7": {
-    "px": 161700.0,
-    "origen": "cierre",
-    "operaciones": 58
-   },
-   "SFN27": {
-    "px": 82.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXMD9": {
-    "px": 88.42,
-    "origen": "cierre",
-    "operaciones": 463
-   },
-   "TZXD6": {
-    "px": 317.3,
-    "origen": "cierre",
-    "operaciones": 402
-   },
-   "TZXM7": {
-    "px": 237.3,
-    "origen": "cierre",
-    "operaciones": 459
-   },
-   "AL35": {
-    "px": 103060.0,
-    "origen": "cierre",
-    "operaciones": 4027
-   },
-   "BA37E": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "ERM33": {
-    "px": 155000.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXM9": {
-    "px": 94.05,
-    "origen": "cierre",
-    "operaciones": 76
-   },
-   "TTD6X": {
-    "px": 177.229,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "GD35X": {
-    "px": 111422.44,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TVE8X": {
-    "px": 146564.219,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "TX28X": {
-    "px": 1442.0,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "JUS22": {
-    "px": 12771.9769,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE41": {
-    "px": 105500.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB8X": {
-    "px": 134350.0,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "AO27X": {
-    "px": 162379.5,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "AO28": {
-    "px": 134370.0,
-    "origen": "cierre",
-    "operaciones": 7377
-   },
-   "TVPY": {
-    "px": 8500.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT5X": {
-    "px": 98848.555,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPA": {
-    "px": 2399.0,
-    "origen": "cierre",
-    "operaciones": 18
-   },
-   "SA24D": {
-    "px": 63450.0,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "TX31": {
-    "px": 1476.0,
-    "origen": "cierre",
-    "operaciones": 585
-   },
-   "GE29": {
-    "px": 71731.392,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT11": {
-    "px": 24263.503,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZXY7": {
-    "px": 129.65,
-    "origen": "cierre",
-    "operaciones": 103
-   },
-   "TXJ9X": {
-    "px": 89.8605,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TZV28": {
-    "px": 124990.0,
-    "origen": "cierre",
-    "operaciones": 55
-   },
-   "TXY7X": {
-    "px": 128.558,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CUAP": {
-    "px": 39105.0,
-    "origen": "cierre",
-    "operaciones": 78
-   },
-   "SFN7X": {
-    "px": 101.67,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXO7X": {
-    "px": 103.15,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "PAY5": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PUA36": {
-    "px": 166700.0,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "ERF25": {
-    "px": 58440.0,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "GE38": {
-    "px": 36988.7904,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPC7X": {
-    "px": 161600.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TZV27": {
-    "px": 152000.0,
-    "origen": "cierre",
-    "operaciones": 73
-   },
-   "BC37E": {
-    "px": 96700.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO24D": {
-    "px": 60069.0419,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXMJ0": {
-    "px": 85.1,
-    "origen": "cierre",
-    "operaciones": 279
-   },
-   "TXD6X": {
-    "px": 317.2,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BPB7X": {
-    "px": 160566.145,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "COD7X": {
-    "px": 181.32,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD7X": {
-    "px": 293.7131474,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "GD30": {
-    "px": 84350.0,
-    "origen": "cierre",
-    "operaciones": 2529
-   },
-   "TMF27": {
-    "px": 128.1,
-    "origen": "cierre",
-    "operaciones": 202
-   },
-   "CUAPX": {
-    "px": 45375.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA7DX": {
-    "px": 103061.516,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TML27": {
-    "px": 113.5,
-    "origen": "cierre",
-    "operaciones": 116
-   },
-   "TXJ0X": {
-    "px": 85.725063,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "GD41": {
-    "px": 104020.0,
-    "origen": "cierre",
-    "operaciones": 2368
-   },
-   "BPOA8": {
-    "px": 139410.0,
-    "origen": "cierre",
-    "operaciones": 38
-   },
-   "TXD9X": {
-    "px": 88.404,
-    "origen": "cierre",
-    "operaciones": 9
-   },
-   "TML7X": {
-    "px": 113.4,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TE7X": {
-    "px": 153.973,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "GD46X": {
-    "px": 94484.72,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPOC7": {
-    "px": 161310.0,
-    "origen": "cierre",
-    "operaciones": 1088
-   },
-   "BDC36": {
-    "px": 156990.0,
-    "origen": "cierre",
-    "operaciones": 32
-   },
-   "TX28": {
-    "px": 1438.0,
-    "origen": "cierre",
-    "operaciones": 1148
-   },
-   "PUL26": {
-    "px": 39961.8377,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 11
    },
    "PAE0": {
     "px": 0.01,
@@ -2402,18 +1786,63 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZX7X": {
-    "px": 422.2,
+   "TZV28": {
+    "px": 126980.0,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 134
+   },
+   "TML7X": {
+    "px": 113.75,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "TZXA7": {
+    "px": 131.7,
+    "origen": "cierre",
+    "operaciones": 53
+   },
+   "AL29": {
+    "px": 82170.0,
+    "origen": "cierre",
+    "operaciones": 926
+   },
+   "TXD9X": {
+    "px": 88.3664521,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TVPY": {
+    "px": 8500.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PMD26": {
+    "px": 103.05,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX28": {
+    "px": 1442.0,
+    "origen": "cierre",
+    "operaciones": 663
+   },
+   "PARP": {
+    "px": 33300.0,
+    "origen": "cierre",
+    "operaciones": 54
+   },
+   "PUL26": {
+    "px": 39961.8377,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "DICPX": {
-    "px": 49133.225,
+    "px": 49601.104,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 3
    },
-   "TVPPX": {
-    "px": 10.936,
+   "TVPE": {
+    "px": 18750.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2422,326 +1851,716 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "CO32": {
-    "px": 167800.0,
+   "AL30": {
+    "px": 81290.0,
+    "origen": "cierre",
+    "operaciones": 53831
+   },
+   "PMM29": {
+    "px": 61830.0,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "BA37D": {
+    "px": 101600.0,
+    "origen": "cierre",
+    "operaciones": 86
+   },
+   "GD41X": {
+    "px": 103109.086,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXMD8": {
+    "px": 96.09,
+    "origen": "cierre",
+    "operaciones": 233
+   },
+   "BPD7X": {
+    "px": 161800.0,
     "origen": "cierre",
     "operaciones": 2
    },
-   "AL30": {
-    "px": 81310.0,
+   "TZV7X": {
+    "px": 152732.262,
     "origen": "cierre",
-    "operaciones": 84919
+    "operaciones": 0
    },
-   "GE41X": {
-    "px": 6464.0,
+   "SJO5X": {
+    "px": 157514.247,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX27": {
+    "px": 425.0,
+    "origen": "cierre",
+    "operaciones": 397
+   },
+   "TZXY7": {
+    "px": 129.7,
+    "origen": "cierre",
+    "operaciones": 169
+   },
+   "TVPYX": {
+    "px": 4202.946,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAP": {
+    "px": 39510.0,
+    "origen": "cierre",
+    "operaciones": 67
+   },
+   "AE38": {
+    "px": 108900.0,
+    "origen": "cierre",
+    "operaciones": 3197
+   },
+   "CO24X": {
+    "px": 132367.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG8X": {
+    "px": 109.9379904,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TXM7X": {
+    "px": 237.9,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "BC28X": {
+    "px": 106.6,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PBA28": {
+    "px": 112.5,
+    "origen": "cierre",
+    "operaciones": 51
+   },
+   "AO28X": {
+    "px": 136312.419,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXM9X": {
+    "px": 91.75,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7X": {
+    "px": 139.959,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TMF8X": {
+    "px": 115.851,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVY0": {
+    "px": 8000.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TZXS8": {
+    "px": 99.7,
+    "origen": "cierre",
+    "operaciones": 201
+   },
+   "TY30P": {
+    "px": 114.25,
+    "origen": "cierre",
+    "operaciones": 280
+   },
+   "CUAPX": {
+    "px": 45375.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SFN27": {
+    "px": 82.4,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36X": {
+    "px": 158030.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPA": {
+    "px": 2400.0,
+    "origen": "cierre",
+    "operaciones": 14
+   },
+   "TMG28": {
+    "px": 110.0,
+    "origen": "cierre",
+    "operaciones": 53
+   },
+   "CEDI": {
+    "px": 120000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPP": {
+    "px": 6.949,
+    "origen": "cierre",
+    "operaciones": 56
+   },
+   "CH24D": {
+    "px": 29754.62,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "T15E7": {
+    "px": 155.12,
+    "origen": "cierre",
+    "operaciones": 928
+   },
+   "T31Y7": {
+    "px": 131.75,
+    "origen": "cierre",
+    "operaciones": 633
+   },
+   "AN29X": {
+    "px": 130173.06,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB7DX": {
+    "px": 106496.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA8X": {
+    "px": 139572.616,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC37D": {
+    "px": 101000.0,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "BPOB8": {
+    "px": 135600.0,
+    "origen": "cierre",
+    "operaciones": 431
+   },
+   "TMVE8": {
+    "px": 148200.0,
+    "origen": "cierre",
+    "operaciones": 728
+   },
+   "BB37D": {
+    "px": 104000.0,
+    "origen": "cierre",
+    "operaciones": 25
+   },
+   "TXMJ8": {
+    "px": 103.95,
+    "origen": "cierre",
+    "operaciones": 140
+   },
+   "BPOA7": {
+    "px": 161950.0,
+    "origen": "cierre",
+    "operaciones": 100
+   },
+   "TXMD9": {
+    "px": 88.35,
+    "origen": "cierre",
+    "operaciones": 313
+   },
+   "TXJ9X": {
+    "px": 94.7,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "TZXD6": {
+    "px": 318.2,
+    "origen": "cierre",
+    "operaciones": 475
+   },
+   "TMF27": {
+    "px": 128.4,
+    "origen": "cierre",
+    "operaciones": 874
+   },
+   "TZXM7": {
+    "px": 238.1,
+    "origen": "cierre",
+    "operaciones": 519
+   },
+   "AL35": {
+    "px": 103200.0,
+    "origen": "cierre",
+    "operaciones": 2619
+   },
+   "TZX7X": {
+    "px": 424.4771383,
+    "origen": "cierre",
+    "operaciones": 7
+   },
+   "ERM33": {
+    "px": 155000.0,
     "origen": "cierre",
     "operaciones": 0
    },
    "TMF7X": {
-    "px": 127.9966243,
+    "px": 128.35,
     "origen": "cierre",
-    "operaciones": 17
+    "operaciones": 8
    },
-   "PMM29": {
-    "px": 61000.0,
+   "TZXM9": {
+    "px": 94.11,
     "origen": "cierre",
-    "operaciones": 15
-   },
-   "TXMJ9": {
-    "px": 94.8,
-    "origen": "cierre",
-    "operaciones": 432
+    "operaciones": 41
    },
    "TB27": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TTD26": {
-    "px": 177.13,
+   "TTD6X": {
+    "px": 177.748,
     "origen": "cierre",
-    "operaciones": 233
+    "operaciones": 8
    },
    "AL30X": {
-    "px": 81877.076674,
+    "px": 81345.9,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TVE8X": {
+    "px": 148200.0,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "TY30X": {
+    "px": 115.44,
+    "origen": "cierre",
+    "operaciones": 18
+   },
+   "T30J7": {
+    "px": 132.55,
+    "origen": "cierre",
+    "operaciones": 510
+   },
+   "CY27X": {
+    "px": 231.15,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD29X": {
+    "px": 85107.123,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ8X": {
+    "px": 104.237,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "PMD6X": {
+    "px": 102.935,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "COY27": {
+    "px": 232.5,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BAM27": {
+    "px": 53.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TX31X": {
+    "px": 1476.129,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PMM27": {
+    "px": 86.5568,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVY0X": {
+    "px": 179.95,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZVD8": {
+    "px": 118500.0,
+    "origen": "cierre",
+    "operaciones": 26
+   },
+   "BA37E": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD35X": {
+    "px": 111187.58,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TZXS7": {
+    "px": 114.7,
+    "origen": "cierre",
+    "operaciones": 437
+   },
+   "TY7X": {
+    "px": 131.85,
+    "origen": "cierre",
+    "operaciones": 9
+   },
+   "JUS22": {
+    "px": 12771.9769,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZXD8": {
+    "px": 89.1,
+    "origen": "cierre",
+    "operaciones": 25
+   },
+   "AO28": {
+    "px": 134490.0,
+    "origen": "cierre",
+    "operaciones": 3385
+   },
+   "DIP0": {
+    "px": 49200.0,
+    "origen": "cierre",
+    "operaciones": 24
+   },
+   "AL29X": {
+    "px": 82150.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TXM8X": {
+    "px": 105.6,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "GD29": {
+    "px": 84940.0,
+    "origen": "cierre",
+    "operaciones": 236
+   },
+   "TMG27": {
+    "px": 123.25,
+    "origen": "cierre",
+    "operaciones": 1302
+   },
+   "TZXD7": {
+    "px": 295.05,
+    "origen": "cierre",
+    "operaciones": 404
+   },
+   "TMG7X": {
+    "px": 123.2,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TY27X": {
+    "px": 111.6,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE29": {
+    "px": 71731.392,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8X": {
+    "px": 368.4,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "T30A7": {
+    "px": 140.17,
+    "origen": "cierre",
+    "operaciones": 1349
+   },
+   "TVD8X": {
+    "px": 117876.6,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "CO27D": {
+    "px": 140346.1656,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BAM7X": {
+    "px": 51.96,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPOD7": {
+    "px": 161970.0,
+    "origen": "cierre",
+    "operaciones": 813
+   },
+   "NDG34": {
+    "px": 159990.0,
+    "origen": "cierre",
+    "operaciones": 17
+   },
+   "C27DX": {
+    "px": 39932.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV8X": {
+    "px": 125000.0,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "TXY7X": {
+    "px": 129.66,
     "origen": "cierre",
     "operaciones": 6
    },
-   "DICP": {
-    "px": 49170.0,
+   "NDT5X": {
+    "px": 98848.555,
     "origen": "cierre",
-    "operaciones": 546
+    "operaciones": 0
    },
-   "TY30X": {
-    "px": 113.492,
+   "AO29X": {
+    "px": 122389.207,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD38": {
+    "px": 118600.0,
+    "origen": "cierre",
+    "operaciones": 695
+   },
+   "TZXM8": {
+    "px": 105.6,
+    "origen": "cierre",
+    "operaciones": 162
+   },
+   "PBM28": {
+    "px": 85.2173,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31": {
+    "px": 1479.0,
+    "origen": "cierre",
+    "operaciones": 443
+   },
+   "PM29X": {
+    "px": 71650.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA7X": {
+    "px": 160000.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE38": {
+    "px": 36988.7904,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PAY5": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXO7X": {
+    "px": 103.6,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TZV27": {
+    "px": 152400.0,
+    "origen": "cierre",
+    "operaciones": 76
+   },
+   "TVPAX": {
+    "px": 3035.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PUA36": {
+    "px": 167850.0,
+    "origen": "cierre",
+    "operaciones": 36
+   },
+   "TXMJ0": {
+    "px": 85.25,
+    "origen": "cierre",
+    "operaciones": 182
+   },
+   "BA7DX": {
+    "px": 103061.516,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO35X": {
+    "px": 144474.265,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41": {
+    "px": 96610.0,
+    "origen": "cierre",
+    "operaciones": 1135
+   },
+   "TXD6X": {
+    "px": 318.15,
     "origen": "cierre",
     "operaciones": 10
    },
-   "T30J7": {
-    "px": 132.19,
+   "BPOA8": {
+    "px": 138000.0,
     "origen": "cierre",
-    "operaciones": 658
+    "operaciones": 36
+   },
+   "ERF25": {
+    "px": 58490.0,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "S24DX": {
+    "px": 85300.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BDC36": {
+    "px": 155500.0,
+    "origen": "cierre",
+    "operaciones": 55
+   },
+   "BPOB7": {
+    "px": 161450.0,
+    "origen": "cierre",
+    "operaciones": 196
+   },
+   "COD7X": {
+    "px": 181.32,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD7X": {
+    "px": 294.85,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "BC37E": {
+    "px": 96700.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7X": {
+    "px": 162378.0,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TVPPX": {
+    "px": 10.936,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE41X": {
+    "px": 6464.0,
+    "origen": "cierre",
+    "operaciones": 0
    }
   }
  },
- "fecha_precios": "2026-11-12",
+ "fecha_precios": "2026-11-13",
  "futuros": [
   {
    "symbol": "DONOV26M",
    "vto": "2026-11-30",
-   "px": 1563.5,
-   "origen": "cierre anterior",
+   "px": 1562.5,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DONOV26",
    "vto": "2026-11-30",
-   "px": 1563.5,
-   "origen": "cierre anterior",
+   "px": 1562.5,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DODIC26",
    "vto": "2026-12-30",
-   "px": 1592.0,
-   "origen": "cierre anterior",
+   "px": 1593.0,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DODIC26M",
    "vto": "2026-12-30",
-   "px": 1592.0,
-   "origen": "cierre anterior",
+   "px": 1593.0,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DOENE27M",
    "vto": "2027-01-29",
-   "px": 1622.0,
-   "origen": "cierre anterior",
+   "px": 1624.0,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DOENE27",
    "vto": "2027-01-29",
-   "px": 1622.0,
-   "origen": "cierre anterior",
-   "interes_abierto": 0.0
-  },
-  {
-   "symbol": "DOMAR27",
-   "vto": "2027-03-31",
-   "px": 1686.0,
-   "origen": "cierre anterior",
+   "px": 1624.0,
+   "origen": "cierre",
    "interes_abierto": 0.0
   },
   {
    "symbol": "DOMAR27M",
    "vto": "2027-03-31",
-   "px": 1686.0,
-   "origen": "cierre anterior",
+   "px": 1688.0,
+   "origen": "cierre",
+   "interes_abierto": 0.0
+  },
+  {
+   "symbol": "DOMAR27",
+   "vto": "2027-03-31",
+   "px": 1688.0,
+   "origen": "cierre",
    "interes_abierto": 0.0
   }
  ],
  "precios_usd": {
   "T0": {
-   "BPA8Y": {
-    "px": 91.513,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVY0D": {
-    "px": 3.45,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "S24DD": {
-    "px": 39.631,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD35Y": {
-    "px": 70.63,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "PM29Y": {
-    "px": 51.282,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM8Y": {
-    "px": 0.064,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD7D": {
-    "px": 0.186,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC36D": {
-    "px": 104.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PMA8Y": {
-    "px": 0.074,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TA7D": {
-    "px": 0.089,
-    "origen": "cierre",
-    "operaciones": 88
-   },
-   "T2D8D": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD29Y": {
-    "px": 55.792,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD8D": {
-    "px": 0.06,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL35D": {
-    "px": 65.39,
-    "origen": "cierre",
-    "operaciones": 1536
-   },
-   "AO28D": {
-    "px": 85.6,
-    "origen": "cierre",
-    "operaciones": 1182
-   },
-   "AL35Y": {
-    "px": 66.676,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TX28Y": {
-    "px": 1.298,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA7DD": {
-    "px": 64.77,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "CO35Y": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "C27DY": {
-    "px": 70.368,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPD7Y": {
-    "px": 100.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TU27Y": {
-    "px": 56.04,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD35D": {
-    "px": 70.64,
-    "origen": "cierre",
-    "operaciones": 604
-   },
-   "TVPPD": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CUAPD": {
-    "px": 26.747,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX7D": {
-    "px": 0.264,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8D": {
-    "px": 0.234,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ0Y": {
-    "px": 0.054,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TVPPY": {
-    "px": 0.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF8D": {
-    "px": 0.073,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7Y": {
-    "px": 0.143,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPB7Y": {
-    "px": 101.53,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "AO27Y": {
-    "px": 101.865,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD9Y": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "DIP0D": {
-    "px": 31.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM9Y": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "T2D8Y": {
     "px": 0.055,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD46D": {
-    "px": 60.0,
+   "BPA8D": {
+    "px": 89.0,
     "origen": "cierre",
-    "operaciones": 67
+    "operaciones": 7
    },
-   "AN29D": {
-    "px": 80.96,
+   "AL29Y": {
+    "px": 52.975,
     "origen": "cierre",
-    "operaciones": 277
+    "operaciones": 0
    },
-   "TX31D": {
-    "px": 0.96,
+   "TXJ8Y": {
+    "px": 0.065,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2750,28 +2569,23 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TJ7D": {
-    "px": 0.084,
-    "origen": "cierre",
-    "operaciones": 1
-   },
    "CUAPY": {
     "px": 28.2525,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PUA6D": {
-    "px": 110.0,
+   "TMF8Y": {
+    "px": 0.071,
     "origen": "cierre",
     "operaciones": 0
    },
    "TMG8D": {
     "px": 0.069,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 1
    },
-   "TXM9D": {
-    "px": 0.059,
+   "TZV7D": {
+    "px": 94.0,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2780,8 +2594,223 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL41Y": {
-    "px": 60.839,
+   "BPD7D": {
+    "px": 102.55,
+    "origen": "cierre",
+    "operaciones": 88
+   },
+   "TXD9D": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7Y": {
+    "px": 0.08,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7Y": {
+    "px": 0.082,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS8Y": {
+    "px": 0.061,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PARPD": {
+    "px": 22.3221,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT1D": {
+    "px": 28.8733,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TE7Y": {
+    "px": 0.098,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS7Y": {
+    "px": 0.0719964,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TE7D": {
+    "px": 0.099,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TXD7Y": {
+    "px": 0.176,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD38Y": {
+    "px": 73.55,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX7Y": {
+    "px": 0.164,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PM29D": {
+    "px": 38.52,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVD8Y": {
+    "px": 76.819,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVY0D": {
+    "px": 3.45,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAPD": {
+    "px": 26.747,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PUA6D": {
+    "px": 110.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM9D": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD35Y": {
+    "px": 71.3531097,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "TML7Y": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPAY": {
+    "px": 10.504,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PM29Y": {
+    "px": 51.282,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM7D": {
+    "px": 0.153,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TXM8Y": {
+    "px": 0.064,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC36D": {
+    "px": 97.76,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TA7D": {
+    "px": 0.088,
+    "origen": "cierre",
+    "operaciones": 10
+   },
+   "BPA7D": {
+    "px": 101.7,
+    "origen": "cierre",
+    "operaciones": 13
+   },
+   "AL35D": {
+    "px": 65.44,
+    "origen": "cierre",
+    "operaciones": 698
+   },
+   "AO28D": {
+    "px": 85.27,
+    "origen": "cierre",
+    "operaciones": 633
+   },
+   "TX28Y": {
+    "px": 1.298,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDG4D": {
+    "px": 103.95,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "BA7DD": {
+    "px": 64.18,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "GD41D": {
+    "px": 65.9,
+    "origen": "cierre",
+    "operaciones": 210
+   },
+   "C27DD": {
+    "px": 84.5014,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "C27DY": {
+    "px": 70.368,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZV8Y": {
+    "px": 80.63,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPD7Y": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVPYD": {
+    "px": 7.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ9Y": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "S24DD": {
+    "px": 39.631,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA8Y": {
+    "px": 91.513,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7Y": {
+    "px": 105.655,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX7D": {
+    "px": 0.264,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2795,30 +2824,50 @@
     "origen": "cierre",
     "operaciones": 0
    },
+   "GD29D": {
+    "px": 53.85,
+    "origen": "cierre",
+    "operaciones": 56
+   },
+   "GD35D": {
+    "px": 70.32,
+    "origen": "cierre",
+    "operaciones": 498
+   },
+   "TY30D": {
+    "px": 0.073,
+    "origen": "cierre",
+    "operaciones": 3
+   },
    "AO29Y": {
     "px": 77.559,
     "origen": "cierre",
-    "operaciones": 1
-   },
-   "AO29D": {
-    "px": 77.5,
-    "origen": "cierre",
-    "operaciones": 710
+    "operaciones": 0
    },
    "AO28Y": {
-    "px": 85.678,
+    "px": 85.5,
     "origen": "cierre",
-    "operaciones": 2
+    "operaciones": 1
    },
-   "AL30D": {
-    "px": 51.83,
+   "NDT5D": {
+    "px": 55.68,
     "origen": "cierre",
-    "operaciones": 99114
+    "operaciones": 1
    },
-   "DICPD": {
-    "px": 30.122,
+   "AL41Y": {
+    "px": 60.839,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "TML7D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8D": {
+    "px": 0.237,
+    "origen": "cierre",
+    "operaciones": 4
    },
    "TVPYY": {
     "px": 0.547,
@@ -2830,8 +2879,33 @@
     "origen": "cierre",
     "operaciones": 0
    },
+   "TXD7D": {
+    "px": 0.186,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "TXA7D": {
     "px": 0.086,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41D": {
+    "px": 61.25,
+    "origen": "cierre",
+    "operaciones": 221
+   },
+   "PMA8Y": {
+    "px": 0.074,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO29D": {
+    "px": 77.33,
+    "origen": "cierre",
+    "operaciones": 404
+   },
+   "TXJ0Y": {
+    "px": 0.054,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -2839,6 +2913,16 @@
     "px": 37.0,
     "origen": "cierre",
     "operaciones": 0
+   },
+   "GD38D": {
+    "px": 75.1,
+    "origen": "cierre",
+    "operaciones": 160
+   },
+   "TXM8D": {
+    "px": 0.066,
+    "origen": "cierre",
+    "operaciones": 1
    },
    "BC28D": {
     "px": 0.0059,
@@ -2850,283 +2934,58 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPA8D": {
-    "px": 86.3,
+   "AL30D": {
+    "px": 51.54,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 84336
    },
-   "TTD6D": {
-    "px": 0.111,
+   "AL29D": {
+    "px": 52.18,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 210
    },
-   "AO27D": {
-    "px": 102.15,
+   "BC7DD": {
+    "px": 68.6655,
     "origen": "cierre",
-    "operaciones": 888
+    "operaciones": 0
    },
    "TU27D": {
     "px": 14.9129,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BB7DY": {
-    "px": 66.0,
+   "TVPPY": {
+    "px": 0.6,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPB7D": {
-    "px": 102.4,
+   "TXS7D": {
+    "px": 0.072,
     "origen": "cierre",
-    "operaciones": 41
+    "operaciones": 0
+   },
+   "T2D8D": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "TXY7D": {
     "px": 0.082,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TX28D": {
-    "px": 0.921,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "NDT1D": {
-    "px": 28.8733,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD6D": {
-    "px": 0.203,
+   "DICPD": {
+    "px": 31.255,
     "origen": "cierre",
     "operaciones": 6
-   },
-   "BPB8D": {
-    "px": 86.86,
-    "origen": "cierre",
-    "operaciones": 62
-   },
-   "TXS7Y": {
-    "px": 0.0719964,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY7D": {
-    "px": 0.084,
-    "origen": "cierre",
-    "operaciones": 7
-   },
-   "GD38Y": {
-    "px": 73.55,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PM29D": {
-    "px": 38.52,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BC28Y": {
-    "px": 0.633,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPYD": {
-    "px": 7.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD29D": {
-    "px": 53.81,
-    "origen": "cierre",
-    "operaciones": 212
-   },
-   "TMF8Y": {
-    "px": 0.071,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY30D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TZV7D": {
-    "px": 94.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT5D": {
-    "px": 55.16,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "BPD7D": {
-    "px": 102.65,
-    "origen": "cierre",
-    "operaciones": 71
-   },
-   "TML7D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXA7Y": {
-    "px": 0.08,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPC7Y": {
-    "px": 105.655,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PARPD": {
-    "px": 22.3221,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL41D": {
-    "px": 61.21,
-    "origen": "cierre",
-    "operaciones": 622
-   },
-   "TXM8D": {
-    "px": 0.066,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TE7Y": {
-    "px": 0.098,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL29D": {
-    "px": 52.1,
-    "origen": "cierre",
-    "operaciones": 350
-   },
-   "TE7D": {
-    "px": 0.098,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXD7Y": {
-    "px": 0.176,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "NDT5Y": {
-    "px": 64.821,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX7Y": {
-    "px": 0.164,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PAY0D": {
-    "px": 28.9235,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVD8Y": {
-    "px": 76.819,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DICPY": {
-    "px": 30.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DCO24": {
-    "px": 41.7843,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29Y": {
-    "px": 91.3,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXD6Y": {
-    "px": 0.2,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD30Y": {
-    "px": 56.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8Y": {
-    "px": 0.2349936,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CO35D": {
-    "px": 96.77,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BPC7D": {
-    "px": 102.5,
-    "origen": "cierre",
-    "operaciones": 63
-   },
-   "GD30D": {
-    "px": 53.34,
-    "origen": "cierre",
-    "operaciones": 1053
-   },
-   "TXD9D": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 5
-   },
-   "TXS7D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "PARPY": {
-    "px": 21.14,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS8D": {
-    "px": 0.062,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVE8D": {
-    "px": 93.7,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "TVPAD": {
-    "px": 2.36,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV8Y": {
-    "px": 80.63,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD41Y": {
-    "px": 67.182,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "TXJ0D": {
     "px": 0.054,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TXJ9Y": {
-    "px": 0.059,
+   "PARPY": {
+    "px": 21.14,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3135,138 +2994,33 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "BB7DD": {
-    "px": 64.0,
+   "TVE8D": {
+    "px": 93.42,
     "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL30Y": {
-    "px": 51.7462489,
-    "origen": "cierre",
-    "operaciones": 8
-   },
-   "JUS2D": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZV8D": {
-    "px": 83.63,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "SJO5D": {
-    "px": 98.32,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "AE38D": {
-    "px": 68.65,
-    "origen": "cierre",
-    "operaciones": 1089
-   },
-   "PU26D": {
-    "px": 22.8233,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVE8Y": {
-    "px": 95.712,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TML7Y": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPAY": {
-    "px": 10.504,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7D": {
-    "px": 0.152,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BPA7D": {
-    "px": 101.95,
-    "origen": "cierre",
-    "operaciones": 10
-   },
-   "GD38D": {
-    "px": 75.21,
-    "origen": "cierre",
-    "operaciones": 295
-   },
-   "TJ7Y": {
-    "px": 0.082,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TY30Y": {
-    "px": 0.071,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXS8Y": {
-    "px": 0.061,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL29Y": {
-    "px": 52.975,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TY7Y": {
-    "px": 0.083,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BPB8Y": {
-    "px": 89.99,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE38D": {
-    "px": 38.2,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7D": {
-    "px": 0.082,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BC7DD": {
-    "px": 68.6655,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TA7Y": {
-    "px": 0.089,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG7D": {
-    "px": 0.077,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 38
    },
    "CO32D": {
     "px": 107.05,
     "origen": "cierre",
     "operaciones": 0
    },
-   "NDG4D": {
-    "px": 102.0,
+   "GD29Y": {
+    "px": 55.792,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXJ8Y": {
-    "px": 0.065,
+   "TMF8D": {
+    "px": 0.073,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL30Y": {
+    "px": 51.51,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TVPAD": {
+    "px": 2.36,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3275,235 +3029,310 @@
     "origen": "cierre",
     "operaciones": 1
    },
+   "TZV8D": {
+    "px": 83.63,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT5Y": {
+    "px": 64.821,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM7Y": {
+    "px": 0.143,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD8D": {
+    "px": 0.06,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD41Y": {
+    "px": 67.182,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BB7DD": {
+    "px": 64.5,
+    "origen": "cierre",
+    "operaciones": 2
+   },
    "TXJ8D": {
     "px": 0.066,
     "origen": "cierre",
+    "operaciones": 0
+   },
+   "JUS2D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7Y": {
+    "px": 101.53,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PAY0D": {
+    "px": 28.9235,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO35D": {
+    "px": 96.77,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DIP0D": {
+    "px": 31.6,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38D": {
+    "px": 69.11,
+    "origen": "cierre",
+    "operaciones": 629
+   },
+   "TXD9Y": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "GD30D": {
+    "px": 53.02,
+    "origen": "cierre",
+    "operaciones": 625
+   },
+   "AO27Y": {
+    "px": 101.865,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM9Y": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL35Y": {
+    "px": 66.676,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY7Y": {
+    "px": 0.083,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS8D": {
+    "px": 0.063,
+    "origen": "cierre",
     "operaciones": 1
+   },
+   "AE38Y": {
+    "px": 68.682,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB8D": {
+    "px": 86.25,
+    "origen": "cierre",
+    "operaciones": 87
+   },
+   "GE38D": {
+    "px": 38.2,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DICPY": {
+    "px": 31.5,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "TA7Y": {
+    "px": 0.089,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TU27Y": {
+    "px": 56.04,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG7D": {
+    "px": 0.077,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO5D": {
+    "px": 98.32,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DCO24": {
+    "px": 41.7843,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TY7D": {
+    "px": 0.084,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "TTD6Y": {
     "px": 0.113,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD41D": {
-    "px": 66.33,
+   "GD46D": {
+    "px": 61.31,
     "origen": "cierre",
-    "operaciones": 317
-   },
-   "C27DD": {
-    "px": 84.5014,
-    "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 34
    },
    "TVPED": {
     "px": 1.1,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AE38Y": {
-    "px": 68.682,
-    "origen": "cierre",
-    "operaciones": 2
-   }
-  },
-  "T1": {
-   "GD30D": {
-    "px": 53.33,
-    "origen": "cierre",
-    "operaciones": 1818
-   },
-   "TE7Y": {
-    "px": 0.097,
+   "PU26D": {
+    "px": 22.8233,
     "origen": "cierre",
     "operaciones": 0
    },
-   "T2D8D": {
-    "px": 0.056,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "EF25D": {
-    "px": 36.721,
+   "AN29Y": {
+    "px": 91.3,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TX28Y": {
-    "px": 0.711,
+   "AN29D": {
+    "px": 80.26,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 312
    },
-   "GD41D": {
-    "px": 66.31,
-    "origen": "cierre",
-    "operaciones": 1441
-   },
-   "PAY0D": {
-    "px": 69.5418,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXY7D": {
-    "px": 0.083,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO28D": {
-    "px": 85.3,
-    "origen": "cierre",
-    "operaciones": 4882
-   },
-   "TY7D": {
-    "px": 0.083,
+   "TVE8Y": {
+    "px": 93.4123495,
     "origen": "cierre",
     "operaciones": 2
    },
    "TVPPD": {
-    "px": 0.005,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVE8D": {
-    "px": 92.78,
-    "origen": "cierre",
-    "operaciones": 17
-   },
-   "AO27D": {
-    "px": 102.2,
-    "origen": "cierre",
-    "operaciones": 2623
-   },
-   "BPB8D": {
-    "px": 87.19,
-    "origen": "cierre",
-    "operaciones": 332
-   },
-   "CUAPD": {
-    "px": 26.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMG8D": {
-    "px": 0.069,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TE7D": {
-    "px": 0.099,
-    "origen": "cierre",
-    "operaciones": 4
-   },
-   "CO35Y": {
-    "px": 102.976,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM7D": {
-    "px": 0.153,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TXD7D": {
-    "px": 0.185,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO29D": {
-    "px": 77.99,
-    "origen": "cierre",
-    "operaciones": 2671
-   },
-   "BPB7Y": {
-    "px": 104.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPC7D": {
-    "px": 102.35,
-    "origen": "cierre",
-    "operaciones": 639
-   },
-   "NDG4D": {
-    "px": 101.5,
-    "origen": "cierre",
-    "operaciones": 23
-   },
-   "GE41D": {
-    "px": 72.59,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL35Y": {
-    "px": 66.68,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TX31Y": {
-    "px": 0.95,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ8D": {
-    "px": 0.066,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "CO32D": {
-    "px": 105.5,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TXD9Y": {
-    "px": 0.058,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PM29Y": {
-    "px": 50.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC36D": {
-    "px": 99.5,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "TMF8D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PU26D": {
-    "px": 23.1006,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE29D": {
     "px": 0.01,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL41D": {
-    "px": 61.24,
+   "TXD6Y": {
+    "px": 0.2,
     "origen": "cierre",
-    "operaciones": 2930
+    "operaciones": 0
    },
-   "AE38D": {
-    "px": 68.7,
+   "TY30Y": {
+    "px": 0.073,
     "origen": "cierre",
-    "operaciones": 3372
+    "operaciones": 3
    },
-   "AL35D": {
-    "px": 65.12,
+   "TX31D": {
+    "px": 0.96,
     "origen": "cierre",
-    "operaciones": 3242
+    "operaciones": 0
    },
-   "TVE8Y": {
-    "px": 95.72,
+   "TTD6D": {
+    "px": 0.112,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "GD30Y": {
+    "px": 56.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TJ7D": {
+    "px": 0.084,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC28Y": {
+    "px": 0.633,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8Y": {
+    "px": 0.2349936,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CO35Y": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27D": {
+    "px": 103.0,
+    "origen": "cierre",
+    "operaciones": 525
+   },
+   "BPC7D": {
+    "px": 102.3,
+    "origen": "cierre",
+    "operaciones": 103
+   },
+   "BB7DY": {
+    "px": 66.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7D": {
+    "px": 102.35,
+    "origen": "cierre",
+    "operaciones": 64
+   },
+   "TX28D": {
+    "px": 0.91,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "BPB8Y": {
+    "px": 89.99,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD6D": {
+    "px": 0.202,
     "origen": "cierre",
     "operaciones": 1
    },
+   "TMF7D": {
+    "px": 0.082,
+    "origen": "cierre",
+    "operaciones": 0
+   }
+  },
+  "T1": {
+   "T2D8D": {
+    "px": 0.056,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38D": {
+    "px": 69.13,
+    "origen": "cierre",
+    "operaciones": 2473
+   },
+   "TVE8Y": {
+    "px": 93.4223577,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "BB7DY": {
+    "px": 66.934,
+    "origen": "cierre",
+    "operaciones": 0
+   },
    "TTD6Y": {
     "px": 0.113,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVY0D": {
+    "px": 2.75,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3512,18 +3341,13 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TU27D": {
-    "px": 30.8674,
+   "GD30D": {
+    "px": 53.06,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 1257
    },
-   "SJO5D": {
-    "px": 98.5,
-    "origen": "cierre",
-    "operaciones": 80
-   },
-   "TVPYD": {
-    "px": 6.0,
+   "TX28Y": {
+    "px": 0.711,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3532,20 +3356,275 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TY30D": {
-    "px": 0.074,
+   "DIP0D": {
+    "px": 32.4,
     "origen": "cierre",
-    "operaciones": 7
+    "operaciones": 0
+   },
+   "TZV7D": {
+    "px": 95.53,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM9D": {
+    "px": 0.06,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BA7DY": {
+    "px": 68.503,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA8D": {
+    "px": 87.08,
+    "origen": "cierre",
+    "operaciones": 20
+   },
+   "AO28Y": {
+    "px": 85.25,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ9Y": {
+    "px": 0.057,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPA7D": {
+    "px": 102.2,
+    "origen": "cierre",
+    "operaciones": 74
+   },
+   "PARPY": {
+    "px": 19.011,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD46D": {
+    "px": 61.31,
+    "origen": "cierre",
+    "operaciones": 144
+   },
+   "AO29Y": {
+    "px": 77.5021929,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AN29D": {
+    "px": 80.53,
+    "origen": "cierre",
+    "operaciones": 1684
+   },
+   "C24DD": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO5D": {
+    "px": 98.5,
+    "origen": "cierre",
+    "operaciones": 30
+   },
+   "TML7D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD35Y": {
+    "px": 71.841,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "GD41D": {
+    "px": 66.51,
+    "origen": "cierre",
+    "operaciones": 769
+   },
+   "TXD8D": {
+    "px": 0.061,
+    "origen": "cierre",
+    "operaciones": 5
+   },
+   "TY7D": {
+    "px": 0.083,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GD38Y": {
+    "px": 73.551,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVE8D": {
+    "px": 93.39,
+    "origen": "cierre",
+    "operaciones": 42
+   },
+   "TXD6D": {
+    "px": 0.203,
+    "origen": "cierre",
+    "operaciones": 6
+   },
+   "TXS8Y": {
+    "px": 0.071,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS7Y": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "CUAPD": {
+    "px": 26.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TMG8D": {
+    "px": 0.071,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "BA7DD": {
+    "px": 64.2,
+    "origen": "cierre",
+    "operaciones": 51
+   },
+   "NDT5D": {
+    "px": 56.0,
+    "origen": "cierre",
+    "operaciones": 17
+   },
+   "TMF7Y": {
+    "px": 0.081,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM7D": {
+    "px": 0.152,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "BB7DD": {
+    "px": 65.85,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB7Y": {
+    "px": 104.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8Y": {
+    "px": 0.235,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDG4D": {
+    "px": 101.95,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "BPD7Y": {
+    "px": 103.538,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "DICPD": {
+    "px": 31.678,
+    "origen": "cierre",
+    "operaciones": 8
+   },
+   "JUS2D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TVD8Y": {
+    "px": 74.7,
+    "origen": "cierre",
+    "operaciones": 3
+   },
+   "CUAPY": {
+    "px": 22.007,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "NDT1D": {
+    "px": 28.575,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX8D": {
+    "px": 0.235,
+    "origen": "cierre",
+    "operaciones": 12
+   },
+   "TE7Y": {
+    "px": 0.097,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXY7D": {
+    "px": 0.083,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "EF25D": {
+    "px": 36.5,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "AO28D": {
+    "px": 85.24,
+    "origen": "cierre",
+    "operaciones": 2640
    },
    "TXM7Y": {
     "px": 0.143,
     "origen": "cierre",
     "operaciones": 0
    },
-   "S24DD": {
-    "px": 40.22,
+   "TVPPD": {
+    "px": 0.005,
     "origen": "cierre",
-    "operaciones": 9
+    "operaciones": 0
+   },
+   "AL35Y": {
+    "px": 66.68,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX31D": {
+    "px": 0.941,
+    "origen": "cierre",
+    "operaciones": 11
+   },
+   "PAY0D": {
+    "px": 69.5418,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TML7Y": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ8D": {
+    "px": 0.066,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BC28D": {
+    "px": 0.065,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AO27D": {
+    "px": 102.55,
+    "origen": "cierre",
+    "operaciones": 1974
    },
    "TXD6Y": {
     "px": 0.201,
@@ -3557,178 +3636,18 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZX7D": {
-    "px": 0.269,
+   "CO32D": {
+    "px": 105.5,
     "origen": "cierre",
-    "operaciones": 2
-   },
-   "TY7Y": {
-    "px": 0.082,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVD8D": {
-    "px": 75.64,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ0Y": {
-    "px": 0.054,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD30Y": {
-    "px": 54.6,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPAD": {
-    "px": 1.555,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA7Y": {
-    "px": 100.401,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AO27Y": {
-    "px": 103.0,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TVPYY": {
-    "px": 0.52,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TJ7D": {
-    "px": 0.084,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "GD41Y": {
-    "px": 67.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "DIP0D": {
-    "px": 32.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TA7Y": {
-    "px": 0.09,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TMG7D": {
-    "px": 0.079,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GE38Y": {
-    "px": 73.9,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BPA7D": {
-    "px": 102.35,
-    "origen": "cierre",
-    "operaciones": 67
-   },
-   "GD46D": {
-    "px": 60.95,
-    "origen": "cierre",
-    "operaciones": 201
-   },
-   "BPB7D": {
-    "px": 102.3,
-    "origen": "cierre",
-    "operaciones": 686
-   },
-   "AO29Y": {
-    "px": 77.5021929,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "BC28Y": {
-    "px": 0.625,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "GD29Y": {
-    "px": 55.792,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "C24DD": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TX28D": {
-    "px": 0.914,
-    "origen": "cierre",
-    "operaciones": 43
-   },
-   "TX31D": {
-    "px": 0.94,
-    "origen": "cierre",
-    "operaciones": 13
-   },
-   "TTD6D": {
-    "px": 0.113,
-    "origen": "cierre",
-    "operaciones": 6
-   },
-   "TXO7D": {
-    "px": 0.065,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TML7Y": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BA7DD": {
-    "px": 64.48,
-    "origen": "cierre",
-    "operaciones": 86
+    "operaciones": 8
    },
    "TXJ8Y": {
     "px": 0.063,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TZV7D": {
-    "px": 95.53,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "CO35D": {
-    "px": 96.2,
-    "origen": "cierre",
-    "operaciones": 20
-   },
-   "BPB8Y": {
-    "px": 92.4,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXM9D": {
-    "px": 0.059,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BA7DY": {
-    "px": 68.503,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "BC28D": {
-    "px": 0.065,
+   "TY7Y": {
+    "px": 0.082,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3737,153 +3656,113 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "AO28Y": {
-    "px": 85.25,
+   "CO35D": {
+    "px": 96.95,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 8
    },
-   "TXJ9Y": {
-    "px": 0.057,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "PARPY": {
-    "px": 19.011,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TXJ0D": {
-    "px": 0.055,
-    "origen": "cierre",
-    "operaciones": 80
-   },
-   "EM33D": {
-    "px": 101.5,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AN29D": {
-    "px": 80.7,
-    "origen": "cierre",
-    "operaciones": 1622
-   },
-   "AL41Y": {
-    "px": 60.842,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TVPED": {
-    "px": 15.0,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "JUS2D": {
-    "px": 0.01,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "CUAPY": {
-    "px": 22.007,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TZX8D": {
-    "px": 0.231,
-    "origen": "cierre",
-    "operaciones": 11
-   },
-   "GD38D": {
-    "px": 74.95,
-    "origen": "cierre",
-    "operaciones": 970
-   },
-   "TXA7D": {
-    "px": 0.082,
+   "TY30D": {
+    "px": 0.074,
     "origen": "cierre",
     "operaciones": 1
    },
-   "TXS7D": {
-    "px": 0.072,
+   "S24DD": {
+    "px": 41.099,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 19
    },
-   "TXJ9D": {
-    "px": 0.059,
-    "origen": "cierre",
-    "operaciones": 2815
-   },
-   "AL29Y": {
-    "px": 54.253,
+   "BPB8Y": {
+    "px": 92.4,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXD8Y": {
-    "px": 0.061,
+   "TVPAD": {
+    "px": 1.555,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXD7Y": {
-    "px": 0.176,
+   "AO27Y": {
+    "px": 103.0,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AE38Y": {
-    "px": 67.7,
+   "TXD9Y": {
+    "px": 0.058,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BC7DD": {
-    "px": 63.9,
-    "origen": "cierre",
-    "operaciones": 2
-   },
-   "TZX8Y": {
-    "px": 0.235,
+   "GD30Y": {
+    "px": 54.6,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXM8Y": {
-    "px": 0.062,
+   "TVPYY": {
+    "px": 0.52,
     "origen": "cierre",
     "operaciones": 0
    },
-   "BPD7Y": {
-    "px": 103.538,
+   "BPA7Y": {
+    "px": 100.401,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXS8D": {
-    "px": 0.062,
+   "TJ7D": {
+    "px": 0.084,
     "origen": "cierre",
-    "operaciones": 37
+    "operaciones": 1
    },
-   "GD35D": {
-    "px": 70.41,
+   "TA7Y": {
+    "px": 0.09,
     "origen": "cierre",
-    "operaciones": 2195
+    "operaciones": 0
    },
-   "DICPD": {
-    "px": 31.2,
+   "PM29Y": {
+    "px": 50.0,
     "origen": "cierre",
-    "operaciones": 39
+    "operaciones": 0
    },
-   "TVD8Y": {
-    "px": 76.9,
+   "TMG7D": {
+    "px": 0.079,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPB8D": {
+    "px": 86.48,
+    "origen": "cierre",
+    "operaciones": 380
+   },
+   "GD41Y": {
+    "px": 67.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE38Y": {
+    "px": 73.9,
     "origen": "cierre",
     "operaciones": 0
    },
    "AL30Y": {
-    "px": 52.029,
+    "px": 51.55,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 1
    },
-   "NDT1D": {
-    "px": 28.575,
+   "TXJ0D": {
+    "px": 0.055,
     "origen": "cierre",
-    "operaciones": 0
+    "operaciones": 30
+   },
+   "BC36D": {
+    "px": 99.0,
+    "origen": "cierre",
+    "operaciones": 52
    },
    "TY30Y": {
-    "px": 0.072,
+    "px": 0.073,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "EM33D": {
+    "px": 101.5,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3892,18 +3771,28 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "C27DY": {
-    "px": 66.05,
-    "origen": "cierre",
-    "operaciones": 0
-   },
    "DICPY": {
     "px": 32.207,
     "origen": "cierre",
     "operaciones": 0
    },
-   "SJO5Y": {
-    "px": 100.0,
+   "TMF8D": {
+    "px": 0.072,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TZX7D": {
+    "px": 0.272,
+    "origen": "cierre",
+    "operaciones": 1
+   },
+   "BC7DD": {
+    "px": 63.9,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXM8Y": {
+    "px": 0.062,
     "origen": "cierre",
     "operaciones": 0
    },
@@ -3912,155 +3801,265 @@
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD29D": {
-    "px": 53.01,
+   "TXS8D": {
+    "px": 0.062,
     "origen": "cierre",
-    "operaciones": 626
+    "operaciones": 1
+   },
+   "PU26D": {
+    "px": 23.1006,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "PUA6D": {
-    "px": 105.85,
+    "px": 105.9,
     "origen": "cierre",
-    "operaciones": 7
+    "operaciones": 18
+   },
+   "GD35D": {
+    "px": 70.61,
+    "origen": "cierre",
+    "operaciones": 2073
+   },
+   "TVD8D": {
+    "px": 75.64,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "PM29D": {
+    "px": 38.99,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "GD38D": {
+    "px": 75.1,
+    "origen": "cierre",
+    "operaciones": 581
+   },
+   "C27DY": {
+    "px": 66.05,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL41Y": {
+    "px": 60.842,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXJ0Y": {
+    "px": 0.054,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "SJO5Y": {
+    "px": 100.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXA7D": {
+    "px": 0.082,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "GE29D": {
+    "px": 0.01,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXS7D": {
+    "px": 0.073,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "GD29D": {
+    "px": 53.85,
+    "origen": "cierre",
+    "operaciones": 281
    },
    "TXA7Y": {
     "px": 0.08,
     "origen": "cierre",
     "operaciones": 0
    },
-   "PM29D": {
-    "px": 38.4,
+   "BPA8Y": {
+    "px": 91.514,
     "origen": "cierre",
-    "operaciones": 12
+    "operaciones": 0
    },
    "TA7D": {
-    "px": 0.089,
+    "px": 0.088,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 2
    },
-   "BPD7D": {
-    "px": 102.5,
+   "TE7D": {
+    "px": 0.098,
     "origen": "cierre",
-    "operaciones": 577
+    "operaciones": 1
+   },
+   "TXJ9D": {
+    "px": 0.059,
+    "origen": "cierre",
+    "operaciones": 1273
    },
    "NDT5Y": {
     "px": 64.542,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXM8D": {
-    "px": 0.067,
-    "origen": "cierre",
-    "operaciones": 3
-   },
-   "TXD8D": {
+   "TXD8Y": {
     "px": 0.061,
     "origen": "cierre",
-    "operaciones": 1
+    "operaciones": 0
    },
-   "GD38Y": {
-    "px": 73.551,
+   "AL30D": {
+    "px": 51.55,
+    "origen": "cierre",
+    "operaciones": 39144
+   },
+   "AL41D": {
+    "px": 61.1,
+    "origen": "cierre",
+    "operaciones": 796
+   },
+   "TXD7Y": {
+    "px": 0.176,
     "origen": "cierre",
     "operaciones": 0
    },
-   "TXD6D": {
-    "px": 0.201,
-    "origen": "cierre",
-    "operaciones": 12
-   },
-   "TXS8Y": {
-    "px": 0.071,
+   "TVPED": {
+    "px": 15.0,
     "origen": "cierre",
     "operaciones": 0
-   },
-   "TXS7Y": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "PARPD": {
-    "px": 21.17,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "AL29D": {
-    "px": 52.1,
-    "origen": "cierre",
-    "operaciones": 719
-   },
-   "BPA8D": {
-    "px": 88.0,
-    "origen": "cierre",
-    "operaciones": 20
    },
    "TZV8D": {
     "px": 80.32,
     "origen": "cierre",
+    "operaciones": 0
+   },
+   "AE38Y": {
+    "px": 67.7,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPD7D": {
+    "px": 102.55,
+    "origen": "cierre",
+    "operaciones": 529
+   },
+   "AL35D": {
+    "px": 65.3,
+    "origen": "cierre",
+    "operaciones": 2499
+   },
+   "TMF7D": {
+    "px": 0.082,
+    "origen": "cierre",
     "operaciones": 3
-   },
-   "NDT5D": {
-    "px": 55.72,
-    "origen": "cierre",
-    "operaciones": 64
-   },
-   "BB7DY": {
-    "px": 66.934,
-    "origen": "cierre",
-    "operaciones": 0
-   },
-   "TMF7Y": {
-    "px": 0.081,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "TVY0D": {
-    "px": 2.75,
-    "origen": "cierre",
-    "operaciones": 0
    },
    "TXD9D": {
     "px": 0.056,
     "origen": "cierre",
-    "operaciones": 8
+    "operaciones": 2
    },
-   "TML7D": {
-    "px": 0.072,
-    "origen": "cierre",
-    "operaciones": 1
-   },
-   "BB7DD": {
-    "px": 65.85,
-    "origen": "cierre",
-    "operaciones": 24
-   },
-   "BPA8Y": {
-    "px": 91.514,
+   "GE41D": {
+    "px": 72.59,
     "origen": "cierre",
     "operaciones": 0
    },
-   "GD35Y": {
-    "px": 70.8,
+   "TXM8D": {
+    "px": 0.066,
     "origen": "cierre",
     "operaciones": 2
+   },
+   "CO35Y": {
+    "px": 102.976,
+    "origen": "cierre",
+    "operaciones": 0
    },
    "BPC7Y": {
     "px": 104.755,
     "origen": "cierre",
     "operaciones": 0
    },
-   "AL30D": {
-    "px": 51.66,
+   "TX31Y": {
+    "px": 0.95,
     "origen": "cierre",
-    "operaciones": 52788
+    "operaciones": 0
    },
-   "TMF7D": {
-    "px": 0.081,
+   "BPB7D": {
+    "px": 102.35,
     "origen": "cierre",
-    "operaciones": 3
+    "operaciones": 157
+   },
+   "BC28Y": {
+    "px": 0.625,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXD7D": {
+    "px": 0.185,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "AL29D": {
+    "px": 52.34,
+    "origen": "cierre",
+    "operaciones": 551
+   },
+   "GD29Y": {
+    "px": 55.792,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TX28D": {
+    "px": 0.924,
+    "origen": "cierre",
+    "operaciones": 29
+   },
+   "AO29D": {
+    "px": 77.49,
+    "origen": "cierre",
+    "operaciones": 1354
+   },
+   "TU27D": {
+    "px": 30.8674,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TTD6D": {
+    "px": 0.112,
+    "origen": "cierre",
+    "operaciones": 4
+   },
+   "TVPYD": {
+    "px": 6.0,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "BPC7D": {
+    "px": 102.7,
+    "origen": "cierre",
+    "operaciones": 438
+   },
+   "AL29Y": {
+    "px": 54.253,
+    "origen": "cierre",
+    "operaciones": 0
+   },
+   "TXO7D": {
+    "px": 0.066,
+    "origen": "cierre",
+    "operaciones": 2
+   },
+   "PARPD": {
+    "px": 21.17,
+    "origen": "cierre",
+    "operaciones": 0
    }
   }
  },
  "mep": {
-  "valor": 1573.95,
+  "valor": 1576.92,
   "bono": "AL30",
   "plazo": "T1"
  },
@@ -4257,6 +4256,30 @@
    "isin": "AR0637963668",
    "grupo": "LETRASTESORO"
   },
+  "SN6X": {
+   "vto": "2026-11-30",
+   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0451031345",
+   "grupo": "LETRASTESORO"
+  },
+  "SN6Z": {
+   "vto": "2026-11-30",
+   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0451031345",
+   "grupo": "LETRASTESORO"
+  },
+  "SN6C": {
+   "vto": "2026-11-30",
+   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0451031345",
+   "grupo": "LETRASTESORO"
+  },
   "XN6Z": {
    "vto": "2026-11-30",
    "descripcion": "LETRA TESORO NACIONAL AJUSTABL",
@@ -4305,30 +4328,6 @@
    "isin": "AR0933792183",
    "grupo": "LETRASTESORO"
   },
-  "SN6Z": {
-   "vto": "2026-11-30",
-   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0451031345",
-   "grupo": "LETRASTESORO"
-  },
-  "SN6C": {
-   "vto": "2026-11-30",
-   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0451031345",
-   "grupo": "LETRASTESORO"
-  },
-  "SN6X": {
-   "vto": "2026-11-30",
-   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0451031345",
-   "grupo": "LETRASTESORO"
-  },
   "SN6Y": {
    "vto": "2026-11-30",
    "descripcion": "LETRA TESORO NACIONAL CAPITALI",
@@ -4343,6 +4342,70 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0451031345",
+   "grupo": "LETRASTESORO"
+  },
+  "MA7Z": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "MA7C": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "MA7Y": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "MA7D": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "MA7X": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "M30A7": {
+   "vto": "2027-04-30",
+   "descripcion": "LETRA TESORO NACIONAL A TASA T",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0517918766",
+   "grupo": "LETRASTESORO"
+  },
+  "SE7Z": {
+   "vto": "2027-01-29",
+   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0048313164",
+   "grupo": "LETRASTESORO"
+  },
+  "SE7Y": {
+   "vto": "2027-01-29",
+   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0048313164",
    "grupo": "LETRASTESORO"
   },
   "SE7X": {
@@ -4370,22 +4433,6 @@
    "grupo": "LETRASTESORO"
   },
   "S29E7": {
-   "vto": "2027-01-29",
-   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0048313164",
-   "grupo": "LETRASTESORO"
-  },
-  "SE7Z": {
-   "vto": "2027-01-29",
-   "descripcion": "LETRA TESORO NACIONAL CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0048313164",
-   "grupo": "LETRASTESORO"
-  },
-  "SE7Y": {
    "vto": "2027-01-29",
    "descripcion": "LETRA TESORO NACIONAL CAPITALI",
    "renta": "01-FIJA",
@@ -4439,54 +4486,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0195982894",
-   "grupo": "LETRASTESORO"
-  },
-  "S2N6Z": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
-   "grupo": "LETRASTESORO"
-  },
-  "S2N6C": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
-   "grupo": "LETRASTESORO"
-  },
-  "S2N6Y": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
-   "grupo": "LETRASTESORO"
-  },
-  "S2N6D": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
-   "grupo": "LETRASTESORO"
-  },
-  "S2N6X": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
-   "grupo": "LETRASTESORO"
-  },
-  "S13N6": {
-   "vto": "2026-11-13",
-   "descripcion": "L. TES. NAC. CAP. 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0087656622",
    "grupo": "LETRASTESORO"
   },
   "XE7Z": {
@@ -4569,27 +4568,11 @@
    "isin": "AR0876435451",
    "grupo": "LETRAS"
   },
-  "BUF7Z": {
-   "vto": "2027-02-24",
-   "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0777312668",
-   "grupo": "LETRAS"
-  },
-  "BUF7C": {
-   "vto": "2027-02-24",
-   "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0777312668",
-   "grupo": "LETRAS"
-  },
   "BUF7Y": {
    "vto": "2027-02-24",
    "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
    "renta": "01-FIJA",
-   "estado": "1",
+   "estado": "0",
    "isin": "AR0777312668",
    "grupo": "LETRAS"
   },
@@ -4597,7 +4580,7 @@
    "vto": "2027-02-24",
    "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
    "renta": "01-FIJA",
-   "estado": "1",
+   "estado": "0",
    "isin": "AR0777312668",
    "grupo": "LETRAS"
   },
@@ -4605,7 +4588,7 @@
    "vto": "2027-02-24",
    "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
    "renta": "01-FIJA",
-   "estado": "1",
+   "estado": "0",
    "isin": "AR0777312668",
    "grupo": "LETRAS"
   },
@@ -4613,7 +4596,47 @@
    "vto": "2027-02-24",
    "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
    "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0777312668",
+   "grupo": "LETRAS"
+  },
+  "BLY27": {
+   "vto": "2027-05-14",
+   "descripcion": "LT PROV. CHACO CL.22 14/05/27",
+   "renta": "01-FIJA",
    "estado": "1",
+   "isin": "AR0700004267",
+   "grupo": "LETRAS"
+  },
+  "BL2F7": {
+   "vto": "2027-02-12",
+   "descripcion": "LT PROV. CHACO CL.21 12/02/27",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "AR0895549795",
+   "grupo": "LETRAS"
+  },
+  "B3E7X": {
+   "vto": "2027-01-15",
+   "descripcion": "LT PROV. CHACO CL.18 15/01/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0656413561",
+   "grupo": "LETRAS"
+  },
+  "BUF7Z": {
+   "vto": "2027-02-24",
+   "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0777312668",
+   "grupo": "LETRAS"
+  },
+  "BUF7C": {
+   "vto": "2027-02-24",
+   "descripcion": "LT PROV. CHUBUT S.124 24/02/27",
+   "renta": "01-FIJA",
+   "estado": "0",
    "isin": "AR0777312668",
    "grupo": "LETRAS"
   },
@@ -4689,6 +4712,14 @@
    "isin": "AR0193896989",
    "grupo": "LETRAS"
   },
+  "BBN6X": {
+   "vto": "2026-11-19",
+   "descripcion": "LT PROV. BS. AS. CAP. 19/11/26",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0014218926",
+   "grupo": "LETRAS"
+  },
   "XBF7X": {
    "vto": "2027-02-18",
    "descripcion": "LT PROV. BUENOS AIRES AJUSTABL",
@@ -4703,14 +4734,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0193896989",
-   "grupo": "LETRAS"
-  },
-  "BBN6X": {
-   "vto": "2026-11-19",
-   "descripcion": "LT PROV. BS. AS. CAP. 19/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0014218926",
    "grupo": "LETRAS"
   },
   "B2D6Z": {
@@ -4873,6 +4896,14 @@
    "isin": "AR0676925834",
    "grupo": "LETRAS"
   },
+  "B2M7C": {
+   "vto": "2027-03-29",
+   "descripcion": "LT PROV. CHUBUT S.122 CL.2 29/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0607796569",
+   "grupo": "LETRAS"
+  },
   "BAS7C": {
    "vto": "2027-09-03",
    "descripcion": "LT MUN. CORDOBA S.53 03/09/27",
@@ -4895,14 +4926,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0285492838",
-   "grupo": "LETRAS"
-  },
-  "B2M7C": {
-   "vto": "2027-03-29",
-   "descripcion": "LT PROV. CHUBUT S.122 CL.2 29/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0607796569",
    "grupo": "LETRAS"
   },
   "B2M7D": {
@@ -5137,6 +5160,14 @@
    "isin": "AR0883778745",
    "grupo": "LETRAS"
   },
+  "BGS7X": {
+   "vto": "2027-09-24",
+   "descripcion": "LT PROV. RIO NEGRO S.1 24/09/2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0958447481",
+   "grupo": "LETRAS"
+  },
   "BUE7C": {
    "vto": "2027-01-12",
    "descripcion": "LT PROV. CHUBUT S.123 12/01/27",
@@ -5159,14 +5190,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0478861831",
-   "grupo": "LETRAS"
-  },
-  "BGS7X": {
-   "vto": "2027-09-24",
-   "descripcion": "LT PROV. RIO NEGRO S.1 24/09/2",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0958447481",
    "grupo": "LETRAS"
   },
   "BLA27": {
@@ -5295,14 +5318,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0649123301",
-   "grupo": "LETRAS"
-  },
-  "BLN26": {
-   "vto": "2026-11-13",
-   "descripcion": "LT PROV. CHACO CL.12 13/11/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0962848690",
    "grupo": "LETRAS"
   },
   "XBN6C": {
@@ -7041,14 +7056,6 @@
    "isin": "AR0165588606",
    "grupo": "TITULOSPUBLICOS"
   },
-  "PB2DD": {
-   "vto": "2026-12-17",
-   "descripcion": "TD PROV. BUENOS AIRES CAPITALI",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0165588606",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "PBA8X": {
    "vto": "2028-04-28",
    "descripcion": "TD PROV. BUENOS AIRES AJUSTABL",
@@ -7071,6 +7078,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "ARCBAS3201J5",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PB2DD": {
+   "vto": "2026-12-17",
+   "descripcion": "TD PROV. BUENOS AIRES CAPITALI",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "AR0165588606",
    "grupo": "TITULOSPUBLICOS"
   },
   "PB2DC": {
@@ -7153,68 +7168,12 @@
    "isin": "AR0821229090",
    "grupo": "TITULOSPUBLICOS"
   },
-  "CUAPC": {
-   "vto": "2045-12-31",
-   "descripcion": "TITULOS CUASIPAR EN $ VTO.DIC.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE03E139",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXO7D": {
-   "vto": "2027-10-29",
-   "descripcion": "B. T. N. CERO C. CER 29/10/27",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0919348364",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXO7Y": {
-   "vto": "2027-10-29",
-   "descripcion": "B. T. N. CERO C. CER 29/10/27",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0919348364",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXO7C": {
-   "vto": "2027-10-29",
-   "descripcion": "B. T. N. CERO C. CER 29/10/27",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0919348364",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXO7Z": {
-   "vto": "2027-10-29",
-   "descripcion": "B. T. N. CERO C. CER 29/10/27",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0919348364",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TZXD8": {
    "vto": "2028-12-15",
    "descripcion": "B. T. N. C. CUP. CER 15/12/28",
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0695340130",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "CHAQC": {
-   "vto": "2026-12-04",
-   "descripcion": "TIT.PCIA.CHACO VTO.2026 U$S ES",
-   "renta": "01-FIJA",
-   "estado": "2",
-   "isin": "ARPCHA030109",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "CHAQD": {
-   "vto": "2026-12-04",
-   "descripcion": "TIT.PCIA.CHACO VTO.2026 U$S ES",
-   "renta": "01-FIJA",
-   "estado": "2",
-   "isin": "ARPCHA030109",
    "grupo": "TITULOSPUBLICOS"
   },
   "T2D8X": {
@@ -7257,6 +7216,22 @@
    "isin": "AR0695340130",
    "grupo": "TITULOSPUBLICOS"
   },
+  "CHAQC": {
+   "vto": "2026-12-04",
+   "descripcion": "TIT.PCIA.CHACO VTO.2026 U$S ES",
+   "renta": "01-FIJA",
+   "estado": "2",
+   "isin": "ARPCHA030109",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "CHAQD": {
+   "vto": "2026-12-04",
+   "descripcion": "TIT.PCIA.CHACO VTO.2026 U$S ES",
+   "renta": "01-FIJA",
+   "estado": "2",
+   "isin": "ARPCHA030109",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "TML27": {
    "vto": "2027-07-30",
    "descripcion": "B. TES. NAC. TAMAR 30/07/27",
@@ -7289,6 +7264,14 @@
    "isin": "AR0033716868",
    "grupo": "TITULOSPUBLICOS"
   },
+  "CO24D": {
+   "vto": "2027-06-01",
+   "descripcion": "T. DEUDA CORDOBA U$S 7,45",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "USP79171AE79",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "TML7C": {
    "vto": "2027-07-30",
    "descripcion": "B. TES. NAC. TAMAR 30/07/27",
@@ -7303,14 +7286,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0033716868",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "CO24D": {
-   "vto": "2027-06-01",
-   "descripcion": "T. DEUDA CORDOBA U$S 7,45",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP79171AE79",
    "grupo": "TITULOSPUBLICOS"
   },
   "EF25C": {
@@ -7449,6 +7424,14 @@
    "isin": "ARARGE03E139",
    "grupo": "TITULOSPUBLICOS"
   },
+  "CUAPC": {
+   "vto": "2045-12-31",
+   "descripcion": "TITULOS CUASIPAR EN $ VTO.DIC.",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE03E139",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "TZXO7": {
    "vto": "2027-10-29",
    "descripcion": "B. T. N. CERO C. CER 29/10/27",
@@ -7458,6 +7441,38 @@
    "grupo": "TITULOSPUBLICOS"
   },
   "TXO7X": {
+   "vto": "2027-10-29",
+   "descripcion": "B. T. N. CERO C. CER 29/10/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0919348364",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXO7D": {
+   "vto": "2027-10-29",
+   "descripcion": "B. T. N. CERO C. CER 29/10/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0919348364",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXO7Y": {
+   "vto": "2027-10-29",
+   "descripcion": "B. T. N. CERO C. CER 29/10/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0919348364",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXO7C": {
+   "vto": "2027-10-29",
+   "descripcion": "B. T. N. CERO C. CER 29/10/27",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0919348364",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXO7Z": {
    "vto": "2027-10-29",
    "descripcion": "B. T. N. CERO C. CER 29/10/27",
    "renta": "01-FIJA",
@@ -7569,14 +7584,6 @@
    "isin": "AR0498468476",
    "grupo": "TITULOSPUBLICOS"
   },
-  "PBJ8Z": {
-   "vto": "2028-10-23",
-   "descripcion": "TD PROV. BUENOS AIRES TASA VAR",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0498468476",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "BAM27": {
    "vto": "2027-03-26",
    "descripcion": "TD MUN. CORDOBA 2025 S.1 $ V.2",
@@ -7615,6 +7622,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0971566150",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PBJ8Z": {
+   "vto": "2028-10-23",
+   "descripcion": "TD PROV. BUENOS AIRES TASA VAR",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "AR0498468476",
    "grupo": "TITULOSPUBLICOS"
   },
   "BAM7Z": {
@@ -7673,14 +7688,6 @@
    "isin": "USP84469AC23",
    "grupo": "TITULOSPUBLICOS"
   },
-  "EM33X": {
-   "vto": "2033-03-04",
-   "descripcion": "BONO PROVINCIA DE ENTRE 9.55%",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP37341AC17",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "BC28D": {
    "vto": "2028-02-22",
    "descripcion": "T.D.PUB.CIUD.DE BS.AS.V 22/2/2",
@@ -7697,12 +7704,52 @@
    "isin": "ARCBAS3201J5",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BA37E": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW EUR 2",
+  "EM33X": {
+   "vto": "2033-03-04",
+   "descripcion": "BONO PROVINCIA DE ENTRE 9.55%",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385150508",
+   "isin": "USP37341AC17",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BB7DY": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385151738",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BB7DZ": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385151738",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BB7DX": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385151738",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BA7DX": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385150334",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BA7DZ": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385150334",
    "grupo": "TITULOSPUBLICOS"
   },
   "BA7DY": {
@@ -7711,6 +7758,22 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "XS2385150334",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "CA31": {
+   "vto": "2031-03-17",
+   "descripcion": "BONO CONV.CATAM.DEC.458/21 V15",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARPCAT320019",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BA37E": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW EUR 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385150508",
    "grupo": "TITULOSPUBLICOS"
   },
   "BA7EC": {
@@ -7746,14 +7809,6 @@
    "grupo": "TITULOSPUBLICOS"
   },
   "PU26Y": {
-   "vto": "2030-07-26",
-   "descripcion": "BONO PCIA. CHUBUT 7,75% V.26/0",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP25619AB67",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PU26Z": {
    "vto": "2030-07-26",
    "descripcion": "BONO PCIA. CHUBUT 7,75% V.26/0",
    "renta": "01-FIJA",
@@ -7807,6 +7862,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "XS2385151142",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PU26Z": {
+   "vto": "2030-07-26",
+   "descripcion": "BONO PCIA. CHUBUT 7,75% V.26/0",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "USP25619AB67",
    "grupo": "TITULOSPUBLICOS"
   },
   "PM29C": {
@@ -7961,22 +8024,6 @@
    "isin": "XS2385150847",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BC7DY": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2385150847",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BC7DZ": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2385150847",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TY27C": {
    "vto": "2027-05-23",
    "descripcion": "BONO NAC. REP ARG. VT.23/05/27",
@@ -7991,6 +8038,22 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "ARARGE320C91",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BC7DY": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385150847",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BC7DZ": {
+   "vto": "2037-09-01",
+   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2385150847",
    "grupo": "TITULOSPUBLICOS"
   },
   "TY27P": {
@@ -8033,12 +8096,12 @@
    "isin": "ARSTGO320016",
    "grupo": "TITULOSPUBLICOS"
   },
-  "NDT5C": {
-   "vto": "2030-04-27",
-   "descripcion": "BONO PROV. NEUQUEN REGS 7,5% 2",
+  "SE31D": {
+   "vto": "2031-03-15",
+   "descripcion": "BONO CONV.SDE DEC.458/21 V15/0",
    "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP7169GAA78",
+   "estado": "1",
+   "isin": "ARSTGO320016",
    "grupo": "TITULOSPUBLICOS"
   },
   "JUS22": {
@@ -8057,6 +8120,14 @@
    "isin": "XS1686882298",
    "grupo": "TITULOSPUBLICOS"
   },
+  "NDT5C": {
+   "vto": "2030-04-27",
+   "descripcion": "BONO PROV. NEUQUEN REGS 7,5% 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "USP7169GAA78",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "NDT5D": {
    "vto": "2030-04-27",
    "descripcion": "BONO PROV. NEUQUEN REGS 7,5% 2",
@@ -8071,14 +8142,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "XS0501195647",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "SE31D": {
-   "vto": "2031-03-15",
-   "descripcion": "BONO CONV.SDE DEC.458/21 V15/0",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARSTGO320016",
    "grupo": "TITULOSPUBLICOS"
   },
   "T30A7": {
@@ -8169,52 +8232,52 @@
    "isin": "XS2385150334",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BB7DY": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+  "GE41D": {
+   "vto": "2041-07-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385151738",
+   "isin": "XS2177365363",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BB7DZ": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+  "GE38": {
+   "vto": "2038-01-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385151738",
+   "isin": "XS2177365017",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BB7DX": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+  "GE41X": {
+   "vto": "2041-07-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385151738",
+   "isin": "XS2177365363",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BA7DX": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+  "GE41Y": {
+   "vto": "2041-07-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385150334",
+   "isin": "XS2177365363",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BA7DZ": {
-   "vto": "2037-09-01",
-   "descripcion": "BONO PCIA BS AS REGS NEW U$S 2",
+  "GE41Z": {
+   "vto": "2041-07-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2385150334",
+   "isin": "XS2177365363",
    "grupo": "TITULOSPUBLICOS"
   },
-  "CA31": {
-   "vto": "2031-03-17",
-   "descripcion": "BONO CONV.CATAM.DEC.458/21 V15",
+  "GE38C": {
+   "vto": "2038-01-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
    "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARPCAT320019",
+   "estado": "0",
+   "isin": "XS2177365017",
    "grupo": "TITULOSPUBLICOS"
   },
   "GE38D": {
@@ -8281,22 +8344,6 @@
    "isin": "US040114HS26",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD30Z": {
-   "vto": "2030-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HS26",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GD35": {
-   "vto": "2035-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HT09",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "BC28X": {
    "vto": "2028-02-22",
    "descripcion": "T.D.PUB.CIUD.DE BS.AS.V 22/2/2",
@@ -8311,6 +8358,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "ARCBAS3201J5",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "AL30": {
+   "vto": "2030-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE3209S6",
    "grupo": "TITULOSPUBLICOS"
   },
   "BC28Z": {
@@ -8329,54 +8384,6 @@
    "isin": "ARPMIS320010",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL30": {
-   "vto": "2030-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE3209S6",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "AL30C": {
-   "vto": "2030-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE3209S6",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GD35D": {
-   "vto": "2035-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HT09",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GD35C": {
-   "vto": "2035-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HT09",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GD35X": {
-   "vto": "2035-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HT09",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GD35Y": {
-   "vto": "2035-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "US040114HT09",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "PAY5": {
    "vto": "2038-12-31",
    "descripcion": "B.REP.ARG. PARS CJE2005 USD VT",
@@ -8385,12 +8392,12 @@
    "isin": "XS0501195720",
    "grupo": "TITULOSPUBLICOS"
   },
-  "RNC21": {
-   "vto": "2029-03-29",
-   "descripcion": "BONO GAR. RIO NEGRO CL.2 S.1 $",
+  "AL30C": {
+   "vto": "2030-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARPRNG3200V8",
+   "estado": "0",
+   "isin": "ARARGE3209S6",
    "grupo": "TITULOSPUBLICOS"
   },
   "AL30D": {
@@ -8417,20 +8424,44 @@
    "isin": "ARARGE3209S6",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL30Z": {
+  "GD30Z": {
    "vto": "2030-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209S6",
+   "isin": "US040114HS26",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL35": {
+  "GD35": {
    "vto": "2035-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209T4",
+   "isin": "US040114HT09",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "GD35D": {
+   "vto": "2035-07-09",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "US040114HT09",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "GD35C": {
+   "vto": "2035-07-09",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "US040114HT09",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "RNC21": {
+   "vto": "2029-03-29",
+   "descripcion": "BONO GAR. RIO NEGRO CL.2 S.1 $",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARPRNG3200V8",
    "grupo": "TITULOSPUBLICOS"
   },
   "RC21D": {
@@ -8449,12 +8480,20 @@
    "isin": "ARPRNG3200V8",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TUCS4": {
-   "vto": "2028-09-01",
-   "descripcion": "BONOS CONSADEP TUCUMAN 4 SERIE",
+  "AL30Z": {
+   "vto": "2030-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARMHAT320025",
+   "estado": "0",
+   "isin": "ARARGE3209S6",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "AL35": {
+   "vto": "2035-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE3209T4",
    "grupo": "TITULOSPUBLICOS"
   },
   "AL35C": {
@@ -8473,20 +8512,20 @@
    "isin": "ARARGE3209T4",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL35X": {
+  "GD35X": {
    "vto": "2035-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209T4",
+   "isin": "US040114HT09",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL35Y": {
+  "GD35Y": {
    "vto": "2035-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209T4",
+   "isin": "US040114HT09",
    "grupo": "TITULOSPUBLICOS"
   },
   "GD35Z": {
@@ -8513,12 +8552,28 @@
    "isin": "US040114HU71",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD38C": {
-   "vto": "2038-01-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+  "TUCS4": {
+   "vto": "2028-09-01",
+   "descripcion": "BONOS CONSADEP TUCUMAN 4 SERIE",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARMHAT320025",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "AL35X": {
+   "vto": "2035-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "US040114HU71",
+   "isin": "ARARGE3209T4",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "AL35Y": {
+   "vto": "2035-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE3209T4",
    "grupo": "TITULOSPUBLICOS"
   },
   "AL35Z": {
@@ -8545,12 +8600,12 @@
    "isin": "ARARGE3209U2",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AE38D": {
+  "GD38C": {
    "vto": "2038-01-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209U2",
+   "isin": "US040114HU71",
    "grupo": "TITULOSPUBLICOS"
   },
   "GD38X": {
@@ -8585,12 +8640,12 @@
    "isin": "US040114HV54",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD41D": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+  "AE38D": {
+   "vto": "2038-01-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "US040114HV54",
+   "isin": "ARARGE3209U2",
    "grupo": "TITULOSPUBLICOS"
   },
   "AE38X": {
@@ -8625,12 +8680,12 @@
    "isin": "ARARGE3209Y4",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL29C": {
-   "vto": "2029-07-09",
-   "descripcion": "BONO REP ARGENTINA USD 1% 2029",
+  "GD41D": {
+   "vto": "2041-07-09",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209Y4",
+   "isin": "US040114HV54",
    "grupo": "TITULOSPUBLICOS"
   },
   "GD41C": {
@@ -8665,44 +8720,12 @@
    "isin": "US040114HX11",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD41Y": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+  "AL29C": {
+   "vto": "2029-07-09",
+   "descripcion": "BONO REP ARGENTINA USD 1% 2029",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "US040114HV54",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPOA8": {
-   "vto": "2028-10-31",
-   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0029227748",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPA8X": {
-   "vto": "2028-10-31",
-   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0029227748",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPA8D": {
-   "vto": "2028-10-31",
-   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0029227748",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPA8Y": {
-   "vto": "2028-10-31",
-   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0029227748",
+   "isin": "ARARGE3209Y4",
    "grupo": "TITULOSPUBLICOS"
   },
   "AL29X": {
@@ -8737,12 +8760,12 @@
    "isin": "ARARGE3209Y4",
    "grupo": "TITULOSPUBLICOS"
   },
-  "AL41": {
+  "GD41Y": {
    "vto": "2041-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209V0",
+   "isin": "US040114HV54",
    "grupo": "TITULOSPUBLICOS"
   },
   "GD46C": {
@@ -8775,6 +8798,38 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "US040114HW38",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPOA8": {
+   "vto": "2028-10-31",
+   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0029227748",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPA8X": {
+   "vto": "2028-10-31",
+   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0029227748",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPA8D": {
+   "vto": "2028-10-31",
+   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0029227748",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPA8Y": {
+   "vto": "2028-10-31",
+   "descripcion": "BOPREAL 4A VTO31/10/28 U$S CG",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0029227748",
    "grupo": "TITULOSPUBLICOS"
   },
   "BPA8C": {
@@ -8833,12 +8888,12 @@
    "isin": "AR0868821510",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BPB8Z": {
-   "vto": "2028-10-31",
-   "descripcion": "BOPREAL 4B VTO31/10/28 U$S CG",
+  "AL41": {
+   "vto": "2041-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "AR0868821510",
+   "isin": "ARARGE3209V0",
    "grupo": "TITULOSPUBLICOS"
   },
   "AL41C": {
@@ -8858,22 +8913,6 @@
    "grupo": "TITULOSPUBLICOS"
   },
   "AL41X": {
-   "vto": "2041-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE3209V0",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "AL41Y": {
-   "vto": "2041-07-09",
-   "descripcion": "BONO REP. ARGENTINA USD STEP U",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE3209V0",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "AL41Z": {
    "vto": "2041-07-09",
    "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
@@ -8913,20 +8952,28 @@
    "isin": "US040114HX11",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD46Y": {
-   "vto": "2046-07-09",
-   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
+  "BPB8Z": {
+   "vto": "2028-10-31",
+   "descripcion": "BOPREAL 4B VTO31/10/28 U$S CG",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "US040114HW38",
+   "isin": "AR0868821510",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GD29Z": {
-   "vto": "2029-07-09",
-   "descripcion": "BONOS REP. ARG. U$S 1% STEP UP",
+  "AL41Y": {
+   "vto": "2041-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "US040114HX11",
+   "isin": "ARARGE3209V0",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "AL41Z": {
+   "vto": "2041-07-09",
+   "descripcion": "BONO REP. ARGENTINA USD STEP U",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE3209V0",
    "grupo": "TITULOSPUBLICOS"
   },
   "TX28": {
@@ -8953,20 +9000,20 @@
    "isin": "ARARGE3209X6",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TX28X": {
-   "vto": "2028-11-09",
-   "descripcion": "BONCER 2.25% $ 2028",
+  "GD46Y": {
+   "vto": "2046-07-09",
+   "descripcion": "BONOS REP. ARG. U$S STEP UP V.",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209X6",
+   "isin": "US040114HW38",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TX28Y": {
-   "vto": "2028-11-09",
-   "descripcion": "BONCER 2.25% $ 2028",
+  "GD29Z": {
+   "vto": "2029-07-09",
+   "descripcion": "BONOS REP. ARG. U$S 1% STEP UP",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE3209X6",
+   "isin": "US040114HX11",
    "grupo": "TITULOSPUBLICOS"
   },
   "GD46Z": {
@@ -8993,12 +9040,20 @@
    "isin": "XS2200244072",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GE29D": {
-   "vto": "2029-07-09",
-   "descripcion": "BONOS REP.ARG EUR 0,5% STEP UP",
+  "TX28X": {
+   "vto": "2028-11-09",
+   "descripcion": "BONCER 2.25% $ 2028",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2200244072",
+   "isin": "ARARGE3209X6",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TX28Y": {
+   "vto": "2028-11-09",
+   "descripcion": "BONCER 2.25% $ 2028",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE3209X6",
    "grupo": "TITULOSPUBLICOS"
   },
   "TX28Z": {
@@ -9025,12 +9080,12 @@
    "isin": "XS2177363665",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GE30C": {
-   "vto": "2030-07-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
+  "GE29D": {
+   "vto": "2029-07-09",
+   "descripcion": "BONOS REP.ARG EUR 0,5% STEP UP",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "XS2177363665",
+   "isin": "XS2200244072",
    "grupo": "TITULOSPUBLICOS"
   },
   "GE29X": {
@@ -9073,6 +9128,14 @@
    "isin": "USP7169GAA78",
    "grupo": "TITULOSPUBLICOS"
   },
+  "GE30C": {
+   "vto": "2030-07-09",
+   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS2177363665",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "GE30X": {
    "vto": "2030-07-09",
    "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
@@ -9105,6 +9168,14 @@
    "isin": "XS2177365520",
    "grupo": "TITULOSPUBLICOS"
   },
+  "PMM29": {
+   "vto": "2029-11-19",
+   "descripcion": "BONO PCIA.MENDOZA REGS 2.75% V",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "USP6480JAH07",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "GE35": {
    "vto": "2035-07-09",
    "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
@@ -9119,14 +9190,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "XS2177365520",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM29": {
-   "vto": "2029-11-19",
-   "descripcion": "BONO PCIA.MENDOZA REGS 2.75% V",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP6480JAH07",
    "grupo": "TITULOSPUBLICOS"
   },
   "GE46D": {
@@ -9217,86 +9280,6 @@
    "isin": "XS2177365363",
    "grupo": "TITULOSPUBLICOS"
   },
-  "GE38": {
-   "vto": "2038-01-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365017",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GE41D": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365363",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GE41X": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365363",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GE41Y": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365363",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GE41Z": {
-   "vto": "2041-07-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365363",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "GE38C": {
-   "vto": "2038-01-09",
-   "descripcion": "BONOS REP. ARG. EUR STEP UP V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS2177365017",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPC7D": {
-   "vto": "2027-10-31",
-   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0763285209",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPC7C": {
-   "vto": "2027-10-31",
-   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0763285209",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPC7X": {
-   "vto": "2027-10-31",
-   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0763285209",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "BPC7Y": {
-   "vto": "2027-10-31",
-   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0763285209",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "BPC7Z": {
    "vto": "2027-10-31",
    "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
@@ -9353,36 +9336,44 @@
    "isin": "AR0314171247",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TZX8Z": {
-   "vto": "2028-06-30",
-   "descripcion": "BONO REP ARG AJ CER V30/06/28",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0404416296",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TZX8C": {
-   "vto": "2028-06-30",
-   "descripcion": "BONO REP ARG AJ CER V30/06/28",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0404416296",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TZX28": {
-   "vto": "2028-06-30",
-   "descripcion": "BONO REP ARG AJ CER V30/06/28",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0404416296",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TZX8D": {
    "vto": "2028-06-30",
    "descripcion": "BONO REP ARG AJ CER V30/06/28",
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZX8X": {
+   "vto": "2028-06-30",
+   "descripcion": "BONO REP ARG AJ CER V30/06/28",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZX8Y": {
+   "vto": "2028-06-30",
+   "descripcion": "BONO REP ARG AJ CER V30/06/28",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXD6Z": {
+   "vto": "2026-12-15",
+   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0465304779",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TXD6C": {
+   "vto": "2026-12-15",
+   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0465304779",
    "grupo": "TITULOSPUBLICOS"
   },
   "TZX7Z": {
@@ -9425,6 +9416,30 @@
    "isin": "AR0487777218",
    "grupo": "TITULOSPUBLICOS"
   },
+  "TZX8Z": {
+   "vto": "2028-06-30",
+   "descripcion": "BONO REP ARG AJ CER V30/06/28",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZX8C": {
+   "vto": "2028-06-30",
+   "descripcion": "BONO REP ARG AJ CER V30/06/28",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZX28": {
+   "vto": "2028-06-30",
+   "descripcion": "BONO REP ARG AJ CER V30/06/28",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0404416296",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "BPOA7": {
    "vto": "2027-10-31",
    "descripcion": "BOPREAL S. 1 A VTO31/10/27 U$S",
@@ -9449,38 +9464,6 @@
    "isin": "AR0684877571",
    "grupo": "TITULOSPUBLICOS"
   },
-  "BPA7X": {
-   "vto": "2027-10-31",
-   "descripcion": "BOPREAL S. 1 A VTO31/10/27 U$S",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0684877571",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY7C": {
-   "vto": "2027-05-31",
-   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0571277315",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY7Z": {
-   "vto": "2027-05-31",
-   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0571277315",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY7D": {
-   "vto": "2027-05-31",
-   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0571277315",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TU27Y": {
    "vto": "2027-04-17",
    "descripcion": "BONO TRRA D FGO REGS USD 8,95%",
@@ -9495,6 +9478,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "USP7169GAA78",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPA7X": {
+   "vto": "2027-10-31",
+   "descripcion": "BOPREAL S. 1 A VTO31/10/27 U$S",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0684877571",
    "grupo": "TITULOSPUBLICOS"
   },
   "BPA7Y": {
@@ -9527,6 +9518,22 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0772251226",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY7Z": {
+   "vto": "2027-05-31",
+   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0571277315",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY7D": {
+   "vto": "2027-05-31",
+   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0571277315",
    "grupo": "TITULOSPUBLICOS"
   },
   "TY7X": {
@@ -9585,22 +9592,6 @@
    "isin": "AR0286465007",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TXY7Y": {
-   "vto": "2027-05-31",
-   "descripcion": "BONO TESORO NACIONAL CERO CUPO",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0286465007",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TZXY7": {
-   "vto": "2027-05-31",
-   "descripcion": "BONO TESORO NACIONAL CERO CUPO",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0286465007",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "RI27C": {
    "vto": "2027-01-20",
    "descripcion": "TD BONO P. LA RIOJA CL1 V20/01",
@@ -9649,12 +9640,52 @@
    "isin": "AR0763285209",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TD26C": {
-   "vto": "2026-12-22",
-   "descripcion": "BONO T.N REP.ARGENTINA V.22/12",
+  "TXY7Y": {
+   "vto": "2027-05-31",
+   "descripcion": "BONO TESORO NACIONAL CERO CUPO",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "ARARGE320BG5",
+   "isin": "AR0286465007",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZXY7": {
+   "vto": "2027-05-31",
+   "descripcion": "BONO TESORO NACIONAL CERO CUPO",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0286465007",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPC7D": {
+   "vto": "2027-10-31",
+   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0763285209",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPC7C": {
+   "vto": "2027-10-31",
+   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0763285209",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPC7X": {
+   "vto": "2027-10-31",
+   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0763285209",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "BPC7Y": {
+   "vto": "2027-10-31",
+   "descripcion": "BOPREAL S. 1 C VTO31/10/27 U$S",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0763285209",
    "grupo": "TITULOSPUBLICOS"
   },
   "TD26D": {
@@ -9689,20 +9720,28 @@
    "isin": "USP6480JAH07",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TX31X": {
-   "vto": "2031-11-30",
-   "descripcion": "BONO TESORO $ AJ CER 2,50%  V.",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE320CX8",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "PM29X": {
    "vto": "2029-11-19",
    "descripcion": "BONO PCIA.MENDOZA REGS 2.75% V",
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "USP6480JAH07",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "JUS2D": {
+   "vto": "2027-03-20",
+   "descripcion": "BONO PCIA. JUJUY REGS 8,625% 2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "XS1686882298",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TX31X": {
+   "vto": "2031-11-30",
+   "descripcion": "BONO TESORO $ AJ CER 2,50%  V.",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE320CX8",
    "grupo": "TITULOSPUBLICOS"
   },
   "TX31": {
@@ -9721,20 +9760,20 @@
    "isin": "ARARGE320CX8",
    "grupo": "TITULOSPUBLICOS"
   },
-  "JUS2D": {
-   "vto": "2027-03-20",
-   "descripcion": "BONO PCIA. JUJUY REGS 8,625% 2",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "XS1686882298",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TX31C": {
    "vto": "2031-11-30",
    "descripcion": "BONO TESORO $ AJ CER 2,50%  V.",
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "ARARGE320CX8",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY7C": {
+   "vto": "2027-05-31",
+   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0571277315",
    "grupo": "TITULOSPUBLICOS"
   },
   "TZXA7": {
@@ -9849,20 +9888,20 @@
    "isin": "ARARGE320D33",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TB27D": {
-   "vto": "2027-11-23",
-   "descripcion": "BONTE BADLAR 0,70 V23/11/27 $",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "ARARGE320D33",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "PM29Y": {
    "vto": "2029-11-19",
    "descripcion": "BONO PCIA.MENDOZA REGS 2.75% V",
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "USP6480JAH07",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TB27D": {
+   "vto": "2027-11-23",
+   "descripcion": "BONTE BADLAR 0,70 V23/11/27 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE320D33",
    "grupo": "TITULOSPUBLICOS"
   },
   "BT02": {
@@ -9889,7 +9928,23 @@
    "isin": "ARARGE320BG5",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TJ7X": {
+  "TD26C": {
+   "vto": "2026-12-22",
+   "descripcion": "BONO T.N REP.ARGENTINA V.22/12",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "ARARGE320BG5",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TJ7C": {
+   "vto": "2027-06-30",
+   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0987861058",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TJ7Z": {
    "vto": "2027-06-30",
    "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
    "renta": "01-FIJA",
@@ -9905,23 +9960,15 @@
    "isin": "AR0987861058",
    "grupo": "TITULOSPUBLICOS"
   },
+  "TJ7X": {
+   "vto": "2027-06-30",
+   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0987861058",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "TJ7Y": {
-   "vto": "2027-06-30",
-   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0987861058",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TJ7C": {
-   "vto": "2027-06-30",
-   "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0987861058",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TJ7Z": {
    "vto": "2027-06-30",
    "descripcion": "BONO TESORO NACIONAL CAPITALIZ",
    "renta": "01-FIJA",
@@ -9943,46 +9990,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "ARARGE03E121",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "CT31": {
-   "vto": "2031-03-15",
-   "descripcion": "BONO CONV CORRIENTES D458/21 V",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARPCRR320012",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM27": {
-   "vto": "2027-03-14",
-   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0970492929",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM7D": {
-   "vto": "2027-03-14",
-   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0970492929",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM7C": {
-   "vto": "2027-03-14",
-   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0970492929",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM7Z": {
-   "vto": "2027-03-14",
-   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0970492929",
    "grupo": "TITULOSPUBLICOS"
   },
   "TD26X": {
@@ -10009,6 +10016,22 @@
    "isin": "ARARGE320BG5",
    "grupo": "TITULOSPUBLICOS"
   },
+  "PMM7C": {
+   "vto": "2027-03-14",
+   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0970492929",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PMM7Z": {
+   "vto": "2027-03-14",
+   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0970492929",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "PMM7X": {
    "vto": "2027-03-14",
    "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
@@ -10023,14 +10046,6 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0970492929",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "PMM31": {
-   "vto": "2031-03-15",
-   "descripcion": "BONO CONV.MEND. DEC.458/21 V15",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARPMZA320100",
    "grupo": "TITULOSPUBLICOS"
   },
   "SE31": {
@@ -10063,6 +10078,22 @@
    "renta": "01-FIJA",
    "estado": "1",
    "isin": "ARPRNG3201A0",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TF31": {
+   "vto": "2031-03-17",
+   "descripcion": "BONO CONV P.T.FUEGO D458/21 V1",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARDELF320022",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PMM31": {
+   "vto": "2031-03-15",
+   "descripcion": "BONO CONV.MEND. DEC.458/21 V15",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARPMZA320100",
    "grupo": "TITULOSPUBLICOS"
   },
   "PM31D": {
@@ -10113,22 +10144,6 @@
    "isin": "ARPBUE320B46",
    "grupo": "TITULOSPUBLICOS"
   },
-  "ER31": {
-   "vto": "2031-03-17",
-   "descripcion": "BONO CONV. E.RIOS 458/21 V15/0",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARPENR320279",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TF31": {
-   "vto": "2031-03-17",
-   "descripcion": "BONO CONV P.T.FUEGO D458/21 V1",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "ARDELF320022",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "SJ31": {
    "vto": "2031-03-15",
    "descripcion": "BONO CONV P.SANJUAN D458/21 V1",
@@ -10175,6 +10190,14 @@
    "renta": "01-FIJA",
    "estado": "1",
    "isin": "ARPCHU3203L8",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "ER31": {
+   "vto": "2031-03-17",
+   "descripcion": "BONO CONV. E.RIOS 458/21 V15/0",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARPENR320279",
    "grupo": "TITULOSPUBLICOS"
   },
   "JUM31": {
@@ -10273,6 +10296,14 @@
    "isin": "USP91528AA03",
    "grupo": "TITULOSPUBLICOS"
   },
+  "TU27Z": {
+   "vto": "2027-04-17",
+   "descripcion": "BONO TRRA D FGO REGS USD 8,95%",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "USP91528AA03",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "PBN9C": {
    "vto": "2029-11-18",
    "descripcion": "TD PCIA BS AS U$S VTO.18/11/29",
@@ -10303,14 +10334,6 @@
    "renta": "01-FIJA",
    "estado": "1",
    "isin": "ARPBUE320AR7",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TU27Z": {
-   "vto": "2027-04-17",
-   "descripcion": "BONO TRRA D FGO REGS USD 8,95%",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "USP91528AA03",
    "grupo": "TITULOSPUBLICOS"
   },
   "RIE27": {
@@ -10433,46 +10456,6 @@
    "isin": "AR0465885959",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TZX8X": {
-   "vto": "2028-06-30",
-   "descripcion": "BONO REP ARG AJ CER V30/06/28",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0404416296",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TZX8Y": {
-   "vto": "2028-06-30",
-   "descripcion": "BONO REP ARG AJ CER V30/06/28",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0404416296",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXD6Z": {
-   "vto": "2026-12-15",
-   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0465304779",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TXD6C": {
-   "vto": "2026-12-15",
-   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0465304779",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TZXD6": {
-   "vto": "2026-12-15",
-   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0465304779",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "TXM7D": {
    "vto": "2027-03-31",
    "descripcion": "BONO TESORO NAC AJ CER V31/03/",
@@ -10495,6 +10478,14 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0465885959",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TZXD6": {
+   "vto": "2026-12-15",
+   "descripcion": "BONTES $ A DESC AJ CER V15/12/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0465304779",
    "grupo": "TITULOSPUBLICOS"
   },
   "TXD6D": {
@@ -10585,6 +10576,30 @@
    "isin": "ARCBAS3202C8",
    "grupo": "TITULOSPUBLICOS"
   },
+  "PMM27": {
+   "vto": "2027-03-14",
+   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0970492929",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "PMM7D": {
+   "vto": "2027-03-14",
+   "descripcion": "TD PCIA MDZA CL.2 AJ CER V/14/",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0970492929",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "CT31": {
+   "vto": "2031-03-15",
+   "descripcion": "BONO CONV CORRIENTES D458/21 V",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "ARPCRR320012",
+   "grupo": "TITULOSPUBLICOS"
+  },
   "PMD6X": {
    "vto": "2027-12-20",
    "descripcion": "TD PCIA MDZA TAMAR CL.2  V.20/",
@@ -10657,30 +10672,6 @@
    "isin": "USP79171AH01",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TTD6X": {
-   "vto": "2026-12-15",
-   "descripcion": "BONO NACION TASA DUAL 15/12/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0021930364",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TTD6Y": {
-   "vto": "2026-12-15",
-   "descripcion": "BONO NACION TASA DUAL 15/12/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0021930364",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TTD6Z": {
-   "vto": "2026-12-15",
-   "descripcion": "BONO NACION TASA DUAL 15/12/26",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0021930364",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "SFN7X": {
    "vto": "2027-11-25",
    "descripcion": "BONO INF VIAL PCIA DE SANTA FE",
@@ -10729,14 +10720,6 @@
    "isin": "AR0465108931",
    "grupo": "TITULOSPUBLICOS"
   },
-  "T15E7": {
-   "vto": "2027-01-15",
-   "descripcion": "BONO TESORO NAC CAP V.15/01/27",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0350916307",
-   "grupo": "TITULOSPUBLICOS"
-  },
   "COD7C": {
    "vto": "2027-12-05",
    "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
@@ -10745,28 +10728,12 @@
    "isin": "AR0465108931",
    "grupo": "TITULOSPUBLICOS"
   },
-  "COD7X": {
-   "vto": "2027-12-05",
-   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
+  "T15E7": {
+   "vto": "2027-01-15",
+   "descripcion": "BONO TESORO NAC CAP V.15/01/27",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "AR0465108931",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "COD7Y": {
-   "vto": "2027-12-05",
-   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0465108931",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "COD7Z": {
-   "vto": "2027-12-05",
-   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
-   "renta": "01-FIJA",
-   "estado": "1",
-   "isin": "AR0465108931",
+   "isin": "AR0350916307",
    "grupo": "TITULOSPUBLICOS"
   },
   "TE7X": {
@@ -10807,6 +10774,30 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0350916307",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "COD7X": {
+   "vto": "2027-12-05",
+   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0465108931",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "COD7Y": {
+   "vto": "2027-12-05",
+   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "AR0465108931",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "COD7Z": {
+   "vto": "2027-12-05",
+   "descripcion": "TD PCIA CORDOBA CL.4  V05/12/2",
+   "renta": "01-FIJA",
+   "estado": "1",
+   "isin": "AR0465108931",
    "grupo": "TITULOSPUBLICOS"
   },
   "S24DX": {
@@ -10913,52 +10904,28 @@
    "isin": "AR0021930364",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TY30C": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+  "TTD6X": {
+   "vto": "2026-12-15",
+   "descripcion": "BONO NACION TASA DUAL 15/12/26",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "AR0193433734",
+   "isin": "AR0021930364",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TY30Z": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+  "TTD6Y": {
+   "vto": "2026-12-15",
+   "descripcion": "BONO NACION TASA DUAL 15/12/26",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "AR0193433734",
+   "isin": "AR0021930364",
    "grupo": "TITULOSPUBLICOS"
   },
-  "TY30P": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+  "TTD6Z": {
+   "vto": "2026-12-15",
+   "descripcion": "BONO NACION TASA DUAL 15/12/26",
    "renta": "01-FIJA",
    "estado": "0",
-   "isin": "AR0193433734",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY30D": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0193433734",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY30X": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0193433734",
-   "grupo": "TITULOSPUBLICOS"
-  },
-  "TY30Y": {
-   "vto": "2030-05-30",
-   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
-   "renta": "01-FIJA",
-   "estado": "0",
-   "isin": "AR0193433734",
+   "isin": "AR0021930364",
    "grupo": "TITULOSPUBLICOS"
   },
   "CO32": {
@@ -11039,6 +11006,54 @@
    "renta": "01-FIJA",
    "estado": "0",
    "isin": "AR0816184250",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30P": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30X": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30D": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30Y": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30C": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
+   "grupo": "TITULOSPUBLICOS"
+  },
+  "TY30Z": {
+   "vto": "2030-05-30",
+   "descripcion": "BONO TES NAC TF V.30/05/2030 $",
+   "renta": "01-FIJA",
+   "estado": "0",
+   "isin": "AR0193433734",
    "grupo": "TITULOSPUBLICOS"
   }
  },
